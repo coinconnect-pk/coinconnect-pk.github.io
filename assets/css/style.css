@@ -203,7 +203,9 @@ h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 700; color: #fff
   gap: 24px; flex-wrap: wrap;
 }
 .cc-logo { display: flex; align-items: center; gap: 12px; }
-.cc-logo-mark { width: 40px; height: 26px; flex: none; }
+/* Real CoinConnect mark. Intrinsic ratio is 480:292, so height is derived
+   rather than fixed -- prevents any squash if the asset is ever replaced. */
+.cc-logo-mark { width: 46px; height: auto; flex: none; display: block; }
 .cc-logo-text {
   font-family: var(--font-display);
   font-size: 20px; font-weight: 700; color: #fff;
