@@ -1,8 +1,8 @@
 # The publishing queue
 
-This folder holds finished articles waiting to publish. **One is released every morning at 06:00 PKT**, lowest number first.
+This folder holds finished articles waiting to go out. **Two are released per day** — 06:00 and 18:00 PKT — lowest number first.
 
-This is the core difference from the Sarzif build. Sarzif calls a model API from GitHub Actions to write each article on the day. This blog cannot do that — a Claude Pro subscription cannot be called from CI. So articles are **written in advance, in batches, and banked here.**
+This is the core difference from the Sarzif build. Sarzif generates each article on the day via an API. This blog cannot do that — a Claude Pro subscription cannot be called from CI. So articles are **written in advance, in batches, and banked here.**
 
 ## Naming
 
@@ -29,10 +29,10 @@ Rename the files. `007-` becomes `002-` and it jumps the queue. Order is purely 
 
 ## Refilling
 
-The publisher prints a warning in the Actions log when **seven or fewer** articles remain. That is the signal to run a new generation batch.
+The publisher prints a warning in the Actions log when **fourteen or fewer** articles remain — about a week's worth at two a day. That is the signal to write a new batch.
 
-If the queue empties completely, nothing publishes and the run logs `QUEUE EMPTY`. It does not fail loudly, and it does not publish anything half-finished — it just stops until you refill it.
+If the queue empties completely, nothing goes out and the run logs `QUEUE EMPTY`. It does not fail loudly, and it does not put out anything half-finished — it just stops until you refill it.
 
 ## Editing a queued article
 
-Just edit the file here on GitHub and commit. It has not published yet, so there is no correction notice needed and no URL to break.
+Just edit the file here on GitHub and commit. It has not gone out yet, so there is no correction notice needed and no URL to break.

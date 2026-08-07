@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-<header class="page-header">
-  <div class="wrap reading">
+<header class="cc-page-header cc-mesh">
+  <div class="cc-container cc-reading">
     <h1>{{ page.title }}</h1>
     {%- if page.description %}
-    <p class="lede" style="color:var(--text-dim);margin-top:0.8rem;">{{ page.description }}</p>
+    <p class="cc-lede" style="margin-top:14px;margin-bottom:0;">{{ page.description }}</p>
     {%- endif %}
   </div>
 </header>
-<div class="page-body">
-  <div class="wrap reading">
+<div class="cc-page-body">
+  <div class="cc-container cc-reading">
     {{ content }}
   </div>
 </div>

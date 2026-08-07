@@ -2,7 +2,7 @@
 
 **Malik — this is for you. No software to install. Everything happens in your web browser.**
 
-The blog publishes one article every morning at 6:00am Pakistan time, on its own. You do not need to do anything for that to happen.
+The blog puts out two articles a day on its own — one at 6:00am and one at 6:00pm Pakistan time. You do not need to do anything for that to happen.
 
 This page is for the days when you want to publish **your own** article instead — a reaction to news, a take you want out that day, something tied to a meeting.
 
@@ -10,9 +10,9 @@ This page is for the days when you want to publish **your own** article instead 
 
 ## The short version
 
-You put your article in a folder named after the date you want it to appear. That morning, the blog publishes yours instead of the queued one.
+You put your article in a folder named after the date you want it to appear. On that day, yours goes out in the first slot instead of a queued one.
 
-**Nothing is lost.** The article that was queued for that day simply moves to the next day. The queue never skips and never burns a slot.
+**Nothing is lost.** The queued article simply keeps its place and goes out next. The queue never skips and never burns a slot.
 
 ---
 
@@ -84,18 +84,18 @@ Leave a blank line between paragraphs.
 
 Scroll to the bottom. Click the green **`Commit changes`** button, then **`Commit changes`** again in the box that appears.
 
-**That is it.** The article publishes on the morning of the date you chose.
+**That is it.** The article goes out on the date you chose.
 
 ---
 
 ## Do it before 6:00am
 
-The blog checks for your article at 6:00am Pakistan time. Add it any time before then — the night before is safest.
+The first slot of the day is 6:00am Pakistan time. Add your article any time before then — the night before is safest.
 
 **Missed the deadline, or want it live right now?**
 
 1. Click the **`Actions`** tab at the top of the repository
-2. Click **`Daily article`** in the left-hand list
+2. Click **`Publish article`** in the left-hand list
 3. Click **`Run workflow`** on the right
 4. Tick **`force`**
 5. Click the green **`Run workflow`**
@@ -204,7 +204,7 @@ Nothing here is legal, tax or investment advice.
 | "SARZIF COLLISION" in the log | Your headline uses a regulatory keyword. Rewrite the title around the commercial angle |
 | "description is N chars" | Your description is outside 120–165 characters. Count it and adjust |
 | Page looks broken | A `---` line is missing or has spaces around it. Exactly three dashes, on their own line |
-| Two articles published | You added an override *and* ran the workflow with `force` ticked |
+| An extra article appeared | You added a manual article *and* ran the workflow with `force` ticked |
 
 ---
 

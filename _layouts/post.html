@@ -2,16 +2,16 @@
 layout: default
 ---
 <article>
-  <header class="post-header">
-    <div class="wrap reading">
+  <header class="cc-post-header cc-mesh">
+    <div class="cc-container cc-reading">
       {%- if page.categories.size > 0 %}
-      <span class="tag">{{ page.categories | first }}</span>
+      <span class="cc-tag">{{ page.categories | first }}</span>
       {%- endif %}
       <h1>{{ page.title }}</h1>
       {%- if page.description %}
-      <p class="lede">{{ page.description }}</p>
+      <p class="cc-lede">{{ page.description }}</p>
       {%- endif %}
-      <div class="byline">
+      <div class="cc-byline">
         <strong>{{ page.author | default: site.author.name }}</strong>
         <span>&middot;</span>
         <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
@@ -21,29 +21,34 @@ layout: default
     </div>
   </header>
 
-  <div class="post-body">
-    <div class="wrap reading">
+  <div class="cc-post-body">
+    <div class="cc-container cc-reading">
       {{ content }}
 
-      <div class="cta-box">
-        <h3>Entering Pakistan's crypto market?</h3>
-        <p>CoinConnect handles market entry, partnerships, PR and launch for exchanges and Web3 companies moving into Pakistan and South Asia.</p>
-        <a class="btn" href="{{ site.parent.url }}">Visit CoinConnect</a>
+      <div class="cc-cta-box cc-glass-strong">
+        <div class="cc-cta-inner">
+          <h3>Entering Pakistan's crypto market?</h3>
+          <p>CoinConnect handles market entry, partnerships, PR and launch for exchanges and Web3 companies moving into Pakistan and South Asia.</p>
+          <a class="cc-btn-primary" href="{{ site.parent.url }}">
+            Visit CoinConnect
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+          </a>
+        </div>
       </div>
     </div>
   </div>
 
-  <div class="wrap reading" style="padding-bottom:3rem;">
+  <div class="cc-container cc-reading" style="padding-bottom:56px;">
     {%- assign more = site.posts | where_exp: "p", "p.url != page.url" | slice: 0, 3 %}
     {%- if more.size > 0 %}
-    <h2 style="font-size:1.3rem;margin-bottom:1.25rem;">More analysis</h2>
-    <div class="post-grid">
+    <h2 style="font-family:var(--font-display);font-size:22px;margin-bottom:20px;">More analysis</h2>
+    <div class="cc-post-grid">
       {%- for p in more %}
-      <div class="post-card">
-        {%- if p.categories.size > 0 %}<span class="tag">{{ p.categories | first }}</span>{%- endif %}
+      <article class="cc-post-card cc-glass cc-card-hover">
+        {%- if p.categories.size > 0 %}<span class="cc-tag">{{ p.categories | first }}</span>{%- endif %}
         <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
-        <div class="post-meta"><time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%-d %b %Y" }}</time></div>
-      </div>
+        <div class="cc-post-meta"><time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%-d %b %Y" }}</time></div>
+      </article>
       {%- endfor %}
     </div>
     {%- endif %}

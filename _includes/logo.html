@@ -1,13 +1,26 @@
-<svg class="logo-mark" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+<svg class="cc-logo-mark" viewBox="0 0 124 76" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
   <defs>
-    <linearGradient id="ccGrad" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#06B6D4"/>
-      <stop offset="50%" stop-color="#8B5CF6"/>
-      <stop offset="100%" stop-color="#3B82F6"/>
+    <linearGradient id="ccPlaneLight" x1="34" y1="40" x2="116" y2="4" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#63D2EC"/>
+      <stop offset="100%" stop-color="#9BE7F7"/>
+    </linearGradient>
+    <linearGradient id="ccPlaneDark" x1="72" y1="70" x2="116" y2="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1F8FAE"/>
+      <stop offset="100%" stop-color="#3FB6D3"/>
+    </linearGradient>
+    <linearGradient id="ccTrail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E3E4A" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#2C9CBB"/>
     </linearGradient>
   </defs>
-  <rect x="1.5" y="1.5" width="45" height="45" rx="12" stroke="url(#ccGrad)" stroke-width="2.5"/>
-  <circle cx="17" cy="24" r="5.5" stroke="url(#ccGrad)" stroke-width="2.5"/>
-  <circle cx="31" cy="24" r="5.5" stroke="url(#ccGrad)" stroke-width="2.5"/>
-  <path d="M22.5 24h3" stroke="url(#ccGrad)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- speed trails -->
+  <rect x="4"  y="21" width="34" height="4.5" rx="2.25" fill="url(#ccTrail)"/>
+  <rect x="12" y="35" width="38" height="4.5" rx="2.25" fill="url(#ccTrail)"/>
+  <rect x="8"  y="49" width="28" height="4.5" rx="2.25" fill="url(#ccTrail)"/>
+
+  <!-- upper wing -->
+  <path d="M118 4 L40 38 L76 36 Z" fill="url(#ccPlaneLight)"/>
+  <!-- body / lower fin -->
+  <path d="M118 4 L76 36 L82 72 Z" fill="url(#ccPlaneDark)"/>
 </svg>

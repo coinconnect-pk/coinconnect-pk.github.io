@@ -1,11 +1,11 @@
-<footer class="footer">
-  <div class="wrap">
-    <div class="footer-grid">
+<footer class="cc-footer">
+  <div class="cc-container">
+    <div class="cc-footer-grid">
       <div>
         <h4>{{ site.title }}</h4>
         <p>{{ site.tagline }}</p>
-        <p style="margin-top:0.9rem;">
-          Published by <a href="{{ site.parent.url }}">{{ site.parent.name }}</a>,
+        <p style="margin-top:14px;">
+          Published by <a href="{{ site.parent.url }}" style="color:var(--accent)">{{ site.parent.name }}</a>,
           {{ site.org.city }}, {{ site.org.country }}.
         </p>
       </div>
@@ -14,23 +14,22 @@
         <ul>
           <li><a href="{{ '/' | relative_url }}">All articles</a></li>
           <li><a href="{{ '/topics/' | relative_url }}">Topics</a></li>
-          <li><a href="{{ '/feed.xml' | relative_url }}">RSS feed</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
         </ul>
       </div>
       <div>
         <h4>CoinConnect</h4>
         <ul>
-          <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+          <li><a href="{{ site.parent.url }}">Main site</a></li>
           <li><a href="{{ '/editorial-policy/' | relative_url }}">Editorial policy</a></li>
           <li><a href="{{ '/privacy/' | relative_url }}">Privacy</a></li>
-          <li><a href="{{ site.parent.url }}">Main site</a></li>
           {%- if site.author.linkedin != "" %}
           <li><a href="{{ site.author.linkedin }}" rel="me">LinkedIn</a></li>
           {%- endif %}
         </ul>
       </div>
     </div>
-    <div class="footer-bottom">
+    <div class="cc-footer-bottom">
       <span>&copy; {{ 'now' | date: "%Y" }} {{ site.parent.name }}. All rights reserved.</span>
       <span>Analysis only. Not legal, tax or investment advice.</span>
     </div>

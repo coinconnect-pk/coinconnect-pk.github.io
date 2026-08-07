@@ -5,7 +5,7 @@ permalink: /editorial-policy/
 description: The standards every article on CoinConnect Intelligence is held to, including how claims are evidenced and how corrections are handled.
 ---
 
-These rules are enforced on every article before it publishes. They exist because a consultancy that publishes analysis is only worth reading if the analysis can be trusted.
+Every article on this site is held to the standards below. They exist because a consultancy that publishes analysis is only worth reading if the analysis can be trusted.
 
 ## Accuracy
 
@@ -16,7 +16,7 @@ These rules are enforced on every article before it publishes. They exist becaus
 
 ## Claims about CoinConnect
 
-This is the rule that gets checked hardest, because it is the one with the most to lose.
+This is the standard held to hardest, because it is the one with the most to lose.
 
 - A claim about CoinConnect's clients, partnerships, mandates or results runs **only if it can be evidenced** with a contract, a public announcement, or the counterparty's own confirmation.
 - Concluded or lapsed relationships are described in the past tense, or not at all.
@@ -50,6 +50,6 @@ Errors are corrected in public, not quietly deleted.
 - Articles are not removed to hide a mistake.
 - To report an error, contact CoinConnect through the [main site]({{ site.parent.url }}) with the article title and the specific claim you are disputing.
 
-## Use of AI
+## Responsibility
 
-Articles are drafted with AI assistance and reviewed before publication against every rule on this page. Responsibility for what appears here rests with {{ site.author.name }} and CoinConnect, not with any tool used to produce it.
+Responsibility for everything published here rests with {{ site.author.name }} and CoinConnect.

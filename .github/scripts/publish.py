@@ -1,25 +1,28 @@
 #!/usr/bin/env python3
 """
-CoinConnect Intelligence — daily article publisher.
+CoinConnect Intelligence — article publisher.
 
-This is a QUEUE publisher, not a generator. Unlike the Sarzif build, nothing
-here calls a model API. Articles are written in advance by Claude in batched
-sessions, committed into _queue/, and released one per day.
+This is a QUEUE publisher, not a generator. Nothing here calls a model API.
+Articles are written in advance in batched sessions, committed into _queue/,
+and released from there.
+
+Two articles are released per day, via two separate runs.
 
 Order of operations each run:
 
-  1. If a post already exists for today, stop (unless FORCE=1).
-  2. Look for a manual article in overrides/<today>/article.md
-     -> if found, publish that and DO NOT consume the queue, so the queued
-        article simply runs the next day instead.
+  1. Stop if the daily limit has already been reached (unless FORCE=1).
+  2. Look for a manual article in overrides/<today>/article.md that has not
+     already been used today -> publish it and DO NOT consume the queue, so
+     the queued article simply moves along one slot.
   3. Otherwise take the lowest-numbered file in _queue/, validate it, stamp
      today's date on it, move it into _posts/, and log it.
 
 Environment:
   DRY_RUN   optional, "1" validates and prints but writes nothing
-  FORCE     optional, "1" publishes even if today already has a post
+  FORCE     optional, "1" publishes even if the daily limit is reached
 """
 
+import csv
 import os
 import re
 import sys
@@ -41,6 +44,9 @@ FORCE = os.environ.get("FORCE") == "1"
 AUTHOR = "Malik Abbas"
 TODAY = datetime.now(PKT)
 TODAY_STR = TODAY.strftime("%Y-%m-%d")
+
+# Two articles a day.
+MAX_POSTS_PER_DAY = 2
 
 MIN_WORDS = 1200
 MAX_WORDS = 2100
@@ -81,9 +87,8 @@ ALLOWED_LINK_HOSTS = {
 # body text, because regulation is often necessary context inside a
 # commercial article. It just may never be the subject of one.
 #
-# The second list is banned everywhere in the title because those terms are
-# the money-page keywords of coinconnect.site itself -- the blog must not
-# cannibalise its own parent domain either.
+# The second list blocks titles that would compete with coinconnect.site's
+# own money pages -- the blog must not cannibalise its parent domain either.
 
 SARZIF_RESERVED = [
     "pvara licence", "pvara license", "pvara licensing",
@@ -147,11 +152,25 @@ def queued_files():
     return [os.path.join(QUEUE_DIR, n) for n in names]
 
 
-def post_exists_for_today():
-    """Guard against double-publishing if the workflow is triggered twice."""
+def posts_today():
+    """How many articles have already gone out today."""
     if not os.path.isdir(POSTS_DIR):
-        return False
-    return any(name.startswith(TODAY_STR) for name in os.listdir(POSTS_DIR))
+        return 0
+    return sum(1 for n in os.listdir(POSTS_DIR)
+               if n.startswith(TODAY_STR) and n.endswith(".md"))
+
+
+def read_log():
+    if not os.path.isfile(LOG_FILE):
+        return []
+    with open(LOG_FILE, encoding="utf-8", newline="") as fh:
+        return list(csv.DictReader(fh))
+
+
+def override_used_today():
+    """A manual article is used once per day, not once per run."""
+    return any(r.get("date") == TODAY_STR and r.get("source") == "override"
+               for r in read_log())
 
 
 def stamp_date(body, date_str):
@@ -249,21 +268,25 @@ def validate(body, path):
 # ------------------------------------------------------------------- modes --
 
 def publish_override():
-    """Publish a hand-written article for today, if one exists."""
+    """Publish a hand-written article for today, if one is waiting."""
     article_path = os.path.join(OVERRIDES, TODAY_STR, "article.md")
     if not os.path.isfile(article_path):
         return False
 
-    log(f"manual override found at {article_path}")
+    if override_used_today() and not FORCE:
+        log("manual article for today has already been published — moving to the queue")
+        return False
+
+    log(f"manual article found at {article_path}")
     with open(article_path, encoding="utf-8") as fh:
         body = fh.read().strip()
 
     problems = validate(body, article_path)
     if problems:
-        log("OVERRIDE REJECTED — it breaks the house rules:")
+        log("MANUAL ARTICLE REJECTED — it breaks the house rules:")
         for p in problems:
             log(f"  - {p}")
-        raise RuntimeError("manual override failed validation")
+        raise RuntimeError("manual article failed validation")
 
     fm, _, article = split_front_matter(body)
     title = fm.get("title", "update")
@@ -271,7 +294,7 @@ def publish_override():
 
     filename = f"{TODAY_STR}-{slugify(title)}.md"
     if DRY_RUN:
-        log(f"DRY RUN — would publish override as {filename}")
+        log(f"DRY RUN — would publish manual article as {filename}")
         return True
 
     os.makedirs(POSTS_DIR, exist_ok=True)
@@ -279,20 +302,19 @@ def publish_override():
         fh.write(body)
 
     append_log(TODAY_STR, "override", title, len(article.split()))
-    log(f"published override: {filename}")
-    # Deliberately do NOT consume the queue. The queued article waits its turn.
-    log("queue left untouched — tomorrow's queued article is unaffected")
+    log(f"published manual article: {filename}")
+    log("queue left untouched — the queued article keeps its place")
     return True
 
 
 def publish_from_queue():
     files = queued_files()
     if not files:
-        log("QUEUE EMPTY — nothing to publish. Generate a new batch.")
+        log("QUEUE EMPTY — nothing to publish. Write a new batch.")
         return False
 
     path = files[0]
-    log(f"next in queue: {os.path.basename(path)} ({len(files)} remaining)")
+    log(f"next in queue: {os.path.basename(path)} ({len(files)} waiting)")
 
     with open(path, encoding="utf-8") as fh:
         body = fh.read().strip()
@@ -324,11 +346,12 @@ def publish_from_queue():
 
     append_log(TODAY_STR, "queue", title, words)
     log(f"published {filename} ({words} words)")
-    log(f"queue now holds {len(files) - 1} article(s)")
 
     remaining = len(files) - 1
-    if remaining <= 7:
-        log(f"WARNING: only {remaining} days of queue left — time to generate a new batch")
+    log(f"queue now holds {remaining} article(s) — about {remaining // MAX_POSTS_PER_DAY} day(s) left")
+
+    if remaining <= MAX_POSTS_PER_DAY * 7:
+        log(f"WARNING: only {remaining} articles left — time to write a new batch")
 
     return True
 
@@ -338,12 +361,15 @@ def publish_from_queue():
 def main():
     log(f"run for {TODAY_STR} (PKT)")
 
-    if post_exists_for_today():
+    already = posts_today()
+    log(f"published so far today: {already} of {MAX_POSTS_PER_DAY}")
+
+    if already >= MAX_POSTS_PER_DAY:
         if not FORCE:
-            log("a post already exists for today — stopping so nothing is duplicated")
+            log("daily limit reached — stopping so nothing is over-published")
             log("(re-run from Actions with 'force' ticked to publish anyway)")
             return 0
-        log("a post already exists for today, but FORCE is set — publishing anyway")
+        log("daily limit reached, but FORCE is set — publishing anyway")
 
     try:
         if publish_override():
