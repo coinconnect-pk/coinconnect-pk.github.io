@@ -34,6 +34,13 @@ google_site_verification: ""
 # its own clean paths and never needs a migration re-map.
 permalink: /:title/
 
+# Build posts even if their timestamp is slightly ahead of the build clock.
+# GitHub Pages builds in UTC while posts are stamped in PKT (UTC+5), so a post
+# published at 06:00 PKT is 01:00 UTC and would otherwise be treated as future
+# and silently skipped.
+future: true
+timezone: Asia/Karachi
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

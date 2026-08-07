@@ -168,8 +168,15 @@ def strip_flags(body):
 
 
 def stamp_date(body, date_str):
-    """Force the front matter date to the real publication date."""
-    stamped = f"{date_str} 09:00:00 +0500"
+    """
+    Force the front matter date to the real publication moment.
+
+    Uses the actual run time, not a fixed hour. A hardcoded time ahead of the
+    run (e.g. 09:00 stamped by the 06:00 job) makes the post future-dated, and
+    Jekyll silently refuses to build future-dated posts -- the article would
+    publish to the repository but never appear on the site.
+    """
+    stamped = TODAY.strftime("%Y-%m-%d %H:%M:%S %z")
     if re.search(r"^date:", body, re.M):
         return re.sub(r"^date:.*$", f"date: {stamped}", body, count=1, flags=re.M)
     return re.sub(r"^---\s*$", f"---\ndate: {stamped}", body, count=1, flags=re.M)
