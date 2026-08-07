@@ -52,15 +52,17 @@ MIN_WORDS = 1200
 MAX_WORDS = 2100
 
 VALID_CATEGORIES = {
+    "Licensing",
+    "Compliance",
+    "Tax & Banking",
+    "Corporate Setup",
+    "Sandbox",
+    "Enforcement",
     "Market Entry",
-    "Listings",
-    "PR & Comms",
-    "Partnerships",
-    "Positioning",
-    "Market Data",
 }
 
-# Only these hosts may be linked from an article.
+# Only these hosts may be linked from an article. Primary sources only --
+# regulators, legislation, and official statistics.
 ALLOWED_LINK_HOSTS = {
     "coinconnect.site",
     "blog.coinconnect.site",
@@ -68,49 +70,15 @@ ALLOWED_LINK_HOSTS = {
     "secp.gov.pk",
     "sbp.org.pk",
     "fbr.gov.pk",
+    "fmu.gov.pk",
+    "na.gov.pk",
+    "pakistancode.gov.pk",
     "fatf-gafi.org",
     "worldbank.org",
     "imf.org",
     "chainalysis.com",
     "statista.com",
 }
-
-# --------------------------------------------------------- SARZIF FIREWALL --
-#
-# Sarzif Policy (Noor Aslam's separate company) owns Pakistan's crypto
-# REGULATORY keyword set and has 120 queued articles on it. CoinConnect
-# Intelligence answers a different question -- "how do I enter and win this
-# market?" -- and must never compete for those terms.
-#
-# These phrases are banned from the TITLE and DESCRIPTION, which is what
-# actually determines the keyword an article targets. They remain legal in
-# body text, because regulation is often necessary context inside a
-# commercial article. It just may never be the subject of one.
-#
-# The second list blocks titles that would compete with coinconnect.site's
-# own money pages -- the blog must not cannibalise its parent domain either.
-
-SARZIF_RESERVED = [
-    "pvara licence", "pvara license", "pvara licensing",
-    "vasp licence", "vasp license", "vasp licensing",
-    "noc application", "noc requirements", "how to get a noc",
-    "travel rule",
-    "aml/cft", "aml cft", "anti-money laundering",
-    "fit and proper",
-    "goaml", "go-aml",
-    "section 285baa",
-    "sandbox eligibility", "regulatory sandbox requirements",
-    "compliance requirements", "licensing requirements",
-    "kyc requirements",
-    "virtual assets act", "virtual assets ordinance",
-    "mlro",
-]
-
-PARENT_RESERVED = [
-    "crypto market entry pakistan",
-    "pakistan market entry consultancy",
-    "blockchain consultancy pakistan",
-]
 
 
 # ----------------------------------------------------------------- helpers --
@@ -173,6 +141,32 @@ def override_used_today():
                for r in read_log())
 
 
+# The review section Malik reads before approving an article. It is internal
+# notes to himself and must never reach the site. Stripped here rather than by
+# hand, so the queued file keeps the notes and the published post never has them.
+FLAGS_HEADING = re.compile(
+    r"^##\s*Flags?(?:\s+for\s+Malik)?\b.*$",
+    re.IGNORECASE | re.MULTILINE,
+)
+
+
+def strip_flags(body):
+    """Remove the '## Flags for Malik' section. Returns (cleaned_body, was_found)."""
+    match = FLAGS_HEADING.search(body)
+    if not match:
+        return body, False
+
+    # Cut from the heading to the next H2, or to the end of the file if it is last.
+    tail = body[match.end():]
+    following = re.search(r"^##\s+", tail, re.MULTILINE)
+    cut_end = match.end() + following.start() if following else len(body)
+
+    cleaned = body[:match.start()].rstrip() + "\n"
+    if following:
+        cleaned += "\n" + body[cut_end:].lstrip()
+    return cleaned, True
+
+
 def stamp_date(body, date_str):
     """Force the front matter date to the real publication date."""
     stamped = f"{date_str} 09:00:00 +0500"
@@ -227,22 +221,6 @@ def validate(body, path):
     if words > MAX_WORDS:
         problems.append(f"too long ({words} words, maximum {MAX_WORDS})")
 
-    # --- the Sarzif firewall ---
-    headline_text = f"{title} {desc}".lower()
-    for phrase in SARZIF_RESERVED:
-        if phrase in headline_text:
-            problems.append(
-                f"SARZIF COLLISION: '{phrase}' appears in the title/description. "
-                "That keyword belongs to Sarzif Policy. Regulation may be context "
-                "inside the article, never its subject."
-            )
-    for phrase in PARENT_RESERVED:
-        if phrase in title.lower():
-            problems.append(
-                f"PARENT COLLISION: '{phrase}' in the title competes with "
-                "coinconnect.site's own money pages."
-            )
-
     # --- links ---
     for host in re.findall(r"https?://([\w.-]+)", article):
         host = host.lower()
@@ -281,6 +259,10 @@ def publish_override():
     with open(article_path, encoding="utf-8") as fh:
         body = fh.read().strip()
 
+    body, had_flags = strip_flags(body)
+    if had_flags:
+        log("removed the 'Flags for Malik' section — internal notes are not published")
+
     problems = validate(body, article_path)
     if problems:
         log("MANUAL ARTICLE REJECTED — it breaks the house rules:")
@@ -318,6 +300,10 @@ def publish_from_queue():
 
     with open(path, encoding="utf-8") as fh:
         body = fh.read().strip()
+
+    body, had_flags = strip_flags(body)
+    if had_flags:
+        log("removed the 'Flags for Malik' section — internal notes are not published")
 
     problems = validate(body, path)
     if problems:

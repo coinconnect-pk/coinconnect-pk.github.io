@@ -2,10 +2,10 @@
 layout: page
 title: Topics
 permalink: /topics/
-description: Every article on CoinConnect Intelligence, grouped by the part of the market-entry problem it covers.
+description: Every article on CoinConnect Intelligence, grouped by the part of Pakistan's virtual asset framework it covers.
 ---
 
-Analysis here is organised around the six problems an operator actually faces when taking a crypto business into a new market.
+Analysis here is organised around the seven areas of Pakistan's virtual asset framework that a regulated business has to deal with.
 
 {% assign cats = site.categories | sort %}
 {% if cats.size > 0 %}
@@ -22,8 +22,10 @@ Analysis here is organised around the six problems an operator actually faces wh
 Articles will be listed here as they publish.
 {% endif %}
 
-## What we deliberately do not cover
+## How this is written
 
-CoinConnect Intelligence is about commercial strategy: how to enter a market, find partners, launch, and compete. It is not a regulatory explainer.
+Every article is written from the published documents themselves and cites the provision it relies on. Where the exact wording carries the obligation, that wording is quoted directly.
 
-Where a rule matters to a commercial decision, it appears as context inside an article. It is never the subject of one. For the regulatory detail itself — licensing requirements, compliance obligations, filing mechanics — go to the primary source, the regulator.
+Where the framework is genuinely unclear, or guidance has not yet been issued, the article says so rather than smoothing over it.
+
+This is information and analysis, not legal advice. See the [editorial policy]({{ '/editorial-policy/' | relative_url }}) for the full standards.

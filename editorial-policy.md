@@ -9,10 +9,14 @@ Every article on this site is held to the standards below. They exist because a 
 
 ## Accuracy
 
-- **No invented specifics.** No article states a monetary threshold, a deadline, an ordinance or section number, a licence count, a user number or a market size unless it comes from a named, checkable source. Where a specific figure would help but cannot be confirmed, the requirement or trend is described in general terms instead.
-- **Sources are named in the text.** If a number comes from a regulator, an exchange's own disclosure, or a published research report, the article says which.
-- **Judgement is labelled.** Commercial analysis — what a market will do, which strategy will work — is opinion. It is written as opinion, not as established fact.
-- **General practice is flagged as such.** Where an article describes how something usually works internationally, rather than a confirmed local requirement, that sentence says so.
+This is regulatory analysis. Precision is the product, not a style preference.
+
+- **Every specific traces to a published document.** No article states a section number, monetary threshold, deadline, defined term, timeline or penalty unless it comes from a primary source that is named in the text. Where a figure would help but cannot be confirmed, the requirement is described in general terms and the reader is told to verify it with the authority.
+- **Nothing is reconstructed from memory.** Where general knowledge of the framework conflicts with the published document, the document governs.
+- **The operative language is quoted** wherever the exact wording carries the obligation, so a reader can check the reading against the source.
+- **Sources are named in the sentence**, not gestured at — which document, which provision.
+- **What the rule says and what we think it means are separated.** A statement of a provision is fact. Its cost, difficulty, likely application or direction of travel is analysis, and is marked as such.
+- **Unsettled positions are flagged.** Where a provision is ambiguous, where guidance has not been issued, or where practice has not settled, the article says so plainly rather than smoothing it over.
 
 ## Claims about CoinConnect
 
@@ -25,11 +29,13 @@ This is the standard held to hardest, because it is the one with the most to los
 
 If a claim cannot clear this bar, it does not run. There is no version of a good article that needs an unverifiable boast in it.
 
-## Scope
+## Scope, and the limits of it
 
-This publication covers commercial strategy for crypto market entry. It does not publish regulatory guidance.
+This publication covers Pakistan's virtual asset regulatory framework and its practical consequences for the businesses it applies to.
 
-Nothing here is legal, tax, financial or investment advice. Readers making regulated decisions should take professional advice and verify requirements with the relevant authority directly.
+**It is information and analysis. It is not legal advice.** Reading it does not create an advisory relationship with CoinConnect, and no article is written with any particular reader's circumstances in mind.
+
+Regulatory positions change, and a framework at an early stage changes faster than most. Verify any specific requirement against the current published position of the relevant authority, and take professional advice on your own situation before acting.
 
 ## Independence and disclosure
 

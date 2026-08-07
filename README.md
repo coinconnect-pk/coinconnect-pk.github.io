@@ -1,10 +1,12 @@
 # CoinConnect Intelligence
 
-Market entry, partnerships and growth intelligence for crypto operators in Pakistan and South Asia.
+Complete, primary-source analysis of Pakistan's virtual asset regulatory framework.
 
 Live at **https://blog.coinconnect.site**
 
 A standalone Jekyll site on GitHub Pages. The main CoinConnect site stays on Odoo at coinconnect.site and is not touched by anything here.
+
+The writing brief lives in `CONTENT-PROMPT.md`.
 
 ## What is here
 
@@ -44,24 +46,22 @@ Enforced by `publish.py`. An article that breaks any of these will not publish, 
 - At least four `##` headings
 - Must end with `## About this analysis`
 - Title under 75 characters; description 120–165 characters
-- Category is one of: `Market Entry`, `Listings`, `PR & Comms`, `Partnerships`, `Positioning`, `Market Data`
+- Category is one of: `Licensing`, `Compliance`, `Tax & Banking`, `Corporate Setup`, `Sandbox`, `Enforcement`, `Market Entry`
 - At most one link to coinconnect.site
 - Outbound links restricted to an allowlist of official and primary sources
 - Author byline: Malik Abbas
 
-### The Sarzif firewall
+### Source discipline
 
-**Sarzif Policy (sarzifpolicy.github.io) is Noor Aslam's separate company** and holds 120 queued articles on PVARA, VASP licensing and Pakistani crypto regulation.
+Every specific in an article — section number, threshold, deadline, defined term, penalty —
+must trace to a published primary source named in the text. Nothing is reconstructed from
+memory. Where general knowledge conflicts with the published document, the document governs.
 
-`publish.py` blocks any article whose **title or description** contains a reserved regulatory term — *VASP licence*, *PVARA licensing*, *NOC application*, *travel rule*, *AML/CFT*, *fit and proper*, *goAML*, *MLRO*, *Virtual Assets Act*, and others. The full list is `SARZIF_RESERVED` in `publish.py`.
+Statement of a provision is fact; its cost, difficulty or likely application is analysis,
+and the two are always separated in the text.
 
-Those terms remain legal in body text, because regulation is often necessary context. It may never be the subject of an article.
-
-A second, shorter list blocks titles that would compete with **coinconnect.site's own money pages**. The blog must not cannibalise its parent domain either.
-
-The split in one line:
-
-> **Sarzif answers "what does the regulator require?"** — **CoinConnect answers "how do I enter and win this market?"**
+Outbound links are restricted by an allowlist in `publish.py` to regulators, legislation
+and official statistics.
 
 ## Setup checklist
 

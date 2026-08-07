@@ -2,31 +2,32 @@
 layout: page
 title: About CoinConnect Intelligence
 permalink: /about/
-description: Who writes this, what it covers, and why a market-entry consultancy publishes its working notes in public.
+description: Who writes this, what it covers, and why a regulatory advisory practice publishes its complete reading of the framework in public.
 ---
 
-CoinConnect Intelligence is the research desk of [CoinConnect]({{ site.parent.url }}), a blockchain market entry consultancy based in {{ site.org.city }}, {{ site.org.country }}.
+CoinConnect Intelligence is the research desk of [CoinConnect]({{ site.parent.url }}), a regulatory and legal advisory practice for virtual asset businesses, based in {{ site.org.city }}, {{ site.org.country }}.
 
 ## What this covers
 
-One question: **how does a crypto business enter a new market and win it?**
+One subject, covered completely: **Pakistan's virtual asset regulatory framework, and what it means in practice for the businesses it applies to.**
 
-That breaks into six working areas, and every article here sits in one of them.
+Every article sits in one of seven areas:
 
-- **Market entry** — which markets to prioritise, in what order, and what a realistic entry sequence looks like
-- **Listings** — how tokens and products actually get in front of users in a new market
-- **PR & comms** — building a public position in a media landscape you do not know
-- **Partnerships** — local partners, payment rails, distribution, institutional relationships
-- **Positioning** — how exchanges compete for the same users, and who is winning where
-- **Market data** — adoption, remittance flows, user behaviour, and what the numbers mean for an operator
+- **Licensing** — who needs authorisation, which category applies, what an application involves
+- **Compliance** — ongoing obligations once authorised, and what they cost to run
+- **Tax & Banking** — registration, reporting, and the banking relationship
+- **Corporate Setup** — the local entity, its officers, and its governance
+- **Sandbox** — the supervised testing route, who it fits, and how it differs
+- **Enforcement** — supervision, consequences, and how the framework is applied
+- **Market Entry** — the commercial reading: sequencing, cost, and what the rules do to market structure
 
-## What this deliberately does not cover
+## How this is different
 
-This is not a regulatory publication.
+Most coverage of a new regulatory framework is thin. Law firms publish short marketing summaries. News outlets publish headlines. Almost nobody works through the actual documents provision by provision.
 
-Compliance and licensing detail is genuinely important, but it is a different discipline with different sources and a different standard of care. Where a rule shapes a commercial decision, it appears here as context. It is never the subject of an article, and nothing here should be read as a statement of what any regulator requires.
+This publication does. Every article is written from the published documents themselves, cites the specific provision it relies on, and quotes the operative language where the exact wording matters.
 
-For regulatory questions, go to the regulator.
+Where the framework is genuinely unclear, or guidance has not yet been issued, we say so. That is usually the most useful thing an operator can be told, and it is the thing a summary leaves out.
 
 ## Who writes it
 
@@ -34,24 +35,28 @@ For regulatory questions, go to the regulator.
 
 <!--
   MALIK — replace the paragraph below with your own background, in your own words.
-  Only include things you can evidence if a journalist or a hiring manager asks.
-  Leave out anything you cannot show a document for. A short, provable bio beats
-  a long one that invites a question you would rather not answer.
+  Only include things you can evidence if a journalist or a regulator asks.
+  A short, provable bio beats a long one that invites a question you would rather
+  not answer.
 -->
 
 *[Biography to be added.]*
 
-## How this is written
+## The standards this is held to
 
-Every article is written against the standards set out in the [editorial policy]({{ '/editorial-policy/' | relative_url }}). The rules that matter most:
+Set out in full in the [editorial policy]({{ '/editorial-policy/' | relative_url }}). The ones that matter most:
 
-- No invented figures, dates or thresholds
-- Claims about CoinConnect's own work must be evidenced or they do not run
-- Commercial judgement is labelled as judgement, not presented as fact
-- Where something is an opinion about where a market is heading, it says so
+- Every specific — section number, threshold, deadline, defined term — traces to a published document
+- Nothing is reconstructed from memory; where background knowledge conflicts with the document, the document wins
+- What the rule says and what we think it means are always separated
+- Where the position is unsettled, that is stated rather than smoothed over
+
+## Not legal advice
+
+This publication is information and analysis. It is not legal advice, and reading it does not create an advisory relationship with CoinConnect. Regulatory positions change. Verify any specific requirement against the current published position of the relevant authority, and take professional advice on your own circumstances.
 
 ## Getting in touch
 
-For consulting enquiries, use the [main CoinConnect site]({{ site.parent.url }}).
+For advisory enquiries, use the [main CoinConnect site]({{ site.parent.url }}).
 
-For corrections to anything published here, see the [editorial policy]({{ '/editorial-policy/' | relative_url }}). Corrections are made in public.
+For corrections, see the [editorial policy]({{ '/editorial-policy/' | relative_url }}). Corrections are made in public.

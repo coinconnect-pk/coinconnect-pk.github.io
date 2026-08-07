@@ -51,7 +51,7 @@ In the big text box underneath, start with this block, exactly as shown:
 layout: post
 title: "Your headline goes here"
 date: 2026-08-15 09:00:00 +0500
-categories: [Market Entry]
+categories: [Licensing]
 author: "Malik Abbas"
 description: "One sentence saying what the reader will learn. Between 120 and 165 characters."
 ---
@@ -63,7 +63,7 @@ Then write your article below it.
 
 - Keep the three dashes `---` on their own lines, top and bottom.
 - The **date** must match the folder name.
-- **categories** must be exactly one of: `Market Entry`, `Listings`, `PR & Comms`, `Partnerships`, `Positioning`, `Market Data`
+- **categories** must be exactly one of: `Licensing`, `Compliance`, `Tax & Banking`, `Corporate Setup`, `Sandbox`, `Enforcement`, `Market Entry`
 - **description** must be between 120 and 165 characters. Shorter or longer and the publisher rejects it.
 
 ### 5. Write in Markdown
@@ -115,19 +115,20 @@ These are checked by machine. If your article breaks one, it will not publish, a
 - **Must end with a section called `## About this analysis`**
 - **Title under 75 characters**
 - **Description between 120 and 165 characters**
-- **Category must be one of the six**
+- **Category must be one of the seven**
 - **At most one link to coinconnect.site**
 - **No links except** to the approved list: coinconnect.site, and official sources (PVARA, SECP, State Bank, FBR, FATF, World Bank, IMF, Chainalysis, Statista)
 
 ### The two rules that matter most
 
-**1. Never write a headline about regulation.**
+**1. Every specific must come from a published document.**
 
-The publisher will block any title or description containing terms like *VASP licence*, *PVARA licensing*, *NOC application*, *travel rule*, *AML/CFT*, *fit and proper*, *goAML*, *MLRO*, and others.
+Section numbers, thresholds, deadlines, defined terms, penalties — if you cannot point to
+the provision in a primary source, do not print the figure. Describe the requirement in
+general terms and tell the reader to verify it with the authority.
 
-This is deliberate. Those keywords belong to **Sarzif Policy**, which is Noor Aslam's separate company with 120 queued articles on exactly those terms. If this blog competes for them, both sites lose, and so does your working relationship.
-
-Regulation is allowed **inside** an article as context. It may never be what the article is *about*.
+Never reconstruct a provision from memory. If your recollection conflicts with the
+document, the document wins.
 
 **2. Never write a claim you cannot evidence.**
 
@@ -136,9 +137,9 @@ The machine cannot check this one. You have to.
 - Do not name a client, partner or exchange unless you can show a document, or they have said it publicly themselves.
 - Describe finished relationships in the past tense, or leave them out.
 - Do not describe work covered by an NDA, even indirectly.
-- If a figure is not from a named source you can point to, do not print it.
+- Separate what the rule says from what you think it means — always label the second as analysis.
 
-A single unverifiable boast can cost more than the blog will ever earn. Leave it out.
+A single unverifiable claim can cost more than the blog will ever earn. Leave it out.
 
 ---
 
@@ -149,11 +150,11 @@ Copy everything below into a new file and edit it.
 ```
 ---
 layout: post
-title: "How exchanges choose which market to enter next"
+title: "Who needs authorisation, and who does not"
 date: 2026-08-15 09:00:00 +0500
-categories: [Market Entry]
+categories: [Licensing]
 author: "Malik Abbas"
-description: "Most expansion decisions come down to four variables, and user count is the least important of them. Here is the framework operators actually use."
+description: "The framework applies to more business models than most operators expect. Here is exactly who falls inside the perimeter, and who sits outside it."
 ---
 
 Two or three short paragraphs setting up why this matters to someone running a
@@ -201,7 +202,6 @@ Nothing here is legal, tax or investment advice.
 |---|---|
 | Article did not appear | Folder date did not match the day. Check the folder name spelling |
 | Actions shows a red X | Open the run and read the log — it names the exact rule you broke |
-| "SARZIF COLLISION" in the log | Your headline uses a regulatory keyword. Rewrite the title around the commercial angle |
 | "description is N chars" | Your description is outside 120–165 characters. Count it and adjust |
 | Page looks broken | A `---` line is missing or has spaces around it. Exactly three dashes, on their own line |
 | An extra article appeared | You added a manual article *and* ran the workflow with `force` ticked |

@@ -2,7 +2,9 @@
 
 This folder holds finished articles waiting to go out. **Two are released per day** — 06:00 and 18:00 PKT — lowest number first.
 
-This is the core difference from the Sarzif build. Sarzif generates each article on the day via an API. This blog cannot do that — a Claude Pro subscription cannot be called from CI. So articles are **written in advance, in batches, and banked here.**
+Articles are **written in advance, in batches, and banked here** rather than generated on the day. Nothing in this repository calls a model API — a Claude Pro subscription cannot be called from CI, and writing from primary documents needs the documents in hand anyway.
+
+The writing brief is in `../CONTENT-PROMPT.md`.
 
 ## Naming
 
