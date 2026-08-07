@@ -7,13 +7,13 @@ author: "Malik Abbas"
 description: "A section-by-section map of Pakistan's Virtual Assets Act 2026: all twelve chapters, 74 sections and Schedule I, with what each one actually requires."
 ---
 
-Most summaries of the Virtual Assets Act, 2026 cover the licensing chapter and stop. That leaves two-thirds of the statute unexamined, including customer asset insolvency, website blocking, appellate jurisdiction and the state wallet company.
+Most summaries of the [Virtual Assets Act](https://blog.coinconnect.site/pakistans-virtual-assets-act-2026-the-complete-guide/), 2026 cover the licensing chapter and stop. That leaves two-thirds of the statute unexamined, including customer asset insolvency, website blocking, appellate jurisdiction and the state wallet company.
 
 This is a complete map: every section of the Act, in order, with what it does. Where a section defers its substance to Rules or Regulations, that is noted — a large part of the Act works this way, and knowing which provisions are complete and which are placeholders is the difference between a workable compliance plan and a guess.
 
 ## How is the Act structured?
 
-The Virtual Assets Act, 2026 contains twelve chapters and 74 sections, followed by Schedule I and a Statement of Objects and Reasons. Chapters I to 3 establish scope, the regulator and licensing. Chapters 4 to 9 impose substantive obligations. Chapters 10 to 12 handle enforcement, appeals and transition.
+The Virtual Assets Act, 2026 contains twelve chapters and 74 sections, followed by [Schedule I](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-categories-explained-23) and a Statement of Objects and Reasons. Chapters I to 3 establish scope, the regulator and licensing. Chapters 4 to 9 impose substantive obligations. Chapters 10 to 12 handle enforcement, appeals and transition.
 
 | Chapter | Title | Sections |
 |---|---|---|
@@ -32,12 +32,12 @@ The Virtual Assets Act, 2026 contains twelve chapters and 74 sections, followed 
 
 ## What do Chapters I to 3 establish?
 
-Chapters I to 3 cover sections 1 to 23. They define what the Act applies to, create PVARA and set out how it is governed and funded, and establish the licensing regime including the pre-incorporation No-Objection Certificate requirement.
+Chapters I to 3 cover sections 1 to 23. They define what the Act applies to, create PVARA and set out how it is governed and funded, and establish the [licensing regime](https://www.coinconnect.site/pvara-guide) including the pre-[incorporation](https://www.coinconnect.site/corporate-setup) No-Objection Certificate requirement.
 
 **Chapter I — Preliminary (sections 1–5)**
 
-- **s.1–s.2** — Short title, extent and commencement: the Act extends to the whole of Pakistan and comes into force at once. It applies to VASPs carrying on services and Issuers offering assets "in or from Pakistan". Section 2(2) carves out six categories: closed-loop tokens meeting seven conditions, SBP- and SECP-regulated instruments, central bank digital currencies, non-payment non-investment NFTs, digital collectibles not constituting virtual assets, and anything PVARA expressly excludes.
-- **s.3** — Definitions. Thirty-three defined terms, plus a provision importing definitions from the State Bank of Pakistan Act 1956, the Securities Act 2015, the Anti-Money Laundering Act 2010 and the Companies Act 2017.
+- **s.1–s.2** — Short title, extent and commencement: the Act extends to the whole of Pakistan and comes into force at once. It applies to VASPs carrying on services and Issuers offering assets "in or from Pakistan". Section 2(2) carves out six categories: [closed-loop](https://www.coinconnect.site/blog/3/pakistan-pvara-closed-loop-token-exemption-2026-60) tokens meeting seven conditions, SBP- and SECP-regulated instruments, central bank digital currencies, non-payment non-investment NFTs, digital collectibles not constituting virtual assets, and anything PVARA expressly excludes.
+- **s.3** — Definitions. Thirty-three defined terms, plus a provision importing definitions from the State Bank of Pakistan Act 1956, the Securities Act 2015, the [Anti-Money Laundering](https://www.coinconnect.site/blog/3/fit-and-proper-aml-pvara-mistakes-54) Act 2010 and the Companies Act 2017.
 - **s.4–s.5** — Extraterritorial application and the relationship with other laws. PVARA may act extraterritorially for investigation and enforcement, must prescribe when offshore services are deemed offered into Pakistan, and must align with FATF and IOSCO frameworks. The Act prevails over inconsistent laws except the Foreign Exchange Regulation Act 1947, but data protection, data governance, cybersecurity, financial secrecy and cross-border personal data laws prevail over the Act.
 
 **Chapter 2 — The Authority (sections 6–17)**
@@ -50,14 +50,14 @@ Chapters I to 3 cover sections 1 to 23. They define what the Act applies to, cre
 
 **Chapter 3 — Licensing (sections 18–23)**
 
-- **s.18–s.19** — Service categories are those in Schedule I plus any notified and added. An NOC is required before incorporation; the licence application follows incorporation, with a prescribed non-refundable fee.
+- **s.18–s.19** — Service categories are those in Schedule I plus any notified and added. An NOC is required before incorporation; the [licence application](https://www.coinconnect.site/regulatory-licensing) follows incorporation, with a prescribed non-refundable fee.
 - **s.20** — Fit-and-proper criteria for Controllers, Sponsors, CEOs and Directors, extended to all Key Individuals; continuing in nature; registered office and resident Key Individual required.
 - **s.21–s.22** — Grant, refusal, provisional and limited-scope licences; the licence specifies permitted services and remains in force unless suspended or revoked; a public register is required; six ongoing obligations apply to licensees.
 - **s.23** — Variation, suspension and revocation: five grounds, right to be heard, referral to SECP for winding up.
 
 ## What obligations do Chapters 4 to 9 impose?
 
-Chapters 4 to 9 cover sections 24 to 53 and contain the substantive duties: prudential and custody requirements, token issuance rules, technology and data obligations, market conduct standards, AML duties, and four express prohibitions.
+Chapters 4 to 9 cover sections 24 to 53 and contain the substantive duties: prudential and [custody](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-custody-license-safeguarding-customer-assets-25) requirements, token issuance rules, technology and data obligations, market conduct standards, AML duties, and four express prohibitions.
 
 **Chapter 4 — Prudential, safeguarding and custody (sections 24–29)**
 
@@ -68,14 +68,14 @@ Chapters 4 to 9 cover sections 24 to 53 and contain the substantive duties: prud
 
 **Chapter 5 — Tokens and offerings (sections 30–33)**
 
-- **s.30** — Only legal entities registered in Pakistan meeting prescribed criteria may conduct an Initial Virtual Asset Offering.
+- **s.30** — Only legal entities registered in Pakistan meeting prescribed criteria may conduct an Initial [Virtual Asset](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22) Offering.
 - **s.31–s.32** — Fiat-Referenced Tokens require 100% reserve backing in HQLA or prescribed assets held as a segregated reserve, par redemption without undue delay, audited disclosures, compliance programmes and insolvency priority. Asset-Referenced Tokens must be fully backed at all times and expressly may not be backed by, or derive value from, other virtual assets.
 - **s.33** — Significant Issuers: thresholds deferred to Regulations; registration and enhanced obligations.
 
-**Chapter 6 — Cybersecurity, sandbox and innovation (sections 34–40)**
+**Chapter 6 — Cybersecurity, [sandbox](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-sandbox-reduced-capital-pakistan-19) and innovation (sections 34–40)**
 
-- **s.34–s.36** — Cybersecurity and operational resilience; the regulatory sandbox, with eligibility, risk limits, duration and exit deferred to Regulations, plus guidance and no-action communications; blockchain adoption oversight and harmonisation with other regulators.
-- **s.37** — Mining. Pure mining unlicensed; mining involving customer assets licensable; registration framework possible above thresholds of scale, energy use or hash rate.
+- **s.34–s.36** — Cybersecurity and operational resilience; the [regulatory sandbox](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-sandbox-form-i-complete-walkthrough-2026-8), with eligibility, risk limits, duration and exit deferred to Regulations, plus guidance and no-action communications; blockchain adoption oversight and harmonisation with other regulators.
+- **s.37** — Mining. Pure mining unlicensed; mining involving [customer assets](https://www.coinconnect.site/blog/3/customer-assets-definition-pvara-pakistan-62) licensable; registration framework possible above thresholds of scale, energy use or hash rate.
 - **s.38** — Strategic Digital Wallet Company: a wholly government-owned vehicle for state custody and wallet infrastructure, barred from serving private persons.
 - **s.39–s.40** — Data localisation, with offshore storage permitted subject to safeguards but PVARA able to require immediate localisation on national security, financial stability, consumer protection or enforcement grounds; and data segregation across five categories of sensitive information, including private keys and identifiable transaction data.
 

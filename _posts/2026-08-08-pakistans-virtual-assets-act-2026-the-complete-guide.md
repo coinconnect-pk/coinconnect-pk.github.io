@@ -7,15 +7,15 @@ author: "Malik Abbas"
 description: "The Virtual Assets Act 2026 establishes PVARA to licence and supervise virtual asset businesses in Pakistan. What it covers, who it binds, and what it requires."
 ---
 
-Pakistan now has a dedicated statute for virtual assets. The Virtual Assets Act, 2026, as passed by the National Assembly, creates a new regulator — the Pakistan Virtual Assets Regulatory Authority — and gives it the power to licence, supervise and prosecute across the entire virtual asset sector.
+Pakistan now has a dedicated statute for virtual assets. The Virtual Assets Act, 2026, as passed by the National Assembly, creates a new regulator — the Pakistan Virtual Assets Regulatory Authority — and gives it the power to licence, supervise and prosecute across the entire [virtual asset](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22) sector.
 
-The Act runs to twelve chapters, 74 sections and one schedule. It is a licensing statute, a prudential statute, an anti-money-laundering statute and a criminal statute in a single instrument. For anyone operating a crypto exchange, a custody service, a brokerage or a token issuance in Pakistan, it is now the controlling law.
+The Act runs to twelve chapters, 74 sections and one schedule. It is a licensing statute, a prudential statute, an anti-money-laundering statute and a criminal statute in a single instrument. For anyone operating a crypto exchange, a [custody](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-custody-license-safeguarding-customer-assets-25) service, a brokerage or a token issuance in Pakistan, it is now the controlling law.
 
 This guide sets out what the Act does, chapter by chapter, and identifies the provisions that carry immediate operational consequences.
 
 ## What is the Virtual Assets Act 2026?
 
-The Virtual Assets Act, 2026 is Pakistan's primary legislation governing virtual assets and the businesses that provide services in them. It establishes the Pakistan Virtual Assets Regulatory Authority (PVARA), makes licensing mandatory for virtual asset services, and creates criminal offences for operating without a licence.
+The Virtual Assets Act, 2026 is Pakistan's primary legislation governing virtual assets and the businesses that provide services in them. It establishes the Pakistan Virtual Assets Regulatory Authority ([PVARA](https://www.coinconnect.site/pvara-guide)), makes licensing mandatory for virtual asset services, and creates criminal offences for operating without a licence.
 
 Section 1 is unusually direct on timing. The Act extends to the whole of Pakistan and, under section 1(3), "shall come into force at once." There is no phased commencement and no appointed-day mechanism. The obligations in the Act took effect on commencement, subject only to the transitional relief in section 70.
 
@@ -23,7 +23,7 @@ The preamble states two purposes: establishing a dedicated authority to ensure i
 
 ## Who does the Act apply to?
 
-Section 2(1) applies the Act to two categories: any Virtual Asset Service Provider that carries on, or holds itself out as carrying on, a Virtual Asset Service in or from Pakistan; and any Issuer that offers, originates or distributes a Virtual Asset in or from Pakistan on its own behalf.
+Section 2(1) applies the Act to two categories: any [Virtual Asset Service Provider](https://www.coinconnect.site/blog/coinconnect-insights-1/vasp-license-pakistan-3) that carries on, or holds itself out as carrying on, a Virtual Asset Service in or from Pakistan; and any Issuer that offers, originates or distributes a Virtual Asset in or from Pakistan on its own behalf.
 
 The phrase "in or from Pakistan" matters. It captures a business operating out of Pakistan and serving foreign customers, as well as an offshore business serving Pakistani customers. Section 4(2) reinforces this by requiring PVARA to prescribe, by Regulations, the conditions under which a service conducted outside Pakistan will or will not be deemed to be offered to persons in Pakistan.
 
@@ -31,7 +31,7 @@ The phrase "in or from Pakistan" matters. It captures a business operating out o
 >
 > — Virtual Assets Act, 2026, section 2(1)
 
-Section 2(2) then carves out six categories, including closed-loop tokens meeting seven specified conditions, instruments already within the jurisdiction of the State Bank of Pakistan or the Securities and Exchange Commission of Pakistan, central bank digital currencies, and certain non-fungible tokens.
+Section 2(2) then carves out six categories, including [closed-loop](https://www.coinconnect.site/blog/3/pakistan-pvara-closed-loop-token-exemption-2026-60) tokens meeting seven specified conditions, instruments already within the jurisdiction of the State Bank of Pakistan or the Securities and Exchange Commission of Pakistan, central bank digital currencies, and certain non-fungible tokens.
 
 ## What are the twelve chapters of the Act?
 
@@ -52,15 +52,15 @@ The Act is organised into twelve chapters, each dealing with a distinct regulato
 | 11 | 62–65 | Appeals: the Virtual Assets Appellate Tribunal and the route to the Supreme Court |
 | 12 | 66–74 | Miscellaneous: tax, rule-making, transitional provisions, savings |
 
-Schedule I sits behind section 18 and lists the ten categories of virtual asset service that require a licence.
+[Schedule I](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-categories-explained-23) sits behind section 18 and lists the ten categories of virtual asset service that require a licence.
 
 ## What does the Act require you to do before you incorporate?
 
-Under section 19(1), any person intending to incorporate a company with the primary objective of engaging in Virtual Asset Services must first apply to PVARA for a No-Objection Certificate, before commencing the process of incorporation. The NOC comes first; the company comes second.
+Under section 19(1), any person intending to incorporate a company with the primary objective of engaging in Virtual Asset Services must first apply to PVARA for a No-Objection Certificate, before commencing the process of [incorporation](https://www.coinconnect.site/corporate-setup). The NOC comes first; the company comes second.
 
 This inverts the usual sequence. In most Pakistani regulated sectors, a promoter incorporates with the Securities and Exchange Commission of Pakistan and then approaches the sector regulator. Section 19 requires pre-incorporation clearance. A promoter who incorporates first has not simply been inefficient — they have skipped a statutory step.
 
-The licence application then follows incorporation, under section 19(4), accompanied by the prescribed fee (which is non-refundable unless PVARA determines otherwise) and the prescribed information and documents.
+The [licence application](https://www.coinconnect.site/regulatory-licensing) then follows incorporation, under section 19(4), accompanied by the prescribed fee (which is non-refundable unless PVARA determines otherwise) and the prescribed information and documents.
 
 ## What are the ongoing obligations of a licensee?
 
@@ -73,7 +73,7 @@ Section 22 imposes six continuing obligations that apply "at all times" to every
 - Maintain risk management, compliance and cybersecurity systems, including adherence to data privacy standards
 - Pay supervision, renewal and other prescribed fees
 
-Chapter 4 layers prudential duties on top. Section 24(1) requires customer assets to be held in segregated accounts at all times. Section 24(2) removes customer assets from the licensee's estate on insolvency, notwithstanding any other law. Section 24(3) imposes a fiduciary duty. Section 24(4) prohibits rehypothecation, lending or pledging of customer assets without the customer's explicit, informed and revocable written consent.
+Chapter 4 layers prudential duties on top. Section 24(1) requires [customer assets](https://www.coinconnect.site/blog/3/customer-assets-definition-pvara-pakistan-62) to be held in segregated accounts at all times. Section 24(2) removes customer assets from the licensee's estate on insolvency, notwithstanding any other law. Section 24(3) imposes a fiduciary duty. Section 24(4) prohibits rehypothecation, [lending](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-lending-borrowing-license-30) or pledging of customer assets without the customer's explicit, informed and revocable written consent.
 
 ## What happens if you operate without a licence?
 
@@ -102,7 +102,7 @@ In practice, this means the following figures do not appear anywhere in the Act 
 - Minimum paid-up capital for any licence category (section 25 defers entirely)
 - Application, licence, supervision and renewal fees (sections 19(4), 22(f))
 - The travel rule transfer threshold (section 47(1))
-- The definition of High-Quality Liquid Assets for stablecoin reserves (section 3(1)(x))
+- The definition of High-Quality Liquid Assets for [stablecoin](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-frt-stablecoin-issuance-32) reserves (section 3(1)(x))
 - Thresholds for Significant Issuer status (section 33(1))
 - Proof-of-reserves reporting frequency (section 27(1))
 - The monetary threshold for the independent dispute-resolution scheme (section 45(2))
@@ -113,7 +113,7 @@ In practice, an applicant should treat the Act as establishing the obligations a
 
 Section 70(1) gives any person providing virtual asset services immediately before commencement six months from commencement to apply for a licence, failing which they must cease providing those services.
 
-Section 70(2) allows a person who has submitted a complete application within that six-month period to continue providing existing services, provided they fully comply with any interim directives issued by PVARA and continue to adhere to the core obligations of the Act, particularly on customer asset protection and AML, CFT and CPF.
+Section 70(2) allows a person who has submitted a complete application within that six-month period to continue providing existing services, provided they fully comply with any interim directives issued by PVARA and continue to adhere to the core obligations of the Act, particularly on customer asset protection and [AML](https://www.coinconnect.site/blog/3/fit-and-proper-aml-pvara-mistakes-54), CFT and CPF.
 
 Two points are worth flagging. First, the relief attaches to a *complete* application — an incomplete filing does not start the clock. Second, section 70(2) protects "existing" services, not new ones launched during the window.
 

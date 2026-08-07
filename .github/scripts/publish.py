@@ -61,24 +61,49 @@ VALID_CATEGORIES = {
     "Market Entry",
 }
 
-# Only these hosts may be linked from an article. Primary sources only --
-# regulators, legislation, and official statistics.
-ALLOWED_LINK_HOSTS = {
+# Our own properties. Links to these are INTERNAL links.
+INTERNAL_HOSTS = {
     "coinconnect.site",
     "blog.coinconnect.site",
+}
+
+# Outbound links are restricted to primary regulators, the intergovernmental
+# bodies they answer to, and a short list of recognised data providers.
+#
+# THE RULE THAT MATTERS: never link a law firm, a consultancy, a licensing
+# adviser, or anything else that competes with CoinConnect for the same client.
+# A link is an endorsement and a transfer of authority -- we do not hand either
+# to a competitor. Data providers are fine; they sell numbers, not our service.
+EXTERNAL_HOSTS = {
+    # Pakistani regulators and legislation
     "pvara.gov.pk",
     "secp.gov.pk",
     "sbp.org.pk",
     "fbr.gov.pk",
     "fmu.gov.pk",
     "na.gov.pk",
+    "senate.gov.pk",
+    "finance.gov.pk",
     "pakistancode.gov.pk",
+    "pbs.gov.pk",
+    # Intergovernmental bodies
     "fatf-gafi.org",
     "worldbank.org",
     "imf.org",
+    "bis.org",
+    "oecd.org",
+    "un.org",
+    # Recognised data and research providers (not competitors)
     "chainalysis.com",
     "statista.com",
 }
+
+ALLOWED_LINK_HOSTS = INTERNAL_HOSTS | EXTERNAL_HOSTS
+
+# Every article must weave in at least this many links to our own pages and
+# articles. Internal linking is the single biggest on-site ranking lever we
+# control, and it only works if it is enforced rather than hoped for.
+MIN_INTERNAL_LINKS = 10
 
 
 # ----------------------------------------------------------------- helpers --
@@ -182,6 +207,68 @@ def stamp_date(body, date_str):
     return re.sub(r"^---\s*$", f"---\ndate: {stamped}", body, count=1, flags=re.M)
 
 
+LINKMAP = os.path.join(ROOT, "_data", "linkmap.yml")
+
+_LINK_STOP = set("""
+a an the and or of for to in on at is are was were be been with by from as it its this that
+what who how why when where which pakistan pakistans coinconnect complete guide
+2024 2025 2026
+""".split())
+
+
+def _link_topics(title, category, slug):
+    """Keywords a future article uses to decide whether to link here."""
+    words = re.split(r"[-\s:,&|?()/]+", f"{slug} {title} {category}".lower())
+    out = []
+    for word in words:
+        word = re.sub(r"[^a-z0-9]", "", word)
+        if len(word) > 2 and word not in _LINK_STOP and word not in out:
+            out.append(word)
+    return out[:10]
+
+
+def add_to_linkmap(title, category, slug):
+    """
+    Register a newly published article in _data/linkmap.yml so later articles
+    can link to it. Without this the link map goes stale the moment the site
+    starts publishing, and internal linking only ever points backwards at the
+    main site.
+
+    Edited as text rather than via PyYAML so the publisher keeps zero
+    third-party dependencies in CI.
+    """
+    url = f"https://blog.coinconnect.site/{slug}/"
+
+    if not os.path.isfile(LINKMAP):
+        log("no _data/linkmap.yml — skipping link map update")
+        return
+
+    with open(LINKMAP, encoding="utf-8") as fh:
+        text = fh.read()
+
+    if url in text:
+        return  # already registered; nothing to do
+
+    entry = (
+        f'  - url: "{url}"\n'
+        f'    title: "{title.replace(chr(92), "").replace(chr(34), chr(39))}"\n'
+        f'    topics: [{", ".join(_link_topics(title, category, slug))}]\n'
+    )
+
+    if re.search(r"^blog:\s*\[\]\s*$", text, re.M):
+        text = re.sub(r"^blog:\s*\[\]\s*$", "blog:\n" + entry.rstrip(), text, count=1, flags=re.M)
+    elif re.search(r"^blog:\s*$", text, re.M):
+        text = text.rstrip() + "\n" + entry
+    else:
+        log("WARNING: could not find the 'blog:' section in linkmap.yml")
+        return
+
+    with open(LINKMAP, "w", encoding="utf-8", newline="\n") as fh:
+        fh.write(text if text.endswith("\n") else text + "\n")
+
+    log(f"added to link map: {url}")
+
+
 def append_log(date_str, source, title, words):
     os.makedirs(os.path.dirname(LOG_FILE), exist_ok=True)
     new = not os.path.isfile(LOG_FILE)
@@ -229,15 +316,24 @@ def validate(body, path):
         problems.append(f"too long ({words} words, maximum {MAX_WORDS})")
 
     # --- links ---
+    internal = 0
     for host in re.findall(r"https?://([\w.-]+)", article):
         host = host.lower()
         if host.startswith("www."):
             host = host[4:]
-        if host not in ALLOWED_LINK_HOSTS:
-            problems.append(f"disallowed link: {host}")
+        if host in INTERNAL_HOSTS:
+            internal += 1
+        elif host not in EXTERNAL_HOSTS:
+            problems.append(
+                f"disallowed link: {host} — external links are limited to "
+                "government bodies and intergovernmental organisations"
+            )
 
-    if article.lower().count("coinconnect.site") > 1:
-        problems.append("more than one CoinConnect link in the body")
+    if internal < MIN_INTERNAL_LINKS:
+        problems.append(
+            f"only {internal} internal links, needs at least {MIN_INTERNAL_LINKS} "
+            "(link to coinconnect.site pages and other blog articles — see _data/linkmap.yml)"
+        )
 
     # --- structure of the article itself ---
     h2s = re.findall(r"^##\s+(.+)$", article, re.M)
@@ -290,6 +386,7 @@ def publish_override():
     with open(os.path.join(POSTS_DIR, filename), "w", encoding="utf-8", newline="\n") as fh:
         fh.write(body)
 
+    add_to_linkmap(title, fm.get("categories", "").strip("[] "), slugify(title))
     append_log(TODAY_STR, "override", title, len(article.split()))
     log(f"published manual article: {filename}")
     log("queue left untouched — the queued article keeps its place")
@@ -337,6 +434,7 @@ def publish_from_queue():
         fh.write(body)
     os.remove(path)
 
+    add_to_linkmap(title, fm.get("categories", "").strip("[] "), slugify(title))
     append_log(TODAY_STR, "queue", title, words)
     log(f"published {filename} ({words} words)")
 

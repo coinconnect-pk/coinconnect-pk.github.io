@@ -11,11 +11,11 @@ The licensing question is the first one every operator asks, and it is the one m
 
 Get any one of those wrong and you either build a compliance programme you did not need, or you commit an offence carrying up to five years' imprisonment.
 
-This article works through the test as the Virtual Assets Act, 2026 sets it out, and identifies the exemptions that are written into the statute rather than inferred from it.
+This article works through the test as the [Virtual Assets Act](https://blog.coinconnect.site/pakistans-virtual-assets-act-2026-the-complete-guide/), 2026 sets it out, and identifies the exemptions that are written into the statute rather than inferred from it.
 
 ## Who needs a PVARA licence?
 
-Under section 50(1) of the Virtual Assets Act, 2026, any person who, by way of business, engages in or represents themselves as engaging in any Virtual Asset Service in or from Pakistan must be both a company incorporated in Pakistan and the holder of a valid licence granted by PVARA. Both conditions must be met, not one.
+Under section 50(1) of the Virtual Assets Act, 2026, any person who, by way of business, engages in or represents themselves as engaging in any [Virtual Asset](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22) Service in or from Pakistan must be both a company incorporated in Pakistan and the holder of a valid licence granted by [PVARA](https://www.coinconnect.site/pvara-guide). Both conditions must be met, not one.
 
 PVARA is the Pakistan Virtual Assets Regulatory Authority, established under section 6 of the Act as the body responsible for licensing, regulating and supervising virtual asset service providers and issuers.
 
@@ -27,12 +27,12 @@ Note the structure. A licensed foreign company is not compliant, because it fail
 
 ## What is the three-part test for licensability?
 
-A business needs a licence where all three of the following are true: it provides at least one service listed in Schedule I to the Act; it does so as a business, on a professional basis; and it does so in or from Pakistan. Failing any one limb takes the business outside the licensing requirement.
+A business needs a licence where all three of the following are true: it provides at least one service listed in [Schedule I](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-categories-explained-23) to the Act; it does so as a business, on a professional basis; and it does so in or from Pakistan. Failing any one limb takes the business outside the licensing requirement.
 
 The three limbs come from different sections and must be read together:
 
 1. **The service limb.** Section 18 provides that Virtual Asset Services are those specified in Schedule I, plus any other service notified by the Federal Government and subsequently added to Schedule I. Schedule I lists ten categories.
-2. **The business limb.** Section 3(1)(xxxiii) defines a Virtual Asset Service Provider as "any Person who, as a business, provides one or more Virtual Asset Services to third parties on a professional basis." A one-off, non-professional, or purely personal activity does not meet this.
+2. **The business limb.** Section 3(1)(xxxiii) defines a [Virtual Asset Service Provider](https://www.coinconnect.site/blog/coinconnect-insights-1/vasp-license-pakistan-3) as "any Person who, as a business, provides one or more Virtual Asset Services to third parties on a professional basis." A one-off, non-professional, or purely personal activity does not meet this.
 3. **The territorial limb.** Section 2(1)(a) applies the Act to a provider carrying on, or holding itself out as carrying on, a service "in or from Pakistan."
 
 The words "holds itself out" in section 2(1)(a) and "represent themselves as engaging in" in section 50(1) are significant. Marketing a service you do not yet provide can bring you within scope.
@@ -58,9 +58,9 @@ Section 18(b) allows the Federal Government to notify further services, which ar
 
 ## Who is exempt from licensing?
 
-Three exemptions are written expressly into the statutory text: pure proprietary trading, pure mining for one's own account, and the provision of non-custodial software or hardware. Each is a defined carve-out within the relevant definition, not a general discretion.
+Three exemptions are written expressly into the statutory text: pure proprietary trading, pure [mining](https://www.coinconnect.site/blog/3/pakistan-pvara-virtual-asset-mining-licensing-63) for one's own account, and the provision of non-custodial software or hardware. Each is a defined carve-out within the relevant definition, not a general discretion.
 
-**Proprietary trading.** The exemption to Schedule I item 2 states that a person dealing solely on its own account, which does not execute orders on behalf of customers and does not hold or control customer assets, is not carrying on broker-dealer services. All three conditions must hold. Adding a single customer order, or taking custody of a single customer's assets, removes the exemption.
+**Proprietary trading.** The exemption to Schedule I item 2 states that a person dealing solely on its own account, which does not execute orders on behalf of customers and does not hold or control [customer assets](https://www.coinconnect.site/blog/3/customer-assets-definition-pvara-pakistan-62), is not carrying on [broker-dealer](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-broker-dealer-license-what-it-covers-27) services. All three conditions must hold. Adding a single customer order, or taking [custody](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-custody-license-safeguarding-customer-assets-25) of a single customer's assets, removes the exemption.
 
 **Pure mining.** Section 37(2) provides that pure mining, by itself, does not constitute a virtual asset service requiring a licence under section 18 and Schedule I. But the same subsection provides that mining operations involving customer assets or funds shall be treated as virtual asset services and require licensing. Section 37(3) separately allows PVARA to establish a registration or declaration framework for mining operators exceeding thresholds of scale, energy use or hash rate — so a miner may be registrable even while remaining unlicensable.
 
@@ -84,7 +84,7 @@ Two provisions matter if your classification is genuinely uncertain, and they po
 
 Section 9(1)(f) empowers PVARA to assess, determine and classify any virtual asset, service, activity, offering, issuer or service provider based on its substantive features, underlying function, method of use or economic effect — "irrespective of the nomenclature, structure, or designation assigned to it." Structuring around a label will not work. Where the asset exhibits characteristics falling within the mandates of the State Bank of Pakistan or the [Securities and Exchange Commission of Pakistan](https://www.secp.gov.pk), PVARA must consult them.
 
-Section 35(3), by contrast, allows PVARA to issue guidance, no-objection statements or no-action communications in accordance with Regulations. This is the constructive route for a genuinely novel model, and it sits alongside the regulatory sandbox established under section 35(1).
+Section 35(3), by contrast, allows PVARA to issue guidance, no-objection statements or no-action communications in accordance with Regulations. This is the constructive route for a genuinely novel model, and it sits alongside the [regulatory sandbox](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-sandbox-form-i-complete-walkthrough-2026-8) established under section 35(1).
 
 In practice, the questions worth answering before you conclude you are out of scope are:
 

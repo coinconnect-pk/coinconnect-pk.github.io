@@ -7,7 +7,7 @@ author: "Malik Abbas"
 description: "PVARA is Pakistan's Virtual Assets Regulatory Authority, established under section 6 of the Virtual Assets Act 2026. Its status, mandate and powers explained."
 ---
 
-Every regulated market has a body that decides who trades in it. In Pakistan's virtual asset market, that body is PVARA.
+Every regulated market has a body that decides who trades in it. In Pakistan's [virtual asset](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22) market, that body is [PVARA](https://www.coinconnect.site/pvara-guide).
 
 It is new, it is statutory, and it holds a wider set of powers than most people assume. PVARA does not merely issue licences. It sets prudential standards, inspects licensees, blocks websites, imposes fines, investigates offences and prosecutes them through a special court.
 
@@ -15,7 +15,7 @@ This article sets out what PVARA is as a matter of law: its corporate status, wh
 
 ## What is PVARA?
 
-PVARA is the Pakistan Virtual Assets Regulatory Authority, established under section 6 of the Virtual Assets Act, 2026. It is a body corporate with perpetual succession and a common seal, it may sue and be sued in its own name, and section 6(3) provides that it shall be autonomous in the performance of its functions and the exercise of its powers.
+PVARA is the Pakistan Virtual Assets Regulatory Authority, established under section 6 of the [Virtual Assets Act](https://blog.coinconnect.site/pakistans-virtual-assets-act-2026-the-complete-guide/), 2026. It is a body corporate with perpetual succession and a common seal, it may sue and be sued in its own name, and section 6(3) provides that it shall be autonomous in the performance of its functions and the exercise of its powers.
 
 Section 3(1)(ii) of the Act defines "Authority" or "PVARA" as the Pakistan Virtual Assets Regulatory Authority established under the Act. The two terms are used interchangeably throughout the statute.
 
@@ -69,7 +69,7 @@ The nine functions are:
 - Promote responsible innovation, digital financial inclusion and compliant market development
 - Promote, develop, govern and regulate the adoption and scalable use of blockchain and distributed ledger technology across Pakistan
 - Assess, determine and classify any virtual asset, service, activity, offering, issuer or service provider by substance rather than label
-- Coordinate with the Financial Monitoring Unit, the National AML and CFT Authority and law enforcement on money laundering and terrorist financing
+- Coordinate with the Financial Monitoring Unit, the National [AML](https://www.coinconnect.site/blog/3/fit-and-proper-aml-pvara-mistakes-54) and CFT Authority and law enforcement on money laundering and terrorist financing
 - Advise the Federal Government on regulatory, supervisory, technical or emerging-risk matters
 - Do all such acts as may be necessary or incidental to discharging its functions
 
@@ -102,7 +102,7 @@ The tenth is worth dwelling on. Section 9(2)(l) allows PVARA to enter cooperatio
 
 ## How is PVARA funded and held to account?
 
-Section 14 establishes the Pakistan Virtual Asset Regulatory Authority Fund, a lapsable fund vested in and administered by the Authority. It draws on eleven listed sources, including federal funding, grants, NOC and licensing fees, penalties and fines, and charges for services including sandbox participation.
+Section 14 establishes the Pakistan Virtual Asset Regulatory Authority Fund, a lapsable fund vested in and administered by the Authority. It draws on eleven listed sources, including federal funding, grants, NOC and licensing fees, penalties and fines, and charges for services including [sandbox](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-sandbox-reduced-capital-pakistan-19) participation.
 
 Accountability runs through three channels:
 
@@ -113,6 +113,14 @@ Accountability runs through three channels:
 **Conduct.** Section 16 requires the Chairperson, members, Managing Director, officers and employees to act with integrity, impartiality, confidentiality and good faith, and to avoid conflicts of interest. Section 16(2) requires a prescribed Code of Conduct covering disclosure of interests, conflict management, restrictions on personal trading in virtual assets, confidentiality and post-tenure obligations. Under section 16(3), a violation constitutes misconduct and "shall result in removal from office or service." Section 69 deems all PVARA personnel to be public servants within the meaning of section 21 of the Pakistan Penal Code, 1860.
 
 Section 71 preserves a federal steer: the Federal Government may issue policy directives to align PVARA's actions with national policies and priorities, but such directives "shall not impede the Authority's operational autonomy." How that proviso operates in practice is not settled by the Act, and it is one of the more consequential open questions in the statute.
+
+## Related reading
+
+- [PVARA Exchange License: Capital, Rules & Obligations 2026](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-exchange-license-requirements-capital-obligations-24)
+- [PVARA Transfer & Settlement License: Crypto Payments 2026](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-transfer-settlement-license-payments-remittance-28)
+- [The PVARA Licensing Gold Rush: Pakistan's Crypto Frontier](https://www.coinconnect.site/blog/3/blogpvara-licensing-gold-rush-pakistan-crypto-frontier-56)
+- [PVARA Custody License: Safeguard Customer Crypto 2026](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-custody-license-safeguarding-customer-assets-25)
+- [PVARA Management & Investment License: Crypto Funds 2026](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-management-investment-services-license-29)
 
 ## About this analysis
 

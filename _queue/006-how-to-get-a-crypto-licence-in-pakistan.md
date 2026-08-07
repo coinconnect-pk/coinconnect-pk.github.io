@@ -9,13 +9,13 @@ description: "The route to a virtual asset licence in Pakistan runs NOC, incorpo
 
 The licensing route in Pakistan runs in a specific order, and the order is the whole point. A promoter who incorporates a company first and approaches the regulator second has not taken a shortcut — they have skipped a statutory step that cannot be reversed by filing later.
 
-This article sets out the sequence as the Virtual Assets Act, 2026 and the PVARA No Objection Certificate Regulations 2025 establish it: what happens at each stage, what you must produce, and which deadlines run from where.
+This article sets out the sequence as the [Virtual Assets Act](https://blog.coinconnect.site/pakistans-virtual-assets-act-2026-the-complete-guide/), 2026 and the [PVARA](https://www.coinconnect.site/pvara-guide) [No Objection Certificate](https://www.coinconnect.site/regulatory-licensing) Regulations 2025 establish it: what happens at each stage, what you must produce, and which deadlines run from where.
 
 Some numbers in this process do not yet exist. Capital thresholds and fees are deferred to Regulations PVARA has not published. Where that is the case, this article says so rather than supplying a figure.
 
 ## What are the steps to get a virtual asset licence in Pakistan?
 
-The route has four stages: apply to PVARA for a No-Objection Certificate before incorporating; incorporate a Pakistani company once the NOC is granted; register on the FMU goAML portal; and submit the licence application under section 19(4) of the Virtual Assets Act, 2026. Incorporation cannot come first.
+The route has four stages: apply to PVARA for a No-Objection Certificate before incorporating; incorporate a Pakistani company [once the NOC](https://www.coinconnect.site/blog/coinconnect-insights-1/post-noc-pakistan-operational-playbook-12) is granted; register on the FMU [goAML](https://www.coinconnect.site/blog/coinconnect-insights-1/fmu-goaml-vasp-pakistan-17) portal; and submit the licence application under section 19(4) of the Virtual Assets Act, 2026. [Incorporation](https://www.coinconnect.site/corporate-setup) cannot come first.
 
 PVARA is the Pakistan Virtual Assets Regulatory Authority. FMU is Pakistan's Financial Monitoring Unit, and goAML is the platform through which regulated entities file suspicious transaction reports.
 
@@ -32,7 +32,7 @@ PVARA is the Pakistan Virtual Assets Regulatory Authority. FMU is Pakistan's Fin
 
 ## Why must the NOC come before incorporation?
 
-Section 19(1) of the Virtual Assets Act, 2026 requires any person intending to incorporate a company with the primary objective of engaging in Virtual Asset Services to first apply to PVARA for a No-Objection Certificate, before commencing the process of incorporation. The clearance is pre-incorporation by design.
+Section 19(1) of the Virtual Assets Act, 2026 requires any person intending to incorporate a company with the primary objective of engaging in [Virtual Asset](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22) Services to first apply to PVARA for a No-Objection Certificate, before commencing the process of incorporation. The clearance is pre-incorporation by design.
 
 > "…shall first apply to the Authority for a No-Objection Certificate before commencing the process of such incorporation."
 >
@@ -42,7 +42,7 @@ Regulation 15.4 of the NOC Regulations confirms the function: PVARA's grant of t
 
 In practice, this reverses the sequence most promoters expect. In other Pakistani regulated sectors you typically incorporate with the [Securities and Exchange Commission of Pakistan](https://www.secp.gov.pk) and then approach the sector regulator. Here, PVARA's clearance is the precondition to incorporation, not a consequence of it.
 
-Regulation 2.2 explains why the NOC does double duty. Its issuance constitutes both approval for AML Registration on goAML and permission to proceed with incorporation of the local entity. One instrument, two permissions.
+Regulation 2.2 explains why the NOC does double duty. Its issuance constitutes both approval for [AML](https://www.coinconnect.site/blog/3/fit-and-proper-aml-pvara-mistakes-54) Registration on goAML and permission to proceed with incorporation of the local entity. One instrument, two permissions.
 
 ## What do you need to file for the NOC?
 
@@ -50,9 +50,9 @@ The NOC application is made on Form A1, prescribed in Annex A to the NOC Regulat
 
 The evidence pack breaks into five groups:
 
-**People.** Under regulation 5.1, eight Key Individuals must be in place: Chief Executive Officer, Director, Chief Financial Officer, Compliance Officer, Money Laundering Reporting Officer, Head of Internal Audit, Head of Risk Management and Head of Information Security. Each requires a completed Form A3 Fit and Proper Questionnaire, an up-to-date CV and a passport copy. Regulation 5.2 permits the Compliance Officer and MLRO roles to be combined where justified by size and complexity. Form A1 section 3.2 requires these details for both the global entity and the proposed Pakistani entity.
+**People.** Under regulation 5.1, eight Key Individuals must be in place: Chief Executive Officer, Director, Chief Financial Officer, Compliance Officer, Money Laundering Reporting Officer, Head of Internal Audit, Head of Risk Management and Head of Information Security. Each requires a completed Form A3 [Fit and Proper](https://www.coinconnect.site/blog/coinconnect-insights-1/url-slug-fit-and-proper-test-pvara-form-a3-14) Questionnaire, an up-to-date CV and a passport copy. Regulation 5.2 permits the Compliance Officer and MLRO roles to be combined where justified by size and complexity. Form A1 section 3.2 requires these details for both the global entity and the proposed Pakistani entity.
 
-**Ownership.** Every Controller — any person holding directly or indirectly 20% or more of voting power or share capital, per regulation 7.1 — and every Beneficial Owner must complete Form A2. A complete ownership and control structure chart is required, showing all shareholding layers, all intermediate entities and jurisdictions, and the ultimate natural persons.
+**Ownership.** Every [Controller](https://www.coinconnect.site/blog/3/pakistan-pvara-controller-virtual-assets-act-2026-58) — any person holding directly or indirectly 20% or more of voting power or share capital, per regulation 7.1 — and every Beneficial Owner must complete Form A2. A complete ownership and control structure chart is required, showing all shareholding layers, all intermediate entities and jurisdictions, and the ultimate natural persons.
 
 **AML framework.** Form A1 section 5 lists fourteen documents, including a board-approved AML/CFT Policy, CDD and EDD procedures, PEP management procedures, a TFS policy, transaction monitoring procedures, a blockchain analytics methodology, STR/CTR escalation procedures, an enterprise-wide ML/TF risk assessment, a recordkeeping policy covering seven-year retention, a training policy, and an outsourcing register. Form A4, signed by the CEO and MLRO, certifies that the framework is tailored to the business model and "is not a template or generic framework."
 
@@ -68,7 +68,7 @@ Regulation 17.1 requires PVARA to issue or refuse the NOC within sixty calendar 
 
 Two points on the timing that matter for planning:
 
-- **The sixty days runs from assessment, not submission.** The Regulations do not fix how long the assessment phase itself may take, and do not say what happens if the sixty days lapses without a decision.
+- **The sixty days runs from assessment, not submission.** The Regulations do not fix [how long](https://www.coinconnect.site/blog/3/how-long-pvara-license-takes-39) the assessment phase itself may take, and do not say what happens if the sixty days lapses without a decision.
 - **The three-month licensing clock runs from the publication of the VASP licensing regulations, not from the NOC date.** An applicant holding an NOC before those regulations exist is not yet on that clock.
 
 Regulation 16 permits PVARA to interview Key Individuals, conduct inspections and request additional information during assessment. Each of these can extend the practical timeline. Our reading is that the sixty-day figure should be treated as a decision window rather than a service standard for the whole process.

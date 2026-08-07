@@ -7,11 +7,11 @@ author: "Malik Abbas"
 description: "Section 3 of the Virtual Assets Act 2026 defines a virtual asset, and section 2 carves six things out of it. The definition and its boundaries, explained."
 ---
 
-Every obligation in the Virtual Assets Act, 2026 depends on one definition. If a token is a Virtual Asset, a chain of licensing, prudential, conduct and anti-money-laundering duties follows. If it is not, none of it applies.
+Every obligation in the [Virtual Assets Act](https://blog.coinconnect.site/pakistans-virtual-assets-act-2026-the-complete-guide/), 2026 depends on one definition. If a token is a [Virtual Asset](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22), a chain of licensing, prudential, conduct and anti-money-laundering duties follows. If it is not, none of it applies.
 
 The definition sits at section 3(1)(xxxi) and is three lines long. The exclusions that qualify it run to six categories at section 2(2), one of which carries seven separate conditions.
 
-This article sets out the definition, the exclusions, the related token definitions the Act uses, and the provision that lets PVARA override a classification you have given your own product.
+This article sets out the definition, the exclusions, the related token definitions the Act uses, and the provision that lets [PVARA](https://www.coinconnect.site/pvara-guide) override a classification you have given your own product.
 
 ## What is a virtual asset under Pakistani law?
 
@@ -43,7 +43,7 @@ Section 2(2) excludes six categories from the Act's application, each subject to
 | NFTs or digital collectibles not constituting a virtual asset | Assessed by reference to substance, function or economic effect |
 | Any other digital representation expressly excluded by PVARA | Open-ended residual power at s.2(2)(f) |
 
-The closed-loop exclusion at section 2(2)(a) is the most detailed. To fall outside the Act, a token must — by design, technical architecture, or enforceable system controls — be:
+The [closed-loop](https://www.coinconnect.site/blog/3/pakistan-pvara-closed-loop-token-exemption-2026-60) exclusion at section 2(2)(a) is the most detailed. To fall outside the Act, a token must — by design, technical architecture, or enforceable system controls — be:
 
 - Usable or redeemable solely within a restricted digital platform, ecosystem, application or network administered by the issuer or operator
 - Not transferable outside that platform, whether directly or indirectly
@@ -63,7 +63,7 @@ Section 3(1)(xx) defines a Non-Fungible Token as a unique, non-interchangeable d
 
 Uniqueness alone does not exclude a token. The exclusion is functional. A one-of-one artwork held for aesthetic reasons is outside; the same token marketed and traded as an investment is a different matter.
 
-Section 2(2)(e) then adds a second, broader NFT exclusion for any non-fungible token or digital collectible "that does not constitute a Virtual Asset, having regard to its substance, function, or economic effect." This is a substance test, and it points the reader back to the section 3(1)(xxxi) definition rather than providing an independent route out.
+Section 2(2)(e) then adds a second, broader [NFT](https://www.coinconnect.site/blog/3/nft-exemption-pakistan-pvara-virtual-assets-act-2026-61) exclusion for any non-fungible token or digital collectible "that does not constitute a Virtual Asset, having regard to its substance, function, or economic effect." This is a substance test, and it points the reader back to the section 3(1)(xxxi) definition rather than providing an independent route out.
 
 In practice, the questions that determine NFT classification are:
 
@@ -78,13 +78,13 @@ An affirmative answer to any of these makes the exclusion difficult to sustain.
 
 Beyond the general definition, the Act separately defines two token types that carry their own issuance regimes: Fiat-Referenced Tokens at section 3(1)(ix) and Asset-Referenced Tokens at section 3(1)(i). Both are subsets of Virtual Asset, not alternatives to it.
 
-**Fiat-Referenced Token** means a virtual asset that purports to maintain a stable value relative to a single Official Currency of any country and is redeemable at par value by its issuer. Two elements: a single currency reference, and par redeemability.
+**[Fiat-Referenced Token](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-frt-stablecoin-issuance-32)** means a virtual asset that purports to maintain a stable value relative to a single Official Currency of any country and is redeemable at par value by its issuer. Two elements: a single currency reference, and par redeemability.
 
 Section 3(1)(xxi) defines Official or Fiat Currency as a currency issued by the central bank or monetary authority of a country that is recognised as legal tender under the laws of that country.
 
 Section 31(1) then imposes six requirements on any issuer of a Fiat-Referenced Token in Pakistan, including one hundred percent reserve backing with High-Quality Liquid Assets or other prescribed assets held as a segregated reserve, mechanisms for redemption at par without undue delay, audited reserve disclosures, and prioritised holder protections in insolvency.
 
-**Asset-Referenced Token** means a virtual asset that represents, directly or indirectly, ownership rights, claims or economic interests — including entitlements to receive or share income, returns or other economic benefits — in respect of one or more underlying assets, or is designed to maintain a stable value by reference to such underlying assets.
+**[Asset-Referenced Token](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-art-tokenized-gold-issuance-33)** means a virtual asset that represents, directly or indirectly, ownership rights, claims or economic interests — including entitlements to receive or share income, returns or other economic benefits — in respect of one or more underlying assets, or is designed to maintain a stable value by reference to such underlying assets.
 
 Section 32(2) restricts what may back it. An Asset-Referenced Token must at all times be fully backed by the underlying assets and may reference tangible or intangible assets, including commodities, real estate, real-world assets, securities, financial assets, or a combination of official currencies — but "shall not be backed or derive its value from other Virtual Assets."
 
@@ -94,13 +94,13 @@ Section 53 then prohibits a third type outright: no person may issue, offer or m
 
 Yes. Section 9(1)(f) empowers PVARA to assess, determine and classify any virtual asset, service, activity, offering, issuer or service provider based on its substantive features, underlying function, method of use or economic effect, irrespective of the nomenclature, structure or designation assigned to it.
 
-The provision is drafted to defeat labelling. It expressly extends to determining whether an asset is a Virtual Asset at all, whether a person qualifies as a Virtual Asset Service Provider, and whether an offering constitutes a financial activity within the scope of the Act.
+The provision is drafted to defeat labelling. It expressly extends to determining whether an asset is a Virtual Asset at all, whether a person qualifies as a [Virtual Asset Service Provider](https://www.coinconnect.site/blog/coinconnect-insights-1/vasp-license-pakistan-3), and whether an offering constitutes a financial activity within the scope of the Act.
 
 One procedural safeguard applies. Where the asset exhibits characteristics falling within the respective mandates of the State Bank of Pakistan or the [Securities and Exchange Commission of Pakistan](https://www.secp.gov.pk), section 9(1)(f) requires PVARA to consult them before classifying. This is the mechanism that manages the boundary created by section 2(2)(b).
 
 Section 5(3) states the general position on that boundary: the regulation and supervision of virtual assets, virtual asset service providers, tokenisation of real-world assets and blockchain technology vests primarily in PVARA, in coordination with other relevant regulators where applicable.
 
-Read together with the "except where represented, issued, or transferred using distributed ledger technology" clause in section 3(1)(xxxi), the architecture appears to be: conventional instruments stay with SBP and SECP; the same instruments in tokenised form come to PVARA, subject to consultation. Our reading is that this is the intended design, but the Act does not state it in those terms, and the boundary in a genuinely hybrid case is not resolved on the face of the statute.
+Read together with the "except where represented, issued, or transferred using distributed ledger technology" clause in section 3(1)(xxxi), the architecture appears to be: conventional instruments stay with SBP and [SECP](https://www.coinconnect.site/corporate-setup); the same instruments in tokenised form come to PVARA, subject to consultation. Our reading is that this is the intended design, but the Act does not state it in those terms, and the boundary in a genuinely hybrid case is not resolved on the face of the statute.
 
 ## What is not defined, and why it matters
 
@@ -112,7 +112,7 @@ Several terms the Act relies on are left to subordinate instruments. Anyone buil
 - **Market Manipulation.** Section 3(1)(xvii) sets three limbs but adds "as may be further defined by Regulations." Section 52(3) requires PVARA to issue guidelines specifying the types of manipulative behaviour.
 - **Significant Issuer thresholds.** Section 33(1) defers entirely to Regulations.
 
-Section 3(2) supplies a default for anything else: words and expressions not defined in the Act but defined in the State Bank of Pakistan Act 1956, the Securities Act 2015, the Anti-Money Laundering Act 2010 or the Companies Act 2017 carry the meanings assigned in those Acts, unless the context otherwise requires.
+Section 3(2) supplies a default for anything else: words and expressions not defined in the Act but defined in the State Bank of Pakistan Act 1956, the Securities Act 2015, the [Anti-Money Laundering](https://www.coinconnect.site/blog/3/fit-and-proper-aml-pvara-mistakes-54) Act 2010 or the Companies Act 2017 carry the meanings assigned in those Acts, unless the context otherwise requires.
 
 ## About this analysis
 

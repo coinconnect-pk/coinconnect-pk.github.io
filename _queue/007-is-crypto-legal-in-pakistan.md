@@ -7,15 +7,15 @@ author: "Malik Abbas"
 description: "Virtual assets are lawful but regulated in Pakistan, and are not legal tender. What the Virtual Assets Act 2026 permits, restricts and criminalises."
 ---
 
-The question "is crypto legal in Pakistan" has had several answers over the past decade, most of them derived from circulars, statements and inference rather than statute. That is no longer the position.
+The question "is crypto [legal in Pakistan](https://www.coinconnect.site/blog/coinconnect-insights-1/is-crypto-legal-in-pakistan-13)" has had several answers over the past decade, most of them derived from circulars, statements and inference rather than statute. That is no longer the position.
 
-Pakistan now has primary legislation on the subject. The Virtual Assets Act, 2026, as passed by the National Assembly, does not ban virtual assets. It regulates them — which is a different thing, with different consequences for anyone holding, trading in, or building a business around them.
+Pakistan now has primary legislation on the subject. The [Virtual Assets Act](https://blog.coinconnect.site/pakistans-virtual-assets-act-2026-the-complete-guide/), 2026, as passed by the National Assembly, does not ban virtual assets. It regulates them — which is a different thing, with different consequences for anyone holding, trading in, or building a business around them.
 
 This article sets out precisely what the Act permits, what it restricts, and what it makes a criminal offence.
 
 ## Is cryptocurrency legal in Pakistan?
 
-Virtual assets are lawful in Pakistan and are now regulated by statute. The Virtual Assets Act, 2026 creates a licensing regime for businesses providing virtual asset services rather than prohibiting virtual assets themselves. However, section 3(1)(xxxi) states expressly that virtual assets are not legal tender.
+Virtual assets are lawful in Pakistan and are now regulated by statute. The Virtual Assets Act, 2026 creates a [licensing regime](https://www.coinconnect.site/pvara-guide) for businesses providing [virtual asset](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22) services rather than prohibiting virtual assets themselves. However, section 3(1)(xxxi) states expressly that virtual assets are not legal tender.
 
 The distinction matters. A prohibition would make holding or transacting unlawful. A licensing regime makes *providing services* to others without authorisation unlawful, while leaving the asset class itself lawful to hold and use.
 
@@ -31,16 +31,16 @@ The Act regulates two categories of actor: Virtual Asset Service Providers carry
 
 Section 2(1) does not extend to individual holders, individual traders acting for themselves, or users of a service. The regulatory burden falls on the intermediary and the issuer.
 
-The businesses caught are those providing any of the ten service categories in Schedule I:
+The businesses caught are those providing any of the ten service categories in [Schedule I](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-categories-explained-23):
 
 - Advisory Services — personalised recommendations to a specific customer
-- Broker-Dealer Services — arranging orders, accepting orders and consideration, proprietary trading, market-making with customer assets, placement for issuers
-- Custody and Administration Services — safekeeping virtual assets or private keys for customers
+- [Broker-Dealer](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-broker-dealer-license-what-it-covers-27) Services — arranging orders, accepting orders and consideration, proprietary trading, market-making with [customer assets](https://www.coinconnect.site/blog/3/customer-assets-definition-pvara-pakistan-62), placement for issuers
+- [Custody](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-custody-license-safeguarding-customer-assets-25) and Administration Services — safekeeping virtual assets or private keys for customers
 - Exchange Services — crypto-to-fiat, crypto-to-crypto, order matching, order-book maintenance
-- Lending and Borrowing Services
-- Virtual Asset Derivatives Services
-- Management and Investment Services — including discretionary staking for customers
-- Transfer and Settlement Services
+- [Lending](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-lending-borrowing-license-30) and Borrowing Services
+- Virtual Asset [Derivatives](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-derivatives-leverage-license-31) Services
+- Management and [Investment Services](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-management-investment-services-license-29) — including discretionary staking for customers
+- [Transfer and Settlement](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-transfer-settlement-license-payments-remittance-28) Services
 - Issuance Services
 - Mining-related Services involving customer assets or funds
 

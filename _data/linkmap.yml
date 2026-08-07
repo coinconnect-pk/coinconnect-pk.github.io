@@ -1,0 +1,243 @@
+# Internal link map — every CoinConnect URL an article may link to.
+#
+# main_site.* is rebuilt from the coinconnect.site sitemap by
+#   python .github/scripts/refresh_linkmap.py
+#
+# blog: entries are appended AUTOMATICALLY by publish.py each time an
+# article goes out. Do not hand-edit the blog section.
+
+main_site:
+  pages:
+    - url: "https://www.coinconnect.site/"
+      title: "PVARA Licensing & Crypto Market Entry Pakistan"
+      topics: [home, pvara, licensing, crypto, market, entry]
+    - url: "https://www.coinconnect.site/about"
+      title: "About Us"
+      topics: [about]
+    - url: "https://www.coinconnect.site/careers"
+      title: "Careers at CoinConnect | Crypto Jobs Pakistan — BD, Partnerships PVARA"
+      topics: [careers, crypto, jobs, partnerships, pvara]
+    - url: "https://www.coinconnect.site/coinconnect-blockchain-law-firm-team"
+      title: "CoinConnect Blockchain Law Firm Team | Pakistan's Crypto Lawyers"
+      topics: [blockchain, law, firm, team, crypto, lawyers]
+    - url: "https://www.coinconnect.site/contactus"
+      title: "Contact Us"
+      topics: [contactus, contact]
+    - url: "https://www.coinconnect.site/corporate-information"
+      title: "Corporate Information | SECP & FBR Registered"
+      topics: [corporate, information, secp, fbr, registered]
+    - url: "https://www.coinconnect.site/corporate-setup"
+      title: "Corporate Setup Services | Company Registration for Crypto Exchanges"
+      topics: [corporate, setup, services, company, registration, crypto, exchanges]
+    - url: "https://www.coinconnect.site/crypto-profit-calculator"
+      title: "Crypto Profit Calculator — Live Prices, Fees & PKR"
+      topics: [crypto, profit, calculator, live, prices, fees, pkr]
+    - url: "https://www.coinconnect.site/engagements"
+      title: "Crypto Exchange Market Entry Partners"
+      topics: [engagements, crypto, exchange, market, entry, partners]
+    - url: "https://www.coinconnect.site/faq"
+      title: "Crypto Pakistan FAQ — PVARA, VASP Licensing & Tax"
+      topics: [faq, crypto, pvara, vasp, licensing, tax]
+    - url: "https://www.coinconnect.site/launch-growth"
+      title: "Launch & Growth Services | KOL Marketing & Crypto Events Pakistan"
+      topics: [launch, growth, services, kol, marketing, crypto, events]
+    - url: "https://www.coinconnect.site/llms"
+      title: "llms"
+      topics: [llms]
+    - url: "https://www.coinconnect.site/pakistan-crypto-tax-calculator"
+      title: "Pakistan Crypto Tax Calculator"
+      topics: [crypto, tax, calculator]
+    - url: "https://www.coinconnect.site/pvara-guide"
+      title: "PVARA License Guide 2026 | Pakistan Virtual Assets Regulatory"
+      topics: [pvara, license, virtual, assets, regulatory]
+    - url: "https://www.coinconnect.site/regulatory-licensing"
+      title: "Regulatory & Licensing Services | PVARA NOC & SECP Registration"
+      topics: [regulatory, licensing, services, pvara, noc, secp, registration]
+    - url: "https://www.coinconnect.site/services"
+      title: "Services"
+      topics: [services]
+    - url: "https://www.coinconnect.site/tax-banking"
+      title: "Tax & Banking Services | Crypto Tax Compliance & Bank Accounts"
+      topics: [tax, banking, services, crypto, compliance, bank, accounts]
+
+  blog:
+    - url: "https://www.coinconnect.site/blog"
+      title: "Blog Posts"
+      topics: [blog, posts]
+    - url: "https://www.coinconnect.site/blog/3"
+      title: "​"
+      topics: []
+    - url: "https://www.coinconnect.site/blog/3/banking-first-pvara-license-47"
+      title: "Banking-First: Secure Your Account Before the PVARA License"
+      topics: [banking, first, pvara, license, secure, your, account, before]
+    - url: "https://www.coinconnect.site/blog/3/blogpvara-licensing-gold-rush-pakistan-crypto-frontier-56"
+      title: "The PVARA Licensing Gold Rush: Pakistan's Crypto Frontier"
+      topics: [blogpvara, licensing, gold, rush, crypto, frontier, pvara]
+    - url: "https://www.coinconnect.site/blog/3/choosing-pvara-licensing-partner-45"
+      title: "Choosing a PVARA Licensing Partner: 10 Questions to Ask"
+      topics: [choosing, pvara, licensing, partner, questions, ask]
+    - url: "https://www.coinconnect.site/blog/3/coinconnect-pvara-process-50"
+      title: "Inside the CoinConnect Process: Strategy to Licensed Business"
+      topics: [pvara, process, inside, strategy, licensed, business]
+    - url: "https://www.coinconnect.site/blog/3/crypto-banking-pakistan-40"
+      title: "Crypto Banking in Pakistan: Why a License Isn't Enough"
+      topics: [crypto, banking, license, isnt, enough]
+    - url: "https://www.coinconnect.site/blog/3/crypto-banking-pakistan-43"
+      title: "Licensed but Can't Bank? The Crypto Banking Wall, Pakistan"
+      topics: [crypto, banking, licensed, but, cant, bank, wall]
+    - url: "https://www.coinconnect.site/blog/3/customer-assets-definition-pvara-pakistan-62"
+      title: "Customer Assets Definition Under PVARA Pakistan"
+      topics: [customer, assets, definition, pvara, under]
+    - url: "https://www.coinconnect.site/blog/3/diy-pvara-license-cost-37"
+      title: "DIY PVARA License: Why It's the Most Expensive Option (2026)"
+      topics: [diy, pvara, license, cost, most, expensive, option]
+    - url: "https://www.coinconnect.site/blog/3/exchange-operators-not-advisors-48"
+      title: "Built by Exchange Operators, Not Just Advisors"
+      topics: [exchange, operators, not, advisors, built, just]
+    - url: "https://www.coinconnect.site/blog/3/feed"
+      title: "​"
+      topics: [feed]
+    - url: "https://www.coinconnect.site/blog/3/first-mover-advantage-pakistan-crypto-53"
+      title: "First-Mover Advantage: Enter Pakistan Crypto in 2026"
+      topics: [first, mover, advantage, crypto, enter]
+    - url: "https://www.coinconnect.site/blog/3/fit-and-proper-aml-pvara-mistakes-54"
+      title: "Fit & Proper and AML: The Quiet Mistakes That Kill PVARA Bids"
+      topics: [fit, proper, aml, pvara, mistakes, quiet, kill, bids]
+    - url: "https://www.coinconnect.site/blog/3/hire-coinconnect-enter-pakistan-crypto-market-34"
+      title: "Why Hire CoinConnect for PVARA Licensing in Pakistan (2026)"
+      topics: [hire, enter, crypto, market, pvara, licensing]
+    - url: "https://www.coinconnect.site/blog/3/how-long-pvara-license-takes-39"
+      title: "How Long Does a PVARA License Take? (Honest 2026 Answer)"
+      topics: [long, pvara, license, takes, does, take, honest, answer]
+    - url: "https://www.coinconnect.site/blog/3/law-firm-vasp-license-pakistan-41"
+      title: "Do You Need a Consultant for a PVARA License? (2026)"
+      topics: [law, firm, vasp, license, you, need, consultant, pvara]
+    - url: "https://www.coinconnect.site/blog/3/pakistan-pvara-closed-loop-token-exemption-2026-60"
+      title: "Pakistan PVARA: Closed-Loop Token Exemption 2026"
+      topics: [pvara, closed, loop, token, exemption]
+    - url: "https://www.coinconnect.site/blog/3/pakistan-pvara-controller-virtual-assets-act-2026-58"
+      title: "Controller Definition Under Pakistan's Virtual Assets Act 2026"
+      topics: [pvara, controller, virtual, assets, act, definition, under]
+    - url: "https://www.coinconnect.site/blog/3/pakistan-pvara-virtual-asset-mining-licensing-63"
+      title: "PVARA Licensing for Virtual Asset Mining in Pakistan"
+      topics: [pvara, virtual, asset, mining, licensing]
+    - url: "https://www.coinconnect.site/blog/3/protecting-reputation-pakistan-crypto-entry-55"
+      title: "Protecting Your Reputation Entering Pakistan's Crypto Market"
+      topics: [protecting, reputation, crypto, entry, your, entering, market]
+    - url: "https://www.coinconnect.site/blog/3/pvara-application-rejected-36"
+      title: "PVARA Application Rejected: The Real Cost & How to Avoid It"
+      topics: [pvara, application, rejected, real, cost, avoid]
+    - url: "https://www.coinconnect.site/blog/3/pvara-license-consultant-35"
+      title: "Do You Need a Consultant for a PVARA License? (2026)"
+      topics: [pvara, license, consultant, you, need]
+    - url: "https://www.coinconnect.site/blog/3/sell-a-business-not-a-license-49"
+      title: "We Don't Sell a License — We Sell a Business"
+      topics: [sell, business, not, license, dont]
+    - url: "https://www.coinconnect.site/blog/3/true-cost-of-delay-pvara-license-52"
+      title: "The True Cost of Delay on a PVARA License"
+      topics: [true, cost, delay, pvara, license]
+    - url: "https://www.coinconnect.site/blog/3/what-a-pvara-consultant-does-44"
+      title: "What a Great PVARA Licensing Consultant Actually Does"
+      topics: [pvara, consultant, does, great, licensing, actually]
+    - url: "https://www.coinconnect.site/blog/3/who-should-run-pvara-application-42"
+      title: "Law Firm, Big-4 or Specialist: Who Runs PVARA Licensing?"
+      topics: [should, run, pvara, application, law, firm, big, specialist, runs, licensing]
+    - url: "https://www.coinconnect.site/blog/3/why-crypto-companies-fail-pakistan-38"
+      title: "7 Reasons Crypto Companies Fail to Enter Pakistan (2026)"
+      topics: [crypto, companies, fail, reasons, enter]
+    - url: "https://www.coinconnect.site/blog/3/why-we-never-guarantee-pvara-approval-51"
+      title: "Why We'll Never Guarantee PVARA Approval"
+      topics: [never, guarantee, pvara, approval, well]
+    - url: "https://www.coinconnect.site/blog/3/zero-objection-protocol-pvara-46"
+      title: "The Zero-Objection Protocol: We Pen-Test Your PVARA License"
+      topics: [zero, objection, protocol, pvara, pen, test, your, license]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1"
+      title: "CoinConnect Insights"
+      topics: [insights]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/crypto-banking-pakistan-vasp-15"
+      title: "Crypto Banking Pakistan: Banks That Open VASP Accounts"
+      topics: [crypto, banking, vasp, banks, open, accounts]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/crypto-tax-pakistan-7"
+      title: "Crypto Tax Pakistan 2026: Section 285BAA Complete Guide"
+      topics: [crypto, tax, section, 285baa]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/feed"
+      title: "CoinConnect Insights"
+      topics: [feed, insights]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/fmu-goaml-vasp-pakistan-17"
+      title: "FMU goAML Registration for VASPs Pakistan — 2026 Guide"
+      topics: [fmu, goaml, vasp, registration, vasps]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/foreign-crypto-exchange-enter-pakistan-pvara-21"
+      title: "How a Foreign Crypto Exchange Enters Pakistan Under PVARA"
+      topics: [foreign, crypto, exchange, enter, pvara, enters, under]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/is-crypto-legal-in-pakistan-13"
+      title: "Is Crypto Legal In Pakistan"
+      topics: [crypto, legal]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/nft-exemption-pakistan-pvara-virtual-assets-act-2026-61"
+      title: "NFT Exemption Under PVARA in Pakistan"
+      topics: [nft, exemption, pvara, virtual, assets, act, under]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/post-noc-pakistan-operational-playbook-12"
+      title: "Post-NOC Pakistan: The 6-Month VASP Operational Gauntlet"
+      topics: [post, noc, operational, playbook, month, vasp, gauntlet]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-art-tokenized-gold-issuance-33"
+      title: "Asset-Referenced Token Issuance Under PVARA: Gold 2026"
+      topics: [pvara, art, tokenized, gold, issuance, asset, referenced, token, under]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-broker-dealer-license-what-it-covers-27"
+      title: "PVARA Broker-Dealer License: What It Covers (2026)"
+      topics: [pvara, broker, dealer, license, covers]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-capital-requirements-pakistan-18"
+      title: "How Much Capital Do You Need for a VASP Licence in Pakistan? 2026"
+      topics: [pvara, capital, requirements, much, you, need, vasp, licence]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-custody-license-safeguarding-customer-assets-25"
+      title: "PVARA Custody License: Safeguard Customer Crypto 2026"
+      topics: [pvara, custody, license, safeguarding, customer, assets, safeguard, crypto]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-derivatives-leverage-license-31"
+      title: "PVARA Derivatives & Leverage License: Crypto Futures"
+      topics: [pvara, derivatives, leverage, license, crypto, futures]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-exchange-license-requirements-capital-obligations-24"
+      title: "PVARA Exchange License: Capital, Rules & Obligations 2026"
+      topics: [pvara, exchange, license, requirements, capital, obligations, rules]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-frt-stablecoin-issuance-32"
+      title: "Stablecoin Issuance Under PVARA: Reserve Rules 2026"
+      topics: [pvara, frt, stablecoin, issuance, under, reserve, rules]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-lending-borrowing-license-30"
+      title: "PVARA Lending & Borrowing License: Crypto Loans 2026"
+      topics: [pvara, lending, borrowing, license, crypto, loans]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-categories-explained-23"
+      title: "The 10 PVARA License Categories Explained | 2026 Guide"
+      topics: [pvara, license, categories, explained]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22"
+      title: "How Foreign Crypto Exchanges Enter Pakistan: PVARA 2026"
+      topics: [pvara, license, foreign, crypto, exchanges, enter]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-management-investment-services-license-29"
+      title: "PVARA Management & Investment License: Crypto Funds 2026"
+      topics: [pvara, management, investment, services, license, crypto, funds]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-phase-2-compliance-failure-11"
+      title: "Why 40% of NOC Holders Will Fail PVARA Phase 2"
+      topics: [pvara, phase, compliance, failure, noc, holders, will, fail]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-routes-compared-sandbox-noc-license-20"
+      title: "Sandbox vs NOC vs No-Action Letter vs Full License: Which PVARA Route"
+      topics: [pvara, routes, compared, sandbox, noc, license, action, letter, full, route]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-sandbox-form-i-complete-walkthrough-2026-8"
+      title: "PVARA Sandbox Form I: Complete Application Walkthrough 2026"
+      topics: [pvara, sandbox, form, walkthrough, application]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-sandbox-reduced-capital-pakistan-19"
+      title: "PVARA Sandbox & Reduced Capital: How to Test Pakistan's Market Before"
+      topics: [pvara, sandbox, reduced, capital, test, market, before]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-transfer-settlement-license-payments-remittance-28"
+      title: "PVARA Transfer & Settlement License: Crypto Payments 2026"
+      topics: [pvara, transfer, settlement, license, payments, remittance, crypto]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/resident-director-pvara-pakistan-10"
+      title: "Resident Director Under PVARA: 2026 Truth for Foreign VASPs"
+      topics: [resident, director, pvara, under, truth, foreign, vasps]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/secp-crypto-company-registration-pakistan-16"
+      title: "SECP Registration for Crypto Companies in Pakistan 2026"
+      topics: [secp, crypto, company, registration, companies]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/url-slug-fit-and-proper-test-pvara-form-a3-14"
+      title: "Fit & Proper Test PVARA — Form A3 Complete Walkthrough"
+      topics: [url, slug, fit, proper, test, pvara, form, walkthrough]
+    - url: "https://www.coinconnect.site/blog/coinconnect-insights-1/vasp-license-pakistan-3"
+      title: "VASP License Pakistan: The Complete 2026 Guide to PVARA Licensing"
+      topics: [vasp, license, pvara, licensing]
+
+# Articles on blog.coinconnect.site. Appended automatically on publish.
+blog: []

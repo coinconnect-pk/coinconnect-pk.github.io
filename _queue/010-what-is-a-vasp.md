@@ -7,15 +7,15 @@ author: "Malik Abbas"
 description: "A VASP is any person who, as a business, provides virtual asset services to third parties on a professional basis. The statutory test, limb by limb."
 ---
 
-The term VASP appears throughout Pakistan's virtual asset framework — in the Act, in the No Objection Certificate Regulations, and in every form an applicant will file. It carries a precise statutory meaning, and that meaning determines who must be licensed.
+The term VASP appears throughout Pakistan's [virtual asset](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22) framework — in the Act, in the [No Objection Certificate](https://www.coinconnect.site/regulatory-licensing) Regulations, and in every form an applicant will file. It carries a precise statutory meaning, and that meaning determines who must be licensed.
 
-The definition itself is one sentence. What makes it difficult is that three of its four components are undefined elsewhere in the Act, and the boundary in each case is drawn by exemptions scattered across Schedule I and section 37.
+The definition itself is one sentence. What makes it difficult is that three of its four components are undefined elsewhere in the Act, and the boundary in each case is drawn by exemptions scattered across [Schedule I](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-categories-explained-23) and section 37.
 
 This article takes the definition apart limb by limb, then sets out what follows once a business falls inside it.
 
 ## What is a VASP?
 
-Under section 3(1)(xxxiii) of the Virtual Assets Act, 2026, a Virtual Asset Service Provider is any Person who, as a business, provides one or more Virtual Asset Services to third parties on a professional basis. All four elements must be present: a person, acting as a business, providing a listed service, to third parties, professionally.
+Under section 3(1)(xxxiii) of the [Virtual Assets Act](https://blog.coinconnect.site/pakistans-virtual-assets-act-2026-the-complete-guide/), 2026, a [Virtual Asset Service Provider](https://www.coinconnect.site/blog/coinconnect-insights-1/vasp-license-pakistan-3) is any Person who, as a business, provides one or more Virtual Asset Services to third parties on a professional basis. All four elements must be present: a person, acting as a business, providing a listed service, to third parties, professionally.
 
 > "'Virtual Asset Service Provider' means any Person who, as a business, provides one or more Virtual Asset Services to third parties on a professional basis."
 >
@@ -39,7 +39,7 @@ The four limbs operate as filters. A business falls outside the definition if it
 
 **"As a business"** is not separately defined. It is the limb that separates a commercial operation from private activity. Section 50(1) uses the same formulation — "by way of business" — when creating the prohibition, so the two provisions align.
 
-**"To third parties"** is the limb that carries most of the statutory exemptions. The proprietary trading exemption in Schedule I item 2 and the pure mining exclusion in section 37(2) both operate by removing the third-party element.
+**"To third parties"** is the limb that carries most of the statutory exemptions. The proprietary trading exemption in Schedule I item 2 and the pure [mining](https://www.coinconnect.site/blog/3/pakistan-pvara-virtual-asset-mining-licensing-63) exclusion in section 37(2) both operate by removing the third-party element.
 
 **"On a professional basis"** overlaps with "as a business" but is not identical. The Advisory Services category in Schedule I item 1 uses the same phrase in its own definition, which suggests it is doing independent work: the recommendation must be given professionally, not merely commercially.
 
@@ -49,7 +49,7 @@ A business is a VASP where it provides any Schedule I service to third parties a
 
 The three statutory exclusions:
 
-- **Proprietary trading.** The exemption to Schedule I item 2 states that a person dealing solely on its own account, which does not execute orders on behalf of customers and does not hold or control customer assets, is not carrying on broker-dealer services. All three conditions must hold simultaneously.
+- **Proprietary trading.** The exemption to Schedule I item 2 states that a person dealing solely on its own account, which does not execute orders on behalf of customers and does not hold or control [customer assets](https://www.coinconnect.site/blog/3/customer-assets-definition-pvara-pakistan-62), is not carrying on [broker-dealer](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-broker-dealer-license-what-it-covers-27) services. All three conditions must hold simultaneously.
 - **Pure mining.** Section 37(2) provides that pure mining, by itself, does not constitute a virtual asset service requiring a licence. The same subsection provides that mining involving customer assets or funds is a virtual asset service and does require licensing.
 - **Non-custodial technology.** Schedule I item 3 excludes the mere provision of software, hardware or infrastructure that enables a customer to retain **exclusive** control over their own private keys.
 
@@ -79,7 +79,7 @@ The categories are not mutually exclusive. An exchange that also issues its own 
 
 ## What obligations attach once you are a VASP?
 
-Falling within the definition triggers the full compliance stack: incorporation and licensing under section 50, the ongoing obligations in section 22, prudential and custody duties in Chapter 4, market conduct duties in Chapter 7, and anti-money-laundering duties in Chapter 8.
+Falling within the definition triggers the full compliance stack: [incorporation](https://www.coinconnect.site/corporate-setup) and licensing under section 50, the ongoing obligations in section 22, prudential and [custody](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-custody-license-safeguarding-customer-assets-25) duties in Chapter 4, market conduct duties in Chapter 7, and anti-money-laundering duties in Chapter 8.
 
 The immediate consequences are:
 
@@ -87,9 +87,9 @@ The immediate consequences are:
 
 **Local presence.** Section 20(6) requires every licensee to maintain a registered office in Pakistan and to ensure that at least one Key Individual ordinarily resident in Pakistan is vested with operational and decision-making authority.
 
-**Governance.** Section 3(1)(xv) lists ten Key Individual positions, each subject to fit-and-proper assessment under section 20. Regulation 5.1 of the PVARA No Objection Certificate Regulations 2025 sets a list of eight for NOC applicants, which differs from the Act's list — the two should be read together rather than treated as interchangeable.
+**Governance.** Section 3(1)(xv) lists ten Key Individual positions, each subject to fit-and-proper assessment under section 20. Regulation 5.1 of the [PVARA](https://www.coinconnect.site/pvara-guide) No Objection Certificate Regulations 2025 sets a list of eight for NOC applicants, which differs from the Act's list — the two should be read together rather than treated as interchangeable.
 
-**AML status.** Section 46(1) deems licensed VASPs to be financial institutions for the purposes of the Anti-Money Laundering Act, 2010, importing the full set of obligations under that Act. Section 46(2) requires every VASP and Issuer to report suspicious transactions to the [Financial Monitoring Unit](https://www.fmu.gov.pk), maintain customer due diligence and transaction records, and establish internal controls including the appointment of an AML, CFT or CPF compliance officer.
+**AML status.** Section 46(1) deems licensed VASPs to be financial institutions for the purposes of the [Anti-Money Laundering](https://www.coinconnect.site/blog/3/fit-and-proper-aml-pvara-mistakes-54) Act, 2010, importing the full set of obligations under that Act. Section 46(2) requires every VASP and Issuer to report suspicious transactions to the [Financial Monitoring Unit](https://www.fmu.gov.pk), maintain customer due diligence and transaction records, and establish internal controls including the appointment of an AML, CFT or CPF compliance officer.
 
 **Customer assets.** Section 24 requires segregation at all times, removes customer assets from the insolvency estate notwithstanding any other law, imposes a fiduciary duty, and prohibits rehypothecation, lending or pledging without the customer's explicit, informed and revocable written consent.
 

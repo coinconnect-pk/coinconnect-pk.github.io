@@ -7,9 +7,9 @@ author: "Malik Abbas"
 description: "Schedule I to the Virtual Assets Act 2026 lists ten categories of licensable virtual asset service. Each category, its scope and its exemptions."
 ---
 
-Schedule I is the shortest consequential part of the Virtual Assets Act, 2026 and the part most operators need first. It answers the only question that matters at the outset: does what I do require a licence?
+[Schedule I](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-categories-explained-23) is the shortest consequential part of the [Virtual Assets Act](https://blog.coinconnect.site/pakistans-virtual-assets-act-2026-the-complete-guide/), 2026 and the part most operators need first. It answers the only question that matters at the outset: does what I do require a licence?
 
-Section 18 makes Schedule I the operative list. Anything in it is a Virtual Asset Service. Anything that is a Virtual Asset Service, provided as a business in or from Pakistan, requires a licence under section 50.
+Section 18 makes Schedule I the operative list. Anything in it is a [Virtual Asset](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22) Service. Anything that is a Virtual Asset Service, provided as a business in or from Pakistan, requires a licence under section 50.
 
 This article works through all ten categories using the statutory descriptions, and identifies the three exemptions written into the Schedule itself.
 
@@ -34,7 +34,7 @@ The list is expandable without fresh primary legislation. Section 18(b) permits 
 
 ## Which categories cover trading and market access?
 
-Four categories cover trading and market access: Advisory Services, Broker-Dealer Services, Exchange Services and Virtual Asset Derivatives Services. A single trading venue will typically trigger several of these at once, and the licence under section 21(3) specifies which services the holder may undertake.
+Four categories cover trading and market access: Advisory Services, [Broker-Dealer](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-broker-dealer-license-what-it-covers-27) Services, Exchange Services and Virtual Asset [Derivatives](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-derivatives-leverage-license-31) Services. A single trading venue will typically trigger several of these at once, and the licence under section 21(3) specifies which services the holder may undertake.
 
 **1. Advisory Services** means the provision of personalised recommendations, on a professional basis, to a customer, either upon request or at the initiative of the provider, relating to one or more actions or transactions involving virtual assets.
 
@@ -46,7 +46,7 @@ The Schedule defines "personalised" precisely:
 
 Note "or are presented as taking into account". A recommendation marketed as tailored is caught even if the tailoring is superficial.
 
-**2. Broker-Dealer Services** means any of five activities: arranging or facilitating orders for the purchase and sale of virtual assets between two parties; soliciting or accepting orders and receiving consideration in fiat or virtual assets; trading virtual assets on the provider's own account; market-making using customer assets; or providing placement or distribution services for issuers acting as intermediaries.
+**2. Broker-Dealer Services** means any of five activities: arranging or facilitating orders for the purchase and sale of virtual assets between two parties; soliciting or accepting orders and receiving consideration in fiat or virtual assets; trading virtual assets on the provider's own account; market-making using [customer assets](https://www.coinconnect.site/blog/3/customer-assets-definition-pvara-pakistan-62); or providing placement or distribution services for issuers acting as intermediaries.
 
 This category carries the Act's clearest exemption, discussed below.
 
@@ -58,7 +58,7 @@ Maintaining an order book is a standalone trigger. A venue that matches but does
 
 ## Which categories cover holding and moving assets?
 
-Three categories cover the handling of customer assets: Custody and Administration Services, Transfer and Settlement Services, and Management and Investment Services. Each turns on whether the provider holds, controls or directs assets belonging to someone else.
+Three categories cover the handling of customer assets: [Custody](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-custody-license-safeguarding-customer-assets-25) and Administration Services, [Transfer and Settlement](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-transfer-settlement-license-payments-remittance-28) Services, and Management and [Investment Services](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-management-investment-services-license-29). Each turns on whether the provider holds, controls or directs assets belonging to someone else.
 
 **3. Custody and Administration Services** means the safekeeping or administration, on behalf of customers and pursuant to their instructions, of virtual assets, or of private cryptographic keys or other means of access that allow the customer to transfer or dispose of virtual assets independently.
 
@@ -77,7 +77,7 @@ The exclusion of exchange execution prevents a venue from being licensed twice f
 
 ## Which categories cover lending, issuance and mining?
 
-Three categories cover the remaining activity types: Lending and Borrowing Services, Issuance Services, and Mining-related Services. The last of these is the only category in the Schedule that is expressly narrowed by a section of the Act itself.
+Three categories cover the remaining activity types: [Lending](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-lending-borrowing-license-30) and Borrowing Services, Issuance Services, and [Mining](https://www.coinconnect.site/blog/3/pakistan-pvara-virtual-asset-mining-licensing-63)-related Services. The last of these is the only category in the Schedule that is expressly narrowed by a section of the Act itself.
 
 **5. Lending and Borrowing Services** means the facilitation, arrangement, intermediation or direct provision, as principal, of lending or borrowing arrangements involving virtual assets, where one or more lenders transfer, lend or make available virtual assets or rights to them to one or more borrowers, subject to a contractual obligation for the borrower to return equivalent virtual assets, together with any agreed interest, fees or rewards, at a specified time or upon demand.
 
@@ -91,7 +91,7 @@ This category should be read alongside the definition of Issuer at section 3(1)(
 
 Section 37(2) restates this in the body of the Act: pure mining, by itself, does not constitute a virtual asset service requiring a licence under section 18 and Schedule I, but mining operations involving customer assets or funds shall be treated as virtual asset services and require licensing.
 
-Section 37(3) adds a separate obligation that is not a licence. PVARA may establish a registration or declaration framework for mining operators exceeding thresholds of scale, energy use or hash rate, as set by Regulations. A miner may therefore be registrable while remaining unlicensable. Those thresholds have not been published.
+Section 37(3) adds a separate obligation that is not a licence. [PVARA](https://www.coinconnect.site/pvara-guide) may establish a registration or declaration framework for mining operators exceeding thresholds of scale, energy use or hash rate, as set by Regulations. A miner may therefore be registrable while remaining unlicensable. Those thresholds have not been published.
 
 ## What exemptions are written into Schedule I?
 

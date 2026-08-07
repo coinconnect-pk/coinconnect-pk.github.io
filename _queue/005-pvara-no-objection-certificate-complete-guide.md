@@ -7,19 +7,19 @@ author: "Malik Abbas"
 description: "A PVARA No Objection Certificate must be obtained before incorporation. What the NOC permits, what it requires, and the sixty-day decision window."
 ---
 
-The No Objection Certificate is the first gate in Pakistan's virtual asset regime, and it is the one most often misunderstood. It is not a licence. It is not a letter of comfort. It is a statutory clearance that must be obtained before a company exists, and it carries conditions that bind the applicant from the day it is issued.
+The [No Objection Certificate](https://www.coinconnect.site/regulatory-licensing) is the first gate in Pakistan's [virtual asset](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-pakistan-complete-guide-22) regime, and it is the one most often misunderstood. It is not a licence. It is not a letter of comfort. It is a statutory clearance that must be obtained before a company exists, and it carries conditions that bind the applicant from the day it is issued.
 
-PVARA has published a dedicated instrument governing it: the PVARA No Objection Certificate Regulations 2025, document code PVARA/REG/AML-REG/2025-1, version 1.0 (Final), effective 2 December 2025, prepared by the Authority's Licensing and Supervision Division.
+[PVARA](https://www.coinconnect.site/pvara-guide) has published a dedicated instrument governing it: the PVARA No Objection Certificate Regulations 2025, document code PVARA/REG/[AML](https://www.coinconnect.site/blog/3/fit-and-proper-aml-pvara-mistakes-54)-REG/2025-1, version 1.0 (Final), effective 2 December 2025, prepared by the Authority's Licensing and Supervision Division.
 
-This guide covers what the NOC is, what it permits, what an application must contain, how long a decision takes, and what happens after it is granted.
+This guide covers what the NOC is, what it permits, what an application must contain, [how long](https://www.coinconnect.site/blog/3/how-long-pvara-license-takes-39) a decision takes, and what happens after it is granted.
 
 ## What is a PVARA No Objection Certificate?
 
-A PVARA No Objection Certificate is a pre-incorporation regulatory clearance. Under regulation 2.2 of the PVARA No Objection Certificate Regulations 2025, its issuance constitutes both approval for the applicant's AML Registration on the goAML portal and permission for the applicant to proceed with incorporation of its local entity in Pakistan.
+A PVARA No Objection Certificate is a pre-[incorporation](https://www.coinconnect.site/corporate-setup) regulatory clearance. Under regulation 2.2 of the PVARA No Objection Certificate Regulations 2025, its issuance constitutes both approval for the applicant's AML Registration on the [goAML](https://www.coinconnect.site/blog/coinconnect-insights-1/fmu-goaml-vasp-pakistan-17) portal and permission for the applicant to proceed with incorporation of its local entity in Pakistan.
 
 PVARA is the Pakistan Virtual Assets Regulatory Authority. goAML is the reporting platform operated by Pakistan's Financial Monitoring Unit (FMU), through which regulated entities file suspicious transaction reports and currency transaction reports.
 
-The statutory basis sits in the Virtual Assets Act, 2026. Section 19(1) requires any person intending to incorporate a company with the primary objective of engaging in Virtual Asset Services to first apply to PVARA for a No-Objection Certificate, before commencing the process of such incorporation.
+The statutory basis sits in the [Virtual Assets Act](https://blog.coinconnect.site/pakistans-virtual-assets-act-2026-the-complete-guide/), 2026. Section 19(1) requires any person intending to incorporate a company with the primary objective of engaging in Virtual Asset Services to first apply to PVARA for a No-Objection Certificate, before commencing the process of such incorporation.
 
 > "Any Person intending to incorporate a company, under the Companies Act, 2017 (XIX of 2017) or any other law for the time being in force, with the primary objective of engaging in Virtual Asset Services shall first apply to the Authority for a No-Objection Certificate before commencing the process of such incorporation."
 >
@@ -38,7 +38,7 @@ The four permissions in full:
 3. Provide "AML-Registered Services" upon completion of goAML registration, in advance of obtaining a full VASP licence
 4. Submit a licensing application within three months of promulgation of the VASP licensing regulations
 
-Regulation 2.3 defines AML-Registered Services as four of the Schedule I categories:
+Regulation 2.3 defines AML-Registered Services as four of the [Schedule I](https://www.coinconnect.site/blog/coinconnect-insights-1/pvara-license-categories-explained-23) categories:
 
 | AML-Registered Service | Available pre-licence |
 |---|---|
@@ -60,8 +60,8 @@ The application is document-heavy. The core attachments are:
 
 - A group structure chart showing all entities and jurisdictions
 - A board composition chart, plus a CV for each director
-- Form A3 (Fit and Proper Questionnaire), an up-to-date CV and a passport copy for each Key Individual
-- Form A2 (Controller and Beneficial Owner Disclosure) for every Controller and every Beneficial Owner
+- Form A3 ([Fit and Proper](https://www.coinconnect.site/blog/coinconnect-insights-1/url-slug-fit-and-proper-test-pvara-form-a3-14) Questionnaire), an up-to-date CV and a passport copy for each Key Individual
+- Form A2 ([Controller](https://www.coinconnect.site/blog/3/pakistan-pvara-controller-virtual-assets-act-2026-58) and Beneficial Owner Disclosure) for every Controller and every Beneficial Owner
 - A complete ownership and control structure chart showing all shareholding layers, intermediate entities, jurisdictions and the ultimate natural persons
 - Fourteen AML/CFT documents, listed at Form A1 section 5, including a board-approved AML/CFT Policy, CDD and EDD procedures, a blockchain analytics methodology, an enterprise-wide ML/TF risk assessment, and a training programme
 - Form A4 (AML/CFT Framework Submission Statement), signed by the CEO and the MLRO
@@ -90,7 +90,7 @@ On fitness and propriety, regulation 6.3 sets three absolute bars. No individual
 
 ## How long does an NOC decision take?
 
-Regulation 17.1 requires PVARA to issue or refuse the NOC within a period not exceeding sixty calendar days following assessment. Where an application is refused, regulation 17.2 requires PVARA to provide written reasons for its decision.
+Regulation 17.1 requires PVARA to issue or refuse the NOC within a period not exceeding sixty calendar days following assessment. Where an application is [refused](https://www.coinconnect.site/blog/3/pvara-application-rejected-36), regulation 17.2 requires PVARA to provide written reasons for its decision.
 
 Note that the sixty days runs from assessment, not from submission. The Regulations do not fix a maximum time for the assessment phase itself to begin or conclude, and they do not state what happens if the sixty days expires without a decision. Both are gaps in the drafting.
 
