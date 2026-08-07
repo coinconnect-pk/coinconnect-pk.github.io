@@ -1,0 +1,47 @@
+---
+layout: default
+title: null
+---
+<section class="hero">
+  <div class="wrap">
+    <span class="eyebrow">CoinConnect Intelligence</span>
+    <h1>How to enter and win <span class="shimmer-text">emerging crypto markets</span></h1>
+    <p>Field notes from the operator's chair — exchange launches, listings, partnerships, PR and positioning across Pakistan and South Asia. Written by the team that does the work, not the team that watches it.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Latest analysis</h2>
+      <p>{{ site.posts.size }} article{% if site.posts.size != 1 %}s{% endif %} &middot; one published every morning</p>
+    </div>
+
+    {%- if site.posts.size > 0 %}
+    <div class="post-grid">
+      {%- for post in site.posts %}
+      <article class="post-card">
+        {%- if post.categories.size > 0 %}
+        <span class="tag">{{ post.categories | first }}</span>
+        {%- endif %}
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        {%- if post.description %}
+        <p>{{ post.description | truncate: 150 }}</p>
+        {%- endif %}
+        <div class="post-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" }}</time>
+          <span>&middot;</span>
+          <span>{{ post.content | number_of_words | divided_by: 220 | plus: 1 }} min read</span>
+        </div>
+        <a class="read-more" href="{{ post.url | relative_url }}">Read analysis &rarr;</a>
+      </article>
+      {%- endfor %}
+    </div>
+    {%- else %}
+    <div class="post-card">
+      <h3>First article publishes shortly</h3>
+      <p>The publishing queue is loaded and the daily job is scheduled. Analysis appears here every morning at 06:00 Pakistan time.</p>
+    </div>
+    {%- endif %}
+  </div>
+</section>

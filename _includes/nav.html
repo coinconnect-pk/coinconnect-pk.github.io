@@ -1,0 +1,17 @@
+<nav class="nav">
+  <div class="nav-inner">
+    <a class="logo" href="{{ '/' | relative_url }}">
+      {% include logo.html %}
+      <span>
+        <span class="logo-text">Coin<span class="gradient-text">Connect</span></span>
+        <span class="logo-sub">Intelligence</span>
+      </span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="{{ '/' | relative_url }}">Articles</a></li>
+      <li><a href="{{ '/topics/' | relative_url }}">Topics</a></li>
+      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+      <li><a href="{{ site.parent.url }}" class="nav-cta">Work with CoinConnect</a></li>
+    </ul>
+  </div>
+</nav>

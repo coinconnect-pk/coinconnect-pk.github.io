@@ -1,0 +1,63 @@
+title: CoinConnect Intelligence
+tagline: Market entry, partnerships and growth intelligence for crypto operators in Pakistan and South Asia
+description: >-
+  Field notes from CoinConnect on entering and winning emerging crypto markets —
+  exchange launches, listings, partnerships, PR and positioning across Pakistan
+  and South Asia.
+url: "https://blog.coinconnect.site"
+baseurl: ""
+email: info@coinconnect.site
+lang: en_GB
+
+# The parent brand. The blog is a standalone property that links back to it.
+parent:
+  name: CoinConnect
+  url: "https://coinconnect.site"
+
+author:
+  name: Malik Abbas
+  title: Chief Executive Officer
+  # Paste your real LinkedIn profile URL here. Left blank on purpose —
+  # the footer hides the link entirely until you fill it in.
+  linkedin: ""
+
+org:
+  city: Karachi
+  country: Pakistan
+  country_code: PK
+
+# Google Search Console verification.
+# Search Console -> HTML tag -> paste ONLY the content="..." value here.
+google_site_verification: ""
+
+# Permanent standalone structure. Odoo keeps the root domain, so the blog owns
+# its own clean paths and never needs a migration re-map.
+permalink: /:title/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+sass:
+  style: compressed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - overrides/
+  - _queue/
+  - .github/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "Malik Abbas"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page

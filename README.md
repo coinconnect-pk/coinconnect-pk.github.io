@@ -1,0 +1,85 @@
+# CoinConnect Intelligence
+
+Market entry, partnerships and growth intelligence for crypto operators in Pakistan and South Asia.
+
+Live at **https://blog.coinconnect.site**
+
+A standalone Jekyll site on GitHub Pages. The main CoinConnect site stays on Odoo at coinconnect.site and is not touched by anything here.
+
+## What is here
+
+| Path | What it is |
+|---|---|
+| `index.html` | Homepage and article listing |
+| `topics.md` | Articles grouped by category |
+| `about.md` `editorial-policy.md` `privacy.md` | Static pages |
+| `_posts/` | Published articles |
+| `_queue/` | Finished articles waiting their turn — see `_queue/README.md` |
+| `overrides/` | Publish your own article on any day — see `overrides/README.md` |
+| `_data/published-log.csv` | Running record of what published, when, from where |
+| `_layouts/` `_includes/` | Templates |
+| `assets/css/style.css` | All styling |
+| `.github/workflows/auto-publish.yml` | Daily 06:00 PKT job |
+| `.github/scripts/publish.py` | The publisher |
+
+## How publishing works
+
+**This is a queue publisher, not a generator.** Nothing here calls a model API.
+
+Articles are written in advance by Claude in batched sessions, committed into `_queue/`, and released one per day. At 06:00 PKT the workflow:
+
+1. Stops if a post already exists for today.
+2. Checks `overrides/<today>/article.md`. **Manual article present** → publishes it and **leaves the queue untouched**, so the queued article simply runs the next day.
+3. **No manual article** → takes the lowest-numbered file from `_queue/`, validates it, stamps today's date, publishes it, and removes it from the queue.
+
+One article per day either way, and the queue never loses a slot.
+
+Publish on demand from **Actions → Daily article → Run workflow**, with a `dry_run` option that validates without publishing and a `force` option that publishes even if today already has a post.
+
+## Content rules
+
+Enforced by `publish.py`. An article that breaks any of these will not publish, and the Actions log names the rule.
+
+- 1200–2100 words
+- At least four `##` headings
+- Must end with `## About this analysis`
+- Title under 75 characters; description 120–165 characters
+- Category is one of: `Market Entry`, `Listings`, `PR & Comms`, `Partnerships`, `Positioning`, `Market Data`
+- At most one link to coinconnect.site
+- Outbound links restricted to an allowlist of official and primary sources
+- Author byline: Malik Abbas
+
+### The Sarzif firewall
+
+**Sarzif Policy (sarzifpolicy.github.io) is Noor Aslam's separate company** and holds 120 queued articles on PVARA, VASP licensing and Pakistani crypto regulation.
+
+`publish.py` blocks any article whose **title or description** contains a reserved regulatory term — *VASP licence*, *PVARA licensing*, *NOC application*, *travel rule*, *AML/CFT*, *fit and proper*, *goAML*, *MLRO*, *Virtual Assets Act*, and others. The full list is `SARZIF_RESERVED` in `publish.py`.
+
+Those terms remain legal in body text, because regulation is often necessary context. It may never be the subject of an article.
+
+A second, shorter list blocks titles that would compete with **coinconnect.site's own money pages**. The blog must not cannibalise its parent domain either.
+
+The split in one line:
+
+> **Sarzif answers "what does the regulator require?"** — **CoinConnect answers "how do I enter and win this market?"**
+
+## Setup checklist
+
+- [ ] Repository created under the CoinConnect GitHub account, **public**
+- [ ] Settings → Pages → source `main` / root
+- [ ] Settings → Pages → Custom domain → `blog.coinconnect.site`, then **Enforce HTTPS** once the certificate issues
+- [ ] Settings → Actions → General → Workflow permissions → **Read and write**
+- [ ] DNS: one `CNAME` record only — `blog` → `<account>.github.io`
+- [ ] Google Search Console verified, code pasted into `google_site_verification` in `_config.yml`
+- [ ] Sitemap `https://blog.coinconnect.site/sitemap.xml` submitted to Search Console
+- [ ] `about.md` biography filled in
+- [ ] `_config.yml` → `author.linkedin` filled in
+
+## Local preview
+
+Requires Ruby.
+
+```bash
+bundle install
+bundle exec jekyll serve
+```

@@ -1,0 +1,80 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#000000">
+
+{%- capture page_title -%}
+  {%- if page.title -%}{{ page.title }} | {{ site.title }}{%- else -%}{{ site.title }} — {{ site.tagline }}{%- endif -%}
+{%- endcapture -%}
+{%- capture page_desc -%}
+  {%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description | strip_newlines | strip }}{%- endif -%}
+{%- endcapture -%}
+{%- capture canonical -%}{{ page.url | replace:'index.html','' | absolute_url }}{%- endcapture -%}
+
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ page_desc }}">
+<link rel="canonical" href="{{ canonical }}">
+
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:description" content="{{ page_desc }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page_title }}">
+<meta name="twitter:description" content="{{ page_desc }}">
+
+{%- if page.layout == 'post' %}
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+<meta property="article:author" content="{{ page.author | default: site.author.name }}">
+{%- endif %}
+
+{%- if site.google_site_verification != "" %}
+<meta name="google-site-verification" content="{{ site.google_site_verification }}">
+{%- endif %}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+
+<script type="application/ld+json">
+{% if page.layout == 'post' %}
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page_desc | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "mainEntityOfPage": { "@type": "WebPage", "@id": {{ canonical | jsonify }} },
+  "author": {
+    "@type": "Person",
+    "name": {{ page.author | default: site.author.name | jsonify }},
+    "jobTitle": {{ site.author.title | jsonify }},
+    "worksFor": { "@type": "Organization", "name": {{ site.parent.name | jsonify }}, "url": {{ site.parent.url | jsonify }} }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.parent.name | jsonify }},
+    "url": {{ site.parent.url | jsonify }}
+  },
+  "inLanguage": "en-GB"
+}
+{% else %}
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": {{ site.title | jsonify }},
+  "description": {{ site.description | strip_newlines | strip | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "inLanguage": "en-GB",
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.parent.name | jsonify }},
+    "url": {{ site.parent.url | jsonify }}
+  }
+}
+{% endif %}
+</script>
