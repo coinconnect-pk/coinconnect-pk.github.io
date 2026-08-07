@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pakistan's Virtual Assets Act 2026: The Complete Guide"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-08 09:00:00 +0500
 categories: [Market Entry]
 author: "Malik Abbas"
 description: "The Virtual Assets Act 2026 establishes PVARA to licence and supervise virtual asset businesses in Pakistan. What it covers, who it binds, and what it requires."
@@ -122,9 +122,3 @@ Two points are worth flagging. First, the relief attaches to a *complete* applic
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Chapter numbering in the source is inconsistent.** Chapter I uses a Roman numeral; Chapters 2 onwards use Arabic numerals. I have reproduced the source exactly in the table rather than normalising it. Check the gazetted text before publishing.
-2. **Section 74 (Savings) refers to the "lapse" of the Virtual Assets Ordinance, 2025 (VII of 2025).** I have not mentioned the Ordinance in this article at all, to keep it clean — but article 198 will need to handle it, and this piece should link there once 198 is live.
-3. I have not stated a commencement *date*. Section 1(3) says "at once" but the Act does not carry a date of assent in the text supplied. Do not add a date unless you can source it from the Gazette.
