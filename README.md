@@ -42,7 +42,7 @@ Publish on demand from **Actions → Publish article → Run workflow**, with a 
 
 Enforced by `publish.py`. An article that breaks any of these will not publish, and the Actions log names the rule.
 
-- 1200–2100 words
+- 1200–2600 words
 - At least four `##` headings
 - Must end with `## About this analysis`
 - Title under 75 characters; description 120–165 characters

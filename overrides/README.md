@@ -110,7 +110,7 @@ It publishes within about two minutes.
 
 These are checked by machine. If your article breaks one, it will not publish, and the Actions log will tell you which rule you broke.
 
-- **1200 to 2100 words**
+- **1200 to 2600 words**
 - **At least four `##` headings**
 - **Must end with a section called `## About this analysis`**
 - **Title under 75 characters**

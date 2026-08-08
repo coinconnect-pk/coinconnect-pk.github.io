@@ -49,7 +49,7 @@ TODAY_STR = TODAY.strftime("%Y-%m-%d")
 MAX_POSTS_PER_DAY = 2
 
 MIN_WORDS = 1200
-MAX_WORDS = 2100
+MAX_WORDS = 2600
 
 VALID_CATEGORIES = {
     "Licensing",
