@@ -462,14 +462,35 @@ def main():
             return 0
         log("daily limit reached, but FORCE is set — publishing anyway")
 
+    # Catch up rather than publish exactly one.
+    #
+    # GitHub runs scheduled workflows on a best-effort basis and drops them under
+    # load, so a run WILL be missed sooner or later. Publishing one article per
+    # run means every missed run silently costs the site a day of output. Filling
+    # up to the daily limit instead means whichever run does fire recovers the day.
     try:
         if publish_override():
-            return 0
-        publish_from_queue()
+            already = posts_today()
+            log(f"published so far today: {already} of {MAX_POSTS_PER_DAY}")
+
+        while posts_today() < MAX_POSTS_PER_DAY:
+            before = posts_today()
+            if not publish_from_queue():
+                break                      # queue is empty; nothing more to do
+            if posts_today() == before:
+                break                      # dry run, or nothing actually written
+            if FORCE:
+                break                      # force publishes a single extra article
     except RuntimeError as exc:
         log(f"ERROR: {exc}")
         return 1
 
+    total = posts_today()
+    if total < MAX_POSTS_PER_DAY:
+        log(f"NOTE: {total} of {MAX_POSTS_PER_DAY} published today "
+            "(queue empty, or an article failed validation)")
+    else:
+        log(f"today is complete: {total} of {MAX_POSTS_PER_DAY} published")
     return 0
 
 

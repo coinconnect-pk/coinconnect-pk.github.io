@@ -3,8 +3,17 @@ name: Publish article
 on:
   schedule:
     # Two articles a day, Pakistan Standard Time (UTC+5).
-    - cron: "0 1 * * *"    # 06:00 PKT
-    - cron: "0 13 * * *"   # 18:00 PKT
+    #
+    # Deliberately OFF the hour. GitHub runs scheduled workflows on a
+    # best-effort basis and drops them under load -- and minute :00 is the most
+    # congested minute on the whole platform, because that is what everyone
+    # picks. Our first :00 schedule never fired at all.
+    #
+    # A third midday slot is a cheap safety net: each run publishes up to the
+    # daily limit, so whichever run does fire catches the day up.
+    - cron: "17 1 * * *"    # 06:17 PKT
+    - cron: "43 7 * * *"    # 12:43 PKT (safety net)
+    - cron: "17 13 * * *"   # 18:17 PKT
   workflow_dispatch:
     inputs:
       dry_run:
