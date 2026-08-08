@@ -13,7 +13,7 @@ Short version: this is a static site. It has no accounts, no comments, no newsle
 
 ## What third parties see
 
-- **GitHub Pages** hosts this site. GitHub's servers process your IP address and browser user agent to serve pages, as any web host does. This is covered by GitHub's own privacy statement.
+- **Our hosting provider** processes your IP address and browser user agent in order to serve pages to you, as any web host does. It is used to deliver the site and for security, not to identify you.
 - **Google Fonts** serves the typeface used here. Requesting a font sends your IP address to Google's servers.
 
 Neither is used by CoinConnect to identify or profile you.

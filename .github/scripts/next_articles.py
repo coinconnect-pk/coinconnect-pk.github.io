@@ -15,7 +15,9 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-CALENDAR = os.path.join(ROOT, "pvara-content-calendar-phase1.md")
+# Strategy documents live outside the public repo.
+CALENDAR = os.path.join(os.path.dirname(ROOT), "strategy",
+                        "pvara-content-calendar-phase1.md")
 QUEUE_DIR = os.path.join(ROOT, "_queue")
 POSTS_DIR = os.path.join(ROOT, "_posts")
 

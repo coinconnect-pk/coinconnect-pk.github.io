@@ -13,3 +13,8 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+# Strategy documents live outside the repo (D:\SEO COINCONNECT\strategy\).
+# The repo is public; the content plan and keyword targets are not.
+pvara-content-calendar-phase1.md
+CONTENT-PROMPT.md

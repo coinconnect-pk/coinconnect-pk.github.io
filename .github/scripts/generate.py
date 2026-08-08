@@ -25,7 +25,9 @@ import time
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SOURCE_DIR = os.path.join(os.path.dirname(ROOT), "source-docs")
 QUEUE_DIR = os.path.join(ROOT, "_queue")
-CALENDAR = os.path.join(ROOT, "pvara-content-calendar-phase1.md")
+# Strategy documents live outside the public repo.
+CALENDAR = os.path.join(os.path.dirname(ROOT), "strategy",
+                        "pvara-content-calendar-phase1.md")
 LINKMAP = os.path.join(ROOT, "_data", "linkmap.yml")
 SCRIPTS = os.path.join(ROOT, ".github", "scripts")
 
