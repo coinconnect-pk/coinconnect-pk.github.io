@@ -11,9 +11,14 @@ on:
     #
     # A third midday slot is a cheap safety net: each run publishes up to the
     # daily limit, so whichever run does fire catches the day up.
+    # --- morning article: one attempt plus two retries -------------------
     - cron: "17 1 * * *"    # 06:17 PKT
-    - cron: "43 7 * * *"    # 12:43 PKT (safety net)
+    - cron: "42 1 * * *"    # 06:42 PKT (retry)
+    - cron: "12 2 * * *"    # 07:12 PKT (retry)
+    # --- evening article: one attempt plus two retries -------------------
     - cron: "17 13 * * *"   # 18:17 PKT
+    - cron: "42 13 * * *"   # 18:42 PKT (retry)
+    - cron: "12 14 * * *"   # 19:12 PKT (retry)
   workflow_dispatch:
     inputs:
       dry_run:

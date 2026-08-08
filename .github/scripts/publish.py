@@ -48,6 +48,22 @@ TODAY_STR = TODAY.strftime("%Y-%m-%d")
 # Two articles a day.
 MAX_POSTS_PER_DAY = 2
 
+# The times each day's articles are due, in PKT. Each of these has retry runs
+# scheduled behind it in auto-publish.yml, because GitHub drops scheduled jobs
+# under load and a dropped run must not cost the site a slot.
+#
+# A run publishes only what is DUE by the time it fires -- not the whole day's
+# quota. Otherwise the first run of the morning would push both articles out at
+# once and the site would go quiet for the rest of the day.
+PUBLISH_SLOTS = [(6, 17), (18, 17)]
+
+
+def articles_due_today():
+    """How many articles should have gone out by now."""
+    now_minutes = TODAY.hour * 60 + TODAY.minute
+    due = sum(1 for h, m in PUBLISH_SLOTS if h * 60 + m <= now_minutes)
+    return min(due, MAX_POSTS_PER_DAY)
+
 MIN_WORDS = 1200
 MAX_WORDS = 2600
 
@@ -453,44 +469,47 @@ def main():
     log(f"run for {TODAY_STR} (PKT)")
 
     already = posts_today()
-    log(f"published so far today: {already} of {MAX_POSTS_PER_DAY}")
 
-    if already >= MAX_POSTS_PER_DAY:
-        if not FORCE:
-            log("daily limit reached — stopping so nothing is over-published")
-            log("(re-run from Actions with 'force' ticked to publish anyway)")
-            return 0
-        log("daily limit reached, but FORCE is set — publishing anyway")
+    if already >= MAX_POSTS_PER_DAY and not FORCE:
+        log(f"daily limit reached ({already} of {MAX_POSTS_PER_DAY}) - stopping")
+        log("(re-run from Actions with 'force' ticked to publish anyway)")
+        return 0
 
-    # Catch up rather than publish exactly one.
+    # Publish whatever is owed, not a fixed one per run.
     #
-    # GitHub runs scheduled workflows on a best-effort basis and drops them under
-    # load, so a run WILL be missed sooner or later. Publishing one article per
-    # run means every missed run silently costs the site a day of output. Filling
-    # up to the daily limit instead means whichever run does fire recovers the day.
+    # Each slot has retry runs behind it. A retry that finds nothing owed does
+    # nothing and exits quietly; a retry that finds a dropped slot fills it. The
+    # effect is that a missed run costs nothing as long as one run in the group
+    # gets through.
+    due = MAX_POSTS_PER_DAY if FORCE else articles_due_today()
+    log(f"due by now: {due}   published today: {already}")
+
+    if already >= due and not FORCE:
+        log("nothing owed - this run has nothing to do")
+        return 0
+
     try:
         if publish_override():
             already = posts_today()
-            log(f"published so far today: {already} of {MAX_POSTS_PER_DAY}")
 
-        while posts_today() < MAX_POSTS_PER_DAY:
+        while posts_today() < due:
             before = posts_today()
             if not publish_from_queue():
                 break                      # queue is empty; nothing more to do
             if posts_today() == before:
                 break                      # dry run, or nothing actually written
             if FORCE:
-                break                      # force publishes a single extra article
+                break                      # force publishes one extra article only
     except RuntimeError as exc:
         log(f"ERROR: {exc}")
         return 1
 
     total = posts_today()
-    if total < MAX_POSTS_PER_DAY:
-        log(f"NOTE: {total} of {MAX_POSTS_PER_DAY} published today "
+    if total < due:
+        log(f"NOTE: {total} published but {due} were owed "
             "(queue empty, or an article failed validation)")
     else:
-        log(f"today is complete: {total} of {MAX_POSTS_PER_DAY} published")
+        log(f"up to date: {total} published, {due} owed")
     return 0
 
 
