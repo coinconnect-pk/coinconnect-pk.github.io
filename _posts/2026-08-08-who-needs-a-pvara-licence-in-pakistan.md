@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who Needs a PVARA Licence in Pakistan?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-08 07:17:15 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 50 of the Virtual Assets Act 2026 bars unlicensed virtual asset services in Pakistan. Here is the scope test, and exactly who falls inside it."
@@ -100,9 +100,3 @@ A yes to any of these makes the exemptions harder to sustain. Our reading is tha
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, including Schedule I, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Schedule I item 6 (Derivatives) is truncated in the source text** — it ends mid-sentence at "or other similar". My table row for item 6 uses only the complete portion. Verify against the gazetted Schedule before publishing.
-2. I have deliberately not mentioned the NOC Regulations' pre-licence trading permission here, because it directly contradicts section 50 and would confuse the core answer. That conflict belongs in articles 062, 063 and 198. **This article and 062 must not be published in a way that lets a reader see one without the other** — link them in both directions.
-3. The two outbound links (fatf-gafi.org, secp.gov.pk) are both on the approved host list. Zero links to coinconnect.site.

@@ -240,4 +240,7 @@ main_site:
       topics: [vasp, license, pvara, licensing]
 
 # Articles on blog.coinconnect.site. Appended automatically on publish.
-blog: []
+blog:
+  - url: "https://blog.coinconnect.site/who-needs-a-pvara-licence-in-pakistan/"
+    title: "Who Needs a PVARA Licence in Pakistan?"
+    topics: [needs, pvara, licence, licensing]
