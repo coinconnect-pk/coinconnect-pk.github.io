@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is PVARA? Pakistan's Virtual Assets Regulator"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-09 09:52:12 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "PVARA is Pakistan's Virtual Assets Regulatory Authority, established under section 6 of the Virtual Assets Act 2026. Its status, mandate and powers explained."
@@ -127,10 +127,3 @@ Section 71 preserves a federal steer: the Federal Government may issue policy di
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Title shortened.** The calendar title was "What Is PVARA? Pakistan's Virtual Assets Regulatory Authority" (60 chars) but it reads as keyword-stuffed. I used "What Is PVARA? Pakistan's Virtual Assets Regulator" (49 chars). Both are under 75; the description carries the full name for the keyword.
-2. **The Chairperson's qualification bar in section 11(1) is three years' relevant professional experience.** That is strikingly low for a regulator's chair. I have stated it flatly without comment. If you want a line of analysis on it, say so — but I would not editorialise on a sitting appointment.
-3. **Section 6(1) says an authority "shall be established" after commencement.** The Act creates it prospectively. I have written throughout as though PVARA exists, which the NOC Regulations and Sandbox Guidelines confirm it does in practice. No issue, but worth being aware of the tense in the statute.
-4. Two outbound links, both approved hosts. Zero to coinconnect.site.
