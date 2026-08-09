@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Virtual Assets Act 2026, Section by Section"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-09 20:01:20 +0500
 categories: [Market Entry]
 author: "Malik Abbas"
 description: "A section-by-section map of Pakistan's Virtual Assets Act 2026: all twelve chapters, 74 sections and Schedule I, with what each one actually requires."
@@ -131,10 +131,3 @@ The Statement of Objects and Reasons closing the Act records the policy rational
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, including Schedule I and the Statement of Objects and Reasons, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Section 59 contains an internal tension I have reproduced without resolving.** Section 59(1)(c) allows a penalty "up to the maximum amount prescribed by the Rules"; section 59(4) states a fine up to Rs 25 million. I have stated both. Article 137 needs to address whether 59(4) caps 59(1)(c) or stands separately — the Act does not say.
-2. **This article is at the top of the word range** (roughly 2,050 words of body). It is a reference piece and the length is doing work, but if the checker is strict, the easiest cut is the Chapter 2 bullet detail in the "Chapters I to 3" section.
-3. **I mention the Ordinance 2025 once**, in the s.74 entry, because omitting it would misdescribe the section. That is the only reference and it is factually confined to what s.74 says.
-4. One outbound link (fbr.gov.pk), approved host. Zero to coinconnect.site.
