@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Get a Crypto Licence in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-10 21:12:53 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "The route to a virtual asset licence in Pakistan runs NOC, incorporation, then licence application. Every step, document and deadline in the sequence."
@@ -116,10 +116,3 @@ Where a licence is revoked, section 23(2) requires the licensee to immediately c
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 and the PVARA No Objection Certificate Regulations 2025 including Annex A Forms A1 to A8, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **I have not given an end-to-end timeline estimate.** The documents do not support one, and every competitor piece that gives "3–6 months" is inventing it. Holding the line here is a differentiator but it may feel unsatisfying to a reader — I think that is the right trade.
-2. **The pre-licence trading permission in NOC reg 2.3 is not mentioned in this article.** This piece is about getting to a full licence, and introducing the conflict here would muddy the sequence. It is fully handled in 005 and will be in 062. Make sure 006 links to 005.
-3. **Stage 4 in my table (goAML registration) is listed before incorporation**, following reg 15.3's order (a) then (b). Reg 11.5 implies the local entity takes over reporting later. If PVARA's practice runs the other way, this ordering would need correcting — worth confirming.
-4. One outbound link (secp.gov.pk), approved host. Zero to coinconnect.site.
