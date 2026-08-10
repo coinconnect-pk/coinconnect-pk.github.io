@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The PVARA No Objection Certificate: A Complete Guide"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-10 11:01:52 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "A PVARA No Objection Certificate must be obtained before incorporation. What the NOC permits, what it requires, and the sixty-day decision window."
@@ -135,11 +135,3 @@ The first and last grounds deserve particular attention. The first makes accurac
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025 (PVARA/REG/AML-REG/2025-1, version 1.0, effective 2 December 2025) including Annex A Forms A1 to A8, and from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **This is the conflict article.** I have surfaced the reg 2.3 vs s.50 problem plainly in the "What does an NOC permit" section, and framed it as a question to put to PVARA in writing rather than resolving it. I think that is the only defensible position and it is also our strongest differentiator — nobody else will say this. But read that paragraph yourself before it goes live.
-2. **The NOC Regulations cite the Ordinance's section numbers throughout** ("Section 15", "Section 17", "Section 38(1)", "section 16 of the Act"). I have deliberately cited the *Act's* numbering (s.19, s.50) and the *Regulations'* own regulation numbers, and avoided quoting the Regulations' statutory cross-references, so I never reproduce a citation that will not resolve. Article 198 handles the mismatch head-on.
-3. **Regulation 2.3 also designates the four services as "non-financial businesses and professions" under "Section 38(1) of the Ordinance".** Section 46(1) of the Act deems VASPs to be *financial institutions*. These are different AML classifications. I have left it out of this article entirely because it would derail the piece — it belongs in 062 and 073. Flagging so you know it is a known omission, not an oversight.
-4. **Regulation 5.1's eight Key Individuals differ from section 3(1)(xv)'s ten.** I have used the NOC list here because this is an NOC article, and said so. Articles 033 and 066 present both.
-5. Zero outbound links. Zero to coinconnect.site.
