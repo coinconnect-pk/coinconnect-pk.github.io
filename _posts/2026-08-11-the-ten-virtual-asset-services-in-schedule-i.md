@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ten Virtual Asset Services in Schedule I"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-11 21:14:23 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Schedule I to the Virtual Assets Act 2026 lists ten categories of licensable virtual asset service. Each category, its scope and its exemptions."
@@ -136,10 +136,3 @@ One caution on the Schedule text itself. The description of item 6, Virtual Asse
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, principally Schedule I and sections 18, 37 and 9(1)(f), read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Title shortened** from "The Ten Categories of Virtual Asset Service in Schedule I" (56 chars) to "The Ten Virtual Asset Services in Schedule I" (43). Reads better; keyword preserved in H1 answer and description.
-2. **Item 6 truncation is disclosed in the article itself**, at the end. I think that is the right call — it is exactly the kind of candour that makes a source citable, and it is also honest about a real limit in the source text. But it does mean we are publicly noting we may be working from a non-Gazette version. Your call whether that line stays.
-3. **My reading of the staking limb** (item 7) — that non-discretionary customer-directed staking falls outside the category but may still trigger custody — is analysis, not statute. It is marked as a reading in the text. It is the kind of passage an LLM will quote, so I want you comfortable with it.
-4. Zero outbound links. Zero to coinconnect.site.
