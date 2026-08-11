@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is Crypto Legal in Pakistan Under the 2026 Act?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-11 10:31:36 +0500
 categories: [Market Entry]
 author: "Malik Abbas"
 description: "Virtual assets are lawful but regulated in Pakistan, and are not legal tender. What the Virtual Assets Act 2026 permits, restricts and criminalises."
@@ -124,10 +124,3 @@ Appeals against PVARA orders run to the Virtual Assets Appellate Tribunal under 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, including Schedule I, and from the PVARA No Objection Certificate Regulations 2025, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **This article makes no claim about the tax treatment of individual holdings, and no claim about whether banks will process crypto-related payments.** Neither is addressed in the three documents. Every competitor piece on this keyword speculates on both. We should not — but expect readers to ask, and 019 and 143 will need to be honest that section 66 is the entire statutory tax content.
-2. **I have said the Act "does not extend to individual holders".** That is my reading of s.2(1), which lists only VASPs and Issuers. It is a strong claim on a high-traffic keyword. I am confident in it as a reading of scope, but it is a reading, and I have not hedged it. Tell me if you want it softened.
-3. **The s.50 / NOC reg 2.3 conflict appears in the transitional section**, framed the same way as in article 005. Keep the framing identical across all articles that touch it so we never appear to have two positions.
-4. Zero outbound links. Zero to coinconnect.site.
