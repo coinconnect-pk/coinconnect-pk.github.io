@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is a VASP Under the Virtual Assets Act 2026?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-12 21:14:34 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "A VASP is any person who, as a business, provides virtual asset services to third parties on a professional basis. The statutory test, limb by limb."
@@ -114,10 +114,3 @@ In practice, the classification question is worth resolving early and in writing
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, including Schedule I, and from the PVARA No Objection Certificate Regulations 2025, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **The point that the Issuer Explanation protects against Issuer status but not against VASP status** is my analysis, not a statement in the Act. I think it is right and it is genuinely useful — it is the kind of trap a foreign token project walks into — but it is a reading and should be read as one.
-2. **I note the s.3(1)(xv) ten-role list against the NOC reg 5.1 eight-role list** without resolving it, and point the reader to read them together. Articles 033 and 066 present both in full. Keep the framing consistent.
-3. **The line that a natural person can be a VASP by definition but cannot lawfully operate as one** follows from reading s.3(1)(xxii) against s.50(1)(a). It is a clean point and I am confident in it, but it is the sort of thing worth a second pair of eyes before it becomes our stated position.
-4. One outbound link (fmu.gov.pk), approved host. Zero to coinconnect.site.
