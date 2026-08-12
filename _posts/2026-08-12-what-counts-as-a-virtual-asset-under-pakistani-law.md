@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Counts as a Virtual Asset Under Pakistani Law?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-12 11:05:10 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 3 of the Virtual Assets Act 2026 defines a virtual asset, and section 2 carves six things out of it. The definition and its boundaries, explained."
@@ -119,10 +119,3 @@ Section 3(2) supplies a default for anything else: words and expressions not def
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, principally sections 2, 3, 5, 9, 31, 32 and 53, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **The "all… or" drafting inconsistency at s.2(2)(a) is disclosed in the article.** This is a genuine defect in the text as supplied and it materially changes the scope of the closed-loop exclusion. Verify against the Gazette — if the Gazette says "and", we should quietly correct the article rather than publish a note about a defect that does not exist.
-2. **My reading of the tokenisation boundary** — conventional instruments to SBP/SECP, tokenised versions to PVARA — is analysis and is marked as such. It is the single most useful paragraph in the article for a foreign issuer and also the one I am least able to prove from the text. Read it.
-3. **There is an OCR artefact in the source Act text immediately before s.3(1)(xxiii)**, which is where the "Prescribed / Regulations / Rules" definitions sit. I have used those definitions in this article. Low risk, but if anything was lost at that point in the scan, it would be there.
-4. One outbound link (secp.gov.pk), approved host. Zero to coinconnect.site.
