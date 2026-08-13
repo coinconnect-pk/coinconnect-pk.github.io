@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crypto Company Pakistan: Why NOC Comes Before SECP"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-13 11:06:54 +0500
 categories: [Corporate Setup]
 author: "Malik Abbas"
 description: "Setting up a crypto company in Pakistan: why PVARA's No-Objection Certificate must precede SECP incorporation, and the correct legal sequence to follow."
@@ -121,11 +121,3 @@ Founders who want the shorter answer on what the whole [PVARA licensing route](h
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, and the PVARA No Objection Certificate Regulations 2025 (document code PVARA/REG/AML-REG/2025-1, version 1.0, effective 2 December 2025), read as published. Where practice is not yet settled or guidance has not been issued, that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Cross-reference mismatch.** The NOC Regulations repeatedly cite "Section 15" and "Section 17" of the Ordinance. In the Act as passed, pre-incorporation NOC clearance is section 19(1) and licence grant is section 21. There is no section 17 licensing provision in the Act — section 17 is inter-agency cooperation. I have flagged this in the body and relied on section 74 (savings) to explain continuity, but you may want a firmer line on whether the Regulations are effective as drafted post-Act.
-2. **"AML Registration" vs "NOC".** The NOC Regulations use both terms and sometimes treat them as one thing (reg 2.2) and sometimes distinguish them (reg 19.1 "NOC, including AML Registration status"). I have treated the NOC as the instrument and AML Registration as its effect. Confirm that is how you want us positioning it.
-3. **Reg 11.5 timing.** It says the local entity assumes goAML reporting "after being granted the license". That leaves the foreign entity reporting throughout the whole licensing period. Worth confirming with FMU whether that is intended, or whether the local entity registers earlier in practice.
-4. **Section 70 vs reg 15.3(c).** Section 70 gives six months from commencement of the Act to apply for a licence; reg 15.3(c) gives three months from issuance of the VASP licensing regulations. These are different clocks and could conflict. Not resolved in either document. I have set both out without reconciling them.
-5. Did not state any minimum capital figure — the Act leaves it to Regulations (s.25(1)) and the NOC Regulations Form A1 section 8.2 only refers to "any applicable minimum capital requirement". Deliberately vague.
