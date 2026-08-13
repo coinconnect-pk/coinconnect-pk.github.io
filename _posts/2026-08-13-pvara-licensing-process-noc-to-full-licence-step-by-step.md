@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA Licensing Process: NOC to Full Licence, Step by Step"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-13 21:14:34 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "The full PVARA licensing process from NOC application to full VASP licence, with the 60-day decision window and three-month licensing deadline explained."
@@ -143,17 +143,3 @@ Whichever route you take, the banking question runs in parallel and does not res
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 (as passed by the National Assembly), the PVARA No Objection Certificate Regulations 2025 (Document Code PVARA/REG/AML-REG/2025-1, version 1.0, effective 2 December 2025) and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Section numbering conflict.** The NOC Regulations consistently cite "Section 15" for pre-incorporation clearance and "Section 17" for the full licence, referencing the Virtual Assets Ordinance 2025. In the Act as passed, pre-incorporation clearance is section 19 and licence grant is section 21. I have flagged this in the body rather than silently harmonising, and relied on section 74 (savings) to explain continuity. Worth your view on whether we should be more or less emphatic.
-
-2. **Sixty days — calendar vs working.** Reg 17.1 says 60 calendar days. Sandbox Guidelines say 60 working days for evaluation. I have contrasted them. No extension clause in the NOC Regs, unlike the Sandbox Guidelines — I flagged this as an observation but did not claim the clock is hard.
-
-3. **Three-month licensing deadline.** Reg 15.3(c) and 17.1(a)(iv) both say "within three months of the issuance/promulgation of the VASP licensing regulations". I have stated those regulations are unpublished at time of writing — please confirm that is still correct at publication date, as it is the single most load-bearing factual claim in the piece.
-
-4. **Section 70 interaction.** The Act's transitional provision (six months to apply or cease) sits awkwardly against the NOC route for foreign incumbents already serving Pakistani users. Neither document reconciles them. I have said so rather than guessed.
-
-5. **Reg 11.5 oddity.** It says the local entity assumes the goAML reporting role "after being granted the license" — implying a gap where the foreign entity remains the reporting entity post-incorporation but pre-licence. I have reported it accurately but not drawn out the operational implication; tell me if you want that expanded.
-
-6. **Word count** approx. 1,850 body words. Internal links: 14.
