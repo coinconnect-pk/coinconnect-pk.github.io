@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA Fit and Proper Standard: The Four Limbs Explained"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-14 21:08:28 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "PVARA's fit and proper test under section 20 and NOC Regulation 6: the four limbs, who it binds, and the three automatic disqualifiers."
@@ -116,12 +116,3 @@ For applicants sequencing this alongside [company incorporation](https://www.coi
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, the PVARA No Objection Certificate Regulations 2025 (including Forms A2, A3, A6 and A8 at Annex A), and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Cross-reference conflict flagged in the body.** NOC Reg 6.1 says fit and proper standards are "as prescribed by section 16 of the Act". In the Virtual Assets Act 2026 as passed, s.16 is the Code of Conduct and s.20 is fit-and-proper. The NOC Regs were drafted against the 2025 Ordinance. I flagged it openly rather than silently correcting. Confirm you're comfortable with that framing.
-2. **NOC Regs refer throughout to "the Ordinance" / "the Act" interchangeably and to the Virtual Assets Ordinance 2025.** The Act 2026 s.74 (Savings) preserves acts done under the Ordinance, so the NOC Regs presumably survive. I did not assert that expressly because s.74 saves "anything done… under the said Ordinance" rather than expressly saving regulations. Worth a view.
-3. **Reg 6.3(b) breadth.** I noted there is no materiality qualifier. That is my reading of the plain text — no source says PVARA will read it broadly or narrowly. Flagged as unsettled.
-4. **Sandbox Guidelines eligibility** refers to "proscribed and designated persons" under the heading of prior regulatory/licensing breaches. I characterised it as a sanctions-list screen "in substance" — that is analysis, marked as such.
-5. **Section 20(1) lists "Chief Executive Officer and Director"** whereas the Act's Key Individual definition at s.3(1)(xv) lists "Managing Director" not CEO. NOC Reg 5.1 lists CEO. Minor inconsistency between the Act's own two provisions; I used the roles as each provision states them rather than reconciling. Flagging in case you want a line on it.
-6. Word count approx. 1,780. 13 internal links. No external links beyond pvara.gov.pk.
