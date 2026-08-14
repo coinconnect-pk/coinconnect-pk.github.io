@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "goAML Registration for VASPs: Who Registers, and When"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-14 11:05:36 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "How goAML registration works under PVARA's NOC Regulations 2025: which entity registers, what it unlocks, and when the local company takes over reporting."
@@ -108,11 +108,3 @@ One more point of sequencing that catches people out: under regulation 9.3, cust
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025 (document code PVARA/REG/AML-REG/2025-1, version 1.0, effective 2 December 2025) including Annex A Forms A1, A4, A5, A6 and A7, and from the Virtual Assets Act 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Ordinance vs Act mismatch.** The NOC Regulations cite the Virtual Assets Ordinance 2025 throughout (sections 15, 17, 38(1)). The source document we have is the Virtual Assets Act 2026 as passed. Section 74 of the Act saves things done under the lapsed Ordinance. But the section numbers do not map cleanly: in the Act, section 15 is Budget/Finance/Audit and section 17 is inter-agency cooperation, whereas the NOC Regs plainly mean pre-incorporation NOC (Act s.19) and licensing (Act s.21). Section 38(1) in the Act is the Strategic Digital Wallet Company, not a DNFBP designation power. I have quoted the regulations as drafted and attributed the section numbers to "the Ordinance" as the regulations do, without asserting they align with the Act. Worth a note to readers, or a separate piece, once PVARA reissues the regulations against the Act.
-2. **CTR threshold** is not stated in the regulations. Left as "applicable threshold" with a verify instruction.
-3. **Handover mechanic** for the goAML reporting role from foreign to local entity is not prescribed anywhere in the regulations. Flagged as a gap. If you have a view from FMU practice, that would strengthen the section materially.
-4. **Form A1 naming inconsistency** (NOC vs AML Registration) — I have addressed it head-on rather than papering over it.
-5. Word count is c. 1,650 body words. 14 internal links.
