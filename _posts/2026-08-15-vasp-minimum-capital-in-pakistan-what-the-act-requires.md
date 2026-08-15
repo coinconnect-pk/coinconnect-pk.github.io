@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VASP Minimum Capital in Pakistan: What the Act Requires"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-15 08:24:45 +0500
 categories: [Corporate Setup]
 author: "Malik Abbas"
 description: "The Virtual Assets Act 2026 sets no number for VASP minimum capital. Here is what section 25 requires, what is left to Regulations, and what to evidence now."
