@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Penalties Under Pakistan's Virtual Assets Act 2026"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-15 18:58:23 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Every criminal and administrative penalty under the Virtual Assets Act 2026 — ceilings, prison terms, sections 54 and 59, and who decides what."
@@ -124,15 +124,3 @@ Finally, note section 70. Any person providing Virtual Asset Services immediatel
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally Chapters 9, 10 and 11, sections 43, 50 to 65, and sections 66 and 70 — read as published. Where practice is not yet settled or guidance has not been issued, that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Section 59(1)(c) vs 59(4) tension.** Subsection (1)(c) says "up to the maximum amount prescribed by the Rules"; subsection (4) says "a fine up to twenty-five million Rupees for any contravention". These may be intended as the same cap, or (4) may be a residual catch-all for contraventions not otherwise covered. I have flagged the ambiguity rather than resolving it. Your call on whether to take a firmer line.
-
-2. **Section 54(3)(b) drafting.** The text reads "with fine or three times the amount of any profit gained or loss avoided" — the "fine or" appears to be a drafting slip (possibly "fine of"). I have reproduced the quote verbatim and interpreted it as three times profit/loss. Worth noting if we ever cite this in a submission.
-
-3. **Sandbox guidelines cite the Ordinance, not the Act.** The Sandbox Guidelines 2026 and the NOC Regulations 2025 both reference the Virtual Assets Ordinance 2025 and its section numbers (e.g. sandbox at Ordinance ss.42–45, NOC at s.15, licensing at s.17). Under the Act as passed, the sandbox is section 35, NOC/licensing is section 19, and licensing grant is section 21. Section 74 (Savings) preserves acts done under the Ordinance. I deliberately confined this article to the Act's own numbering to avoid propagating the mismatch, but we should decide on a house style for cross-referencing the two instruments — it will come up in every enforcement piece.
-
-4. **Section 57(3) placement.** The refusal-to-provide-information offence sits in section 57 (Powers of Authorized Officer), not section 54, and it cross-refers to "sub-section (1)" of section 57, which is the warrant provision rather than an information-demand provision. The cross-reference looks imprecise in the source. I described it plainly without over-reading it.
-
-5. No penalty in the Act appears to attach specifically to breaching section 53 (algorithmic tokens) other than via section 59 administrative sanctions and, arguably, section 54(1) if the conduct also constitutes an unlicensed service. Flagging in case you want a separate piece on that gap.
