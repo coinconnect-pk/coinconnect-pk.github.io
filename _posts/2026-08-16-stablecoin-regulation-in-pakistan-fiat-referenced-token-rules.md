@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stablecoin Regulation in Pakistan: Fiat-Referenced Token Rules"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-16 18:58:40 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 31 of the Virtual Assets Act 2026 sets six requirements for issuing a fiat-referenced token in Pakistan, plus a ban on algorithmic stablecoins."
