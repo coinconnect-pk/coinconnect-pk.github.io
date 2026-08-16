@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA Sandbox 2026: Eligibility, Application and Exit"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-16 08:56:28 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "How the PVARA sandbox works: eligibility, Form I, the 60-working-day assessment, testing obligations, no-action relief and how participation ends."
