@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crypto Tax Pakistan: VASP Obligations Under the Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-17 09:04:14 +0500
 categories: [Tax & Banking]
 author: "Malik Abbas"
 description: "Section 66 of the Virtual Assets Act 2026 sends every licensed VASP to the FBR. What the Act says on crypto tax in Pakistan, and what it leaves open."
