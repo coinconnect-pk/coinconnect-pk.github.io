@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Foreign Crypto Exchange Pakistan: The Market Entry Checklist"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-17 19:48:31 +0500
 categories: [Market Entry]
 author: "Malik Abbas"
 description: "The step-by-step route for an offshore crypto exchange already serving Pakistani users: NOC, goAML, incorporation, licence and the transitional window."
@@ -130,15 +130,3 @@ One further note for foreign applicants to the sandbox: Form I Section E states 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 (as passed by the National Assembly), the PVARA No Objection Certificate Regulations 2025 (Document Code PVARA/REG/AML-REG/2025-1, effective 2 December 2025) and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued — notably the section 4(2) regulations defining when an offshore service is deemed offered to persons in Pakistan, and the conditions attaching to section 20(6) — that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Ordinance vs Act cross-reference problem.** The NOC Regulations 2025 were drafted against the Virtual Assets Ordinance, 2025 and cite "Section 15" (NOC/incorporation) and "Section 17" (licence). In the Act as passed, the equivalent provisions appear at section 19 (NOC and licence application) and section 21 (grant of licence). I have quoted the regulations using their own section numbers and cited the Act separately, and noted section 74 savings. You may want a standing editorial line on how we handle this mismatch across the whole blog — it will recur in every article.
-
-2. **Sixty days.** Regulation 17.1 says "within a period not exceeding 60 calendar days" for the NOC decision. The Sandbox Guidelines use "sixty (60) working days" for comprehensive evaluation. Different units, different processes — I have kept them distinct but flagging in case a reader conflates them.
-
-3. **Section 70 six-month clock.** The Act says "six months of such commencement" and section 1(3) says it comes into force at once. I have not stated a calendar date. If you want a date in the piece, we need to confirm the commencement date.
-
-4. **Regulation 11.4 parenthetical** — "the applicants whose foreign chapter is already providing VASP services in Pakistan" — reads as though it may narrow 11.4 to only those foreign applicants with an existing Pakistani presence. I have read it that way. Worth confirming whether PVARA intends foreign applicants *without* an existing footprint to register the foreign entity at all, or go straight to local incorporation.
-
-5. Word count is at the upper end. If it needs trimming, the "ongoing obligations" section can lose the section 27 detail without damage.
