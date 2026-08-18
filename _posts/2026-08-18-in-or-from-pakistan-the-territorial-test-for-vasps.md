@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "\"In or From Pakistan\": The Territorial Test for VASPs"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-18 20:02:32 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "How Pakistan's Virtual Assets Act 2026 reaches offshore crypto exchanges through the \"in or from Pakistan\" test — and where the boundary remains undrawn."
@@ -127,17 +127,3 @@ One further point often missed: section 5(1) provides that the Act is in additio
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, the PVARA No Objection Certificate Regulations 2025 (Document Code PVARA/REG/AML-REG/2025-1, Version 1.0), and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued — in particular the Regulations directed under section 4(2) defining when an offshore service is deemed offered or marketed to persons in Pakistan — that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Ordinance vs Act section numbering conflict.** The NOC Regulations 2025 reference the Virtual Assets Ordinance 2025 throughout — section 15 for NOC/pre-incorporation clearance and section 17 for licensing. The Act 2026 uses section 19 for NOC/licence application and section 21 for grant of licence. I have kept them separate in the text (attributing s.15/s.17 language to the Regulations, s.19/s.21 to the Act) rather than silently harmonising. Worth deciding house style on this, as it recurs across the whole series.
-
-2. **Sandbox Guidelines also reference the Ordinance** (ss.42–45 for sandbox, s.6 for establishment of Authority). The Act uses s.35 for the sandbox and s.6 for establishment. I cited s.35 for the Act's sandbox power and did not cite Ordinance section numbers for the sandbox.
-
-3. **No-action relief.** Sandbox Guidelines cite s.45 of the Ordinance; the Act's equivalent is s.35(3) ("no-objection statements or no-action communications"). I referenced the routes-compared article rather than pinning a section number, to avoid an error.
-
-4. **Reverse solicitation.** I have deliberately not asserted that geoblocking, IP restriction, or unsolicited sign-up falls outside scope, because nothing in the documents supports it. If you have any informal PVARA indication on this, it would materially strengthen the section — but I would want it attributable.
-
-5. **Section 2(2) exclusions** (closed-loop tokens, NFTs, SBP/SECP-regulated instruments) are a separate scope question from territorial reach. I left them out to keep the article on the territorial test; we already have standalone pieces on the closed-loop and NFT exemptions and I linked neither, as they would dilute the keyword focus. Flag if you want them added.
-
-6. Word count is approximately 1,750 body words. Title is 55 characters. Description is 152 characters.
