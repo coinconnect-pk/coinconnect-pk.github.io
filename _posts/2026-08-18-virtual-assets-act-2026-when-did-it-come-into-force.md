@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Virtual Assets Act 2026: When Did It Come Into Force?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-18 08:31:59 +0500
 categories: [Market Entry]
 author: "Malik Abbas"
 description: "Section 1 of the Virtual Assets Act 2026 brings it into force at once across Pakistan. What that means for the lapsed 2025 Ordinance and existing VASPs."
