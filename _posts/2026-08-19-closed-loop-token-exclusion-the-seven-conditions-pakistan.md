@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Closed-Loop Token Exclusion: The Seven Conditions (Pakistan)"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-19 08:34:30 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 2(2)(a) of Pakistan's Virtual Assets Act 2026 excludes closed-loop tokens only if seven conditions are met. We read each one, and the drafting gap."
