@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SECP, SBP or PVARA? Who Regulates Your Virtual Asset"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-19 20:03:13 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Which digital assets fall outside PVARA to the SBP or SECP under the Virtual Assets Act 2026, and how PVARA classifies borderline instruments."
@@ -106,15 +106,3 @@ The [PVARA licence guide](https://www.coinconnect.site/pvara-guide) sets out the
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, the PVARA No Objection Certificate Regulations 2025, and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued — in particular on the interaction between the section 2(2)(b) carve-out and the distributed ledger technology exception in the definition of "Virtual Asset" — that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Genuine drafting tension flagged, not resolved.** Section 2(2)(b) carves out securities/derivatives within SBP/SECP jurisdiction, but the s.3(1)(xxxi) definition of "Virtual Asset" excludes securities "except where represented, issued, or transferred using distributed ledger technology". Read literally, a tokenised equity is both carved out and pulled in. I have flagged this openly and pointed readers to the classification power as the procedural resolution rather than asserting an answer. Worth your view on whether we take a firmer position.
-
-2. **Sandbox Guidelines reference the Ordinance, the Act supersedes it.** The Sandbox Guidelines 2026 cite the Virtual Assets Ordinance, 2025 sections 42–45 throughout; the Act's sandbox provision is s.35 and s.74 saves acts done under the Ordinance. I have cited the Act for the sandbox power and the Guidelines only for operational content, avoiding Ordinance section numbers. Consider whether we should write a standalone piece on the Ordinance-to-Act renumbering.
-
-3. **"Consultation is mandatory."** The s.9(1)(f) wording is "subject to consultation with the State Bank of Pakistan or the Securities and Exchange Commission of Pakistan where the asset exhibits characteristics falling within their respective mandates". I read "subject to" as mandatory in that circumstance. Flagging in case you read it as a condition on PVARA's power rather than a duty owed to applicants.
-
-4. **No PVARA determination/no-action procedure exists yet in the documents.** Section 35(3) permits no-objection statements and no-action communications "in accordance with Regulations", and the Sandbox Guidelines cover No-Action Relief. But there is no published standalone classification-ruling procedure. I have described the route generally rather than inventing a form or timeline.
-
-5. **Word count approx. 1,760. Title 51 characters. Description 148 characters. 11 internal links.**
