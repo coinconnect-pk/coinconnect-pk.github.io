@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NFT Regulation Pakistan: When Is an NFT a Virtual Asset?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-20 20:07:37 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Pakistan's Virtual Assets Act 2026 carves most NFTs out of regulation — but not all. The payment-or-investment test and the substance test decide which."
@@ -113,11 +113,3 @@ Classification is the cheapest work you will ever do on an NFT project and the m
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, the PVARA Sandbox Guidelines 2026, and the PVARA No Objection Certificate Regulations 2025, read as published. Where practice is not yet settled or guidance has not been issued — and no NFT-specific classification guidance has been issued at the time of writing — that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. There is an existing published article, `nft-exemption-pakistan-pvara-virtual-assets-act-2026-61`, on the NFT exemption. I deliberately did **not** link to it to avoid the two pieces cannibalising each other on the same keyword cluster — but you may want to link them with a clear split (that one = "is my NFT exempt", this one = "when does it get caught"). Your call. If you want the link added, the natural spot is the closing paragraph of the "payment-or-investment test" section.
-2. The source Act text is headed "Virtual Assets Act, 2026" as passed by the National Assembly, while the Sandbox Guidelines and NOC Regulations both reference the "Virtual Assets Ordinance, 2025" and its section numbering (e.g. sandbox at s.42–45 of the Ordinance vs s.35 of the Act; NOC at s.15 of the Ordinance vs s.19 of the Act). I have cited **Act** section numbers throughout and section 74 (savings) covers continuity. Worth a house style decision on how we handle the Ordinance/Act numbering mismatch across the whole blog.
-3. Section 2(2)(d) and 2(2)(e) overlap substantially — (e) appears to be a catch-all that could swallow (d). I have presented them as two tests, which is the useful framing, but the drafting is genuinely ambiguous and I have not asserted a hierarchy between them.
-4. The "likely status" table is my analysis only. If you want it softened further before publication, say so.
-5. Word count sits at roughly 1,750 of body text.
