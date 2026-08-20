@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are CBDCs Regulated by PVARA? Pakistan's Exclusion Explained"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-20 08:34:43 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Central bank digital currency is expressly outside the Virtual Assets Act 2026. What section 2(2)(c) excludes, and what it does not."
@@ -94,11 +94,3 @@ Firms working through pre-licence obligations should note that the NOC Regulatio
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly (including Schedule I) and the PVARA No Objection Certificate Regulations 2025, read as published. Where practice is not yet settled or guidance has not been issued, that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **The section 3(1)(xxxi) carve-back is a genuine ambiguity.** The definition of Virtual Asset excludes fiat "except where represented, issued, or transferred using distributed ledger technology". Read literally, a DLT-based CBDC re-enters the definition. I have argued that s.2(2)(c) (a scope provision) governs over s.3(1)(xxxi) (a definition), but this is my reading and I have flagged it as unresolved rather than asserted it. Please sanity-check — if you disagree, the section can be softened further.
-2. **Source note called for s.3(1)(xxi)** — that is the "Official or Fiat Currency" definition. I used it in the comparison table for the legal tender point. The substantive Virtual Asset definition carve-out is at s.3(1)(xxxi), which I have cited as such. Confirm my numbering matches your copy.
-3. **Tokenised deposits are genuinely not addressed** in the Act. I routed them through s.2(2)(b) as the most plausible exclusion but flagged the s.9(1)(f) classification risk. If you have a firmer house view, worth adding.
-4. **The Act vs the Ordinance.** The Sandbox Guidelines and NOC Regulations both reference the Virtual Assets Ordinance 2025 and its section numbering (e.g. sandbox at Ordinance s.42–45), whereas the Act puts the sandbox at s.35. I have cited the Act throughout for statutory provisions and only cited the NOC Regulations by their own regulation numbers. Section 74 (savings) supports this, but the guideline documents will need reissuing against Act numbering at some point — possible future article.
-5. No PVARA guidance appears in our sources on CBDC pilots or on whether SBP has announced a digital rupee. I have deliberately not asserted anything about SBP's plans or timeline.
