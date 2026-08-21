@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA's Power to Exclude Assets From the Act: s.2(2)(f)"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-21 08:59:11 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 2(2)(f) of the Virtual Assets Act 2026 lets PVARA exclude any digital asset from the Act. What the residual exclusion means for planning."
@@ -105,11 +105,3 @@ Our reading is that paragraph (f) is best understood as a housekeeping and futur
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly, the PVARA No Objection Certificate Regulations 2025, and the PVARA Sandbox Guidelines 2026, each read as published. Where practice is not yet settled or guidance has not been issued, that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Delegation point.** I flagged that section 10 permits delegation to the Managing Director but said our reading is that a scope exclusion is properly a collegiate decision. That is analysis, clearly marked. If you want it softer, the sentence is easy to cut.
-2. **Appeal route.** I have said it is untested whether withdrawal of an exclusion is "an order of the Authority" appealable to the Tribunal under section 63. I think that is the correct, honest position, but you may want to be even more non-committal.
-3. **Consultation asymmetry.** I made a point of the fact that section 9(1)(f) carries an SBP/SECP consultation requirement and section 2(2)(f) does not. That is accurate on the face of the text. Worth checking whether you want to draw attention to it, since it could read as an invitation.
-4. **Sandbox reference.** The Sandbox Guidelines are drafted against the Virtual Assets Ordinance 2025 (sections 42–45), whereas the Act renumbers the sandbox to section 35. I cited section 35 of the Act for the sandbox power and cited the Guidelines generically for the agile intake, to avoid mixing numbering. Section 74 of the Act saves things done under the Ordinance, so the Guidelines should survive, but the section references inside them are now stale. That may be worth its own article.
-5. **Word count** is approximately 1,780 body words. Description is 148 characters. Title is 55 characters. Ten internal links plus five permitted external links (SBP, SECP, FATF, PVARA).
