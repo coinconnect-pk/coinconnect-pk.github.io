@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blockchain Definition in Pakistan Law: The DLT Test"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-21 20:05:05 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "How Pakistan's Virtual Assets Act 2026 defines blockchain and DLT, the four properties a ledger must show, and why the definition matters for licensing."
@@ -108,15 +108,3 @@ For a business at the margin, the practical route is to seek clarity before buil
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, the PVARA Sandbox Guidelines 2026, and the PVARA No Objection Certificate Regulations 2025 (document code PVARA/REG/AML-REG/2025-1), read as published. Where practice is not yet settled or guidance has not been issued, that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Sandbox Guidelines reference the Ordinance, not the Act.** The Sandbox Guidelines 2026 cite the Virtual Assets Ordinance, 2025 and its sections 42–45 throughout, while the Act we have places the sandbox at section 35. Section 74 of the Act saves things done under the lapsed Ordinance. I have cited the Act's numbering for the sandbox power and cited the Guidelines only for their own content (Form I, Annexure-A, No-Action Relief), avoiding cross-mapping section numbers. Worth a house rule on this — it will recur in every sandbox article.
-
-2. **Section 2(2)(b) versus section 3(1)(xxxi) tension.** I have flagged this openly rather than picking a side. The DLT proviso appears to override the "regulated under another law" exclusion in the Virtual Asset definition, but section 2(2)(b) excludes SBP/SECP instruments from the Act entirely. Confirm you are comfortable with me publicly identifying this as unresolved.
-
-3. **"Consensus among participants" for private ledgers.** I raised the question but did not answer it. If you have a firm view from client work, it might be worth a follow-up piece rather than expanding here.
-
-4. **No links to blog.coinconnect.site.** The blog section of the link map is empty, so all internal links point to coinconnect.site pages and posts. Count is 12.
-
-5. **Word count** approximately 1,700 body words.
