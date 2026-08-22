@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 20% Controller Threshold for VASPs in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-22 08:27:17 +0500
 categories: [Corporate Setup]
 author: "Malik Abbas"
 description: "Who counts as a Controller of a Pakistani VASP, how the 20% threshold works, and why the significant influence catch-all captures more people than you expect."
@@ -121,13 +121,3 @@ Where ownership sits offshore, the [tax registration and banking](https://www.co
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 (as passed by the National Assembly), the PVARA No Objection Certificate Regulations 2025 (Document Code PVARA/REG/AML-REG/2025-1, Version 1.0) including Forms A1, A2 and A3, and the PVARA Sandbox Guidelines 2026, each read as published. Where practice is not yet settled or guidance has not been issued — in particular the meaning of "significant influence" and the post-registration control thresholds referred to in regulation 7.3 — that is stated above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **Definitional mismatch flagged in the article.** Reg 7.1 of the NOC Regs omits the "significant influence" limb that appears in Act s.3(1)(v). I've resolved it in favour of the Act and said so, but you may want to soften or harden that call.
-2. **"Associates" is undefined** in the sources provided. My aggregation example (two family members at 12% each) is analysis, not a stated rule — I framed it as "on a plain reading". Flag if too assertive. Note Act s.3(2) imports definitions from SBP Act 1956, Securities Act 2015, AMLA 2010 and Companies Act 2017 where not defined here, so "associates" may well be defined in one of those; I did not have those texts and deliberately did not guess.
-3. **Sponsor has no percentage threshold** in s.3(1)(xxix). My point that a diluted seed investor may still be a Sponsor is inference from the wording "has contributed initial capital", not stated in the Act.
-4. **The NOC Regs refer throughout to the "Virtual Assets Ordinance 2025" and "the Act"** interchangeably, and the Sandbox Guidelines reference the Ordinance and its sections 42–45. The Act 2026 at s.74 saves things done under the lapsed Ordinance. I have cited the Act 2026 section numbers for substantive law and the NOC Regs' own regulation numbers, and avoided citing Ordinance section numbers entirely. Worth a consistency decision across the series.
-5. **Sandbox eligibility** requires a "clearly identifiable Ultimate Beneficial Owner" but does not use the Controller definition or the 20% figure. I kept that sentence deliberately general.
-6. No external links included — none of the permitted domains added value on a pure definitional piece. Say if you want a pvara.gov.pk or fmu.gov.pk anchor added.
-7. Internal links: 10 in body prose. All from the map.
