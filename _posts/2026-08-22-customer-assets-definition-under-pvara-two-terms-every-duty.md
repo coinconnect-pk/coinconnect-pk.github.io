@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Customer Assets Definition Under PVARA — Two Terms, Every Duty"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-22 18:57:36 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "How Pakistan's Virtual Assets Act 2026 defines customer and Customer Assets, and why those two terms drive segregation, custody, audit and insolvency duties."
