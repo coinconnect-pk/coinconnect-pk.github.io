@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Division Concerned: Who Sits Above PVARA"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-23 08:58:36 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "PVARA is autonomous but not unsupervised. Three provisions place the Cabinet Division above it, and each one touches something a licensee cares about."
@@ -89,9 +89,3 @@ We should note the limit of what the Act says here. Section 15(7) requires submi
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **The Act does not say how a firm gets onto the Division-approved auditor list under s.27(2), or where that list is published.** I have said so explicitly rather than guessing. If you have learned the actual process from a filing, this article should be updated — it would be genuinely useful information that nobody else has published.
-2. **s.68 reads "in the consultation with Division concerned"** — the grammar is in the source. I have paraphrased rather than quoting it directly to avoid the sentence reading as our error.
-3. I have not stated whether the Cabinet Division has any appellate or review role, because the sections supplied do not address it. If another provision does, this should be revisited.
