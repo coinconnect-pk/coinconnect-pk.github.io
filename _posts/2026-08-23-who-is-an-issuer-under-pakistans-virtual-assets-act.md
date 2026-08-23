@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who Is an Issuer Under Pakistan's Virtual Assets Act?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-23 18:59:18 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "The Act defines Issuer by control, not by involvement. An express carve-out protects marketers, brokers and developers who never touch supply or reserves."
@@ -109,9 +109,3 @@ Our reading is that the practical burden of issuer status will therefore be set 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **The three control limbs read as alternatives, not cumulative** — the drafting uses "or". I have said so explicitly because it is the load-bearing reading of the whole article. Worth a second opinion from Rabi before this publishes.
-2. **The "substantive not formal" reading of the control test is our analysis, not the Act's words.** I have labelled it as our reading and said it should be confirmed. Flagging because it is the most likely part to be challenged.
-3. The Act does not define "primary control" or "on-chain governance". I have not invented thresholds for either.
