@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Official Currency and Person: Definitions That Decide"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-24 20:23:05 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Whether your token is a Fiat-Referenced Token turns on two short definitions in section 3(1). Most stablecoin analysis gets decided here, not in Chapter 5."
@@ -98,9 +98,3 @@ For a project, the practical consequence is that reserve backing is not an accou
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **The "purports to" reading is our analysis, clearly labelled as such.** It is the most commercially useful point in the article and also the most contestable — it implies marketing copy can trigger classification. Worth Rabi's view before publication.
-2. **I have not addressed CBDCs here** even though they are issued by central banks, because the exclusion sits in s.2(2)(c) and is article 025's subject. If you would rather this piece cross-reference it explicitly, that is a one-line addition once 025 is live.
-3. The Act uses both "Official or Fiat Currency" (s.3(1)(xxi)) and "Official Currency" (s.3(1)(ix)) for what appears to be the same concept. I have treated them as identical. Worth confirming against the gazetted text.
