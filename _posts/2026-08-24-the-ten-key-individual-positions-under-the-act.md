@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ten Key Individual Positions Under the Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-24 09:10:24 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 3(1)(xv) lists ten roles that make someone a Key Individual, and catches part-time, acting and outsourced appointments on identical terms."
@@ -108,9 +108,3 @@ We should be careful about how far to push this. The Act does not define "in rel
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **The source text for limb (a) reads "registered under the Companies Act, 2017 (XIX of 2017)" with no closing punctuation**, and limb (g) contains "designed under" where "designated" is clearly intended. I have used "designated" in the table and not reproduced the typo. Worth checking against the gazetted text before publication.
-2. **I have said the Act does not prohibit one person holding multiple roles.** That is accurate as to the text supplied, but if a Regulation or the NOC Regulations address role separation, this section needs revisiting.
-3. I have not stated any residency requirement for Key Individuals, because the sections supplied do not impose one. If s.50 or another provision does, the article should say so.
