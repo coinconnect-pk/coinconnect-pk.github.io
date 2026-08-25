@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Shariah Advisory Committee and Islamic Virtual Assets"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-25 20:28:51 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "The Act names a Shariah Advisory Committee for PVARA but does not spell out its mandate. Here is exactly what the text says, and what it leaves open."
@@ -70,9 +70,3 @@ It should not stop a market entrant from proceeding with [SECP incorporation](ht
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations 2025, and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I searched the full Act text and could not find any operative section (beyond the s.3(1)(xxvii) definition and the Statement of Objects and Reasons) that names the Shariah Advisory Committee. If a later Regulation or amendment has since established it, this article should be revisited — the whole piece rests on that being a genuine current gap.
-2. The claim that full-backing rules for FRTs/ARTs "read as consistent with" Islamic-finance principles is my own analytical framing, clearly labelled as "our reading." Consider whether you want that comparison in a published piece at all, since it edges toward a religious-compliance characterisation we cannot actually verify.
-3. This is a strong candidate for a follow-up once PVARA issues Regulations under s.68 that define the Committee's actual mandate — worth flagging in the content calendar.
