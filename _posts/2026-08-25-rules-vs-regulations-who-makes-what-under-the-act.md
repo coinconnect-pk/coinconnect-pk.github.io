@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rules vs Regulations: Who Makes What Under the Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-25 08:56:35 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "The Act uses Rules and Regulations as distinct instruments with different makers. Knowing which is which tells you where a requirement will come from."
@@ -99,9 +99,3 @@ That is worth knowing before you commit to a launch date. It also argues for eng
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **The claim that Regulations will move faster than Rules is our inference from the structure, not something the Act says.** I have labelled it as our reading. Delete it if you would rather not speculate.
-2. **s.68 does not mention Gazette notification** while s.67 does. I have noted the difference factually without asserting what follows from it, since I cannot tell from the text alone whether Regulations require separate publication. This is a genuine open question worth confirming — and would make a useful follow-up article if you learn the answer.
-3. I have not listed every "prescribed" reference in the Act — there are many. If you want an exhaustive table of open items, that is a strong standalone article and arguably more useful than this one.
