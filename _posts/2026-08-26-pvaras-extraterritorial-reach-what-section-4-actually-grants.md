@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA's Extraterritorial Reach: What Section 4 Actually Grants"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-26 09:04:29 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 4 lets PVARA pursue enforcement outside Pakistan and sets rules for cross-border cooperation. Here is what the Act grants and what it leaves to Regulations."
@@ -69,8 +69,3 @@ Not directly under section 4, which is aimed at the service provider, not the cu
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The relationship between section 4(2)'s cross-border enforcement agreements and section 17(2)'s Federal-Government-approval requirement is genuinely ambiguous on the text — I have flagged it as unclear rather than guessing. Worth confirming with PVARA directly if you want a firmer answer for a future piece.
-2. Section 4(2)'s Regulations defining "offered or marketed to Persons in Pakistan" have not been issued as far as the source documents show. If PVARA has since published them, this article needs an update — that threshold is the single most commercially important number in this piece and I could not find it in the current text.
