@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Law Prevails? The Virtual Assets Act, FERA and Data Rules"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-26 21:37:38 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 5 makes the Virtual Assets Act override other laws, with two exceptions: foreign exchange rules and data protection. Here is exactly how the hierarchy works."
@@ -71,8 +71,3 @@ Where any of the first three genuinely applies and the position is not clear fro
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations 2025, and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The worked example (AML/CFT retention period versus a data protection retention limit) is illustrative, built to show how section 5(1) and 5(2) interact — it is not drawn from an actual reported conflict or a named data protection statute in the source documents. Worth checking whether you want a real statute named here once Pakistan's data protection law is finalised, or whether to keep it hypothetical as it stands.
-2. None of the three source documents names the specific data protection statute section 5(2) refers to — the Act's text is general ("any law" prescribing such measures). If you know which statute this is meant to anticipate, it may be worth a follow-up piece once that law is in force.
