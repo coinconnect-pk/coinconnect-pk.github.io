@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who Sits on PVARA's Board and How It Decides"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-28 11:59:44 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Sections 7 and 8 set out who sits on PVARA's governing body, how long they serve, and the quorum needed to make a valid decision. Here is the full breakdown."
@@ -76,8 +76,3 @@ Section 10 allows the Authority to delegate its powers and functions to the Mana
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The article's working title referenced an "eight-member" Board, but a careful read of s.7(1) shows paragraph (h) alone supplies two independent directors, making the true total nine individuals across eight lettered paragraphs. I have written the piece to state this precisely and flag the distinction, since getting this number wrong would be an easy, visible error for a reader who counts the seats themselves. Please sanity-check my count before this goes live.
-2. Section 8(3)'s presiding-in-absence rule has no stated fallback if the Chairperson is absent and has not nominated anyone — I noted this as a gap in the text rather than speculating about what would happen.
