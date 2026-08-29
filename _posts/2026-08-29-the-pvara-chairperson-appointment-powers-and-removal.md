@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The PVARA Chairperson: Appointment, Powers and Removal"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-29 06:17:48 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 11 sets the PVARA Chairperson's qualifications, term limits and removal standard. Here is exactly what the Act requires, quoted directly from the text."
@@ -72,8 +72,3 @@ Two things follow directly from section 11, without speculation beyond the text:
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations 2025, and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 11(1) leaves the length of the Chairperson's term(s) to the Federal Government's discretion, unlike the fixed three-year term for ordinary members under section 7(2). I have flagged this distinction clearly in the piece rather than assuming a three-year term applies to the Chairperson by analogy — please check this reading is what you want published, since it is a subtle point readers may misapply.
-2. "Gross misconduct" and "incapacity" are undefined in the Act text I reviewed, and no source document specifies the removal procedure's decision-maker. I have stated this as an open gap rather than guessing at an administrative-law default — worth a follow-up once Regulations or a Rules of Business provision addresses it.
