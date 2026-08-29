@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The PVARA Managing Director and Delegated Authority"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-29 18:20:33 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 12 sets the Managing Director's term, role and voting position, while section 10 lets the board delegate powers to that office. Here is what the Act says."
@@ -69,8 +69,3 @@ Three points follow directly from the text, without inferring beyond it:
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations 2025, and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. None of the three source documents specifies a removal standard for the Managing Director comparable to the Chairperson's "gross misconduct or incapacity" test in section 11(3). I have left that row of the comparison table blank/noted as "not separately specified" rather than guessing — worth flagging as a genuine gap if you want to raise it with PVARA directly, since it affects how secure the office actually is against removal.
-2. The claim that "day-to-day correspondence... may in practice be handled under delegated authority" is a reasonable operational inference from section 10's breadth, not a stated fact — marked "may in practice" in the text to keep it clearly separated from what the Act actually specifies. Consider whether you want this softened further or removed.
