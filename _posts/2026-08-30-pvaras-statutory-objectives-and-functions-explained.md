@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA's Statutory Objectives and Functions, Explained"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-30 06:17:54 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 9(1) lists nine functions PVARA must perform, from licensing to investment attraction. Here is each one, quoted directly, with what it means in practice."
@@ -70,8 +70,3 @@ Two conclusions follow directly from section 9(1), without reading beyond it. Fi
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations 2025, and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. This piece deliberately stays at the "what the nine functions say" level and only briefly touches the classification power (function six), since a deeper dive on that specific function is queued separately as article 043. Worth checking there is no unwanted overlap once both are published back to back.
-2. The mapping table between functions and powers is my own organisation of section 9(1) and 9(2) side by side for readability — the Act does not itself present them in a linked table. Flagging so you know this structure is editorial, not a quotation.
