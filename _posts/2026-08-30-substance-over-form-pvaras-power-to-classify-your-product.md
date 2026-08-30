@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Substance Over Form: PVARA's Power to Classify Your Product"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-30 18:20:29 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 9(1)(f) lets PVARA classify any asset or business by what it actually does, not what it is called. Here is exactly what that power covers and its limits."
@@ -61,8 +61,3 @@ Businesses uncertain how their product would be classified are better served by 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations 2025, and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The consultation procedure with the State Bank of Pakistan and Securities and Exchange Commission of Pakistan is not detailed anywhere in the three source documents — I have flagged the missing procedural detail explicitly rather than guessing at timelines or dispute-resolution mechanisms. Worth a follow-up once PVARA publishes Regulations addressing inter-regulator classification disputes, if any are issued.
-2. I connected the classification power to section 50's criminal penalty for unlicensed activity to show the real-world stakes of a substance-based finding. This is a reasonable structural link (classification determines licensing status, and unlicensed operation is criminal under section 50) but it is my own synthesis across sections rather than a single quoted provision — flagging in case you want it softened or the two sections kept more separate.
