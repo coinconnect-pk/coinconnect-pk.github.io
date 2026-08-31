@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How PVARA Staffs Itself: Posts, Hiring and Secondments"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-31 18:20:45 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 13 of the Virtual Assets Act 2026 governs how PVARA creates posts, hires staff through a competitive process, and borrows officials from other regulators."
@@ -58,8 +58,3 @@ This also has a bearing on timelines. A regulator relying partly on secondments 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 13, and its cross-references to sections 7, 10, 11 and 12 — read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 13 does not define what "transparent and competitive" hiring looks like in operational terms (advertising, panels, timelines). I did not speculate — the relevant Regulations were not among the three source documents reviewed for this piece. Worth a follow-up article once PVARA publishes its staffing Regulations, if that becomes a useful angle.
-2. I linked section 13(3) secondment to the FMU and SECP by name because both sit on the Authority's own board under section 7(1) and are natural secondment sources for AML expertise — this is inference from the Act's structure, not a stated fact about actual secondments. Flagged as "our reading," not presented as confirmed practice.
