@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fourteen Powers PVARA Can Exercise Under Section 9"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-08-31 06:18:01 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 9(2) of the Virtual Assets Act 2026 lists fourteen distinct powers held by PVARA, from rule-making to sandbox operation. Here is each one, explained."
@@ -95,8 +95,3 @@ Anyone building a [corporate structure](https://www.coinconnect.site/corporate-s
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 9 and its cross-references to sections 17, 54, 57, 59, 67 and 68 — read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 9(2)(l) mutual-recognition language is broad but undeveloped — no published PVARA arrangement with a named foreign regulator exists as at the date of this analysis. I described the power without implying any specific recognition exists. Worth revisiting once PVARA publishes cooperation MOUs, if any.
-2. I cross-referenced the Shariah Advisory Committee (defined in section 3(1)(xxvii)) and the coordination committee (section 17(3)) as examples of the 9(2)(n) power in action, since the Act does not otherwise illustrate it. Flag if you want this article to stay narrower to section 9 alone.
