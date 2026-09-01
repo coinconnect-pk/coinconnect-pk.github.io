@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting Up a Virtual Asset Company in Pakistan: NOC First"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-01 06:22:09 +0500
 categories: [Corporate Setup]
 author: "Malik Abbas"
 description: "Section 19(1) of the Virtual Assets Act blocks SECP incorporation until PVARA issues an NOC. The correct sequence for founders entering Pakistan's crypto market."
@@ -78,9 +78,3 @@ Founders comparing this route against [PVARA's regulatory sandbox](https://www.c
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 19, 20 and 50 — and from PVARA's No Objection Certificate Regulations 2025, principally Regulations 2.2, 15.3 and 15.4, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Regulation 15.3(c)'s three-month licensing deadline runs from the issuance of separate VASP licensing regulations, not from the NOC date or incorporation date. I have not seen those licensing regulations among the three source documents provided, so I could not state whether they have been issued yet — worth confirming before this goes out, since it affects how urgently we tell prospective clients to act.
-2. The Act does not state a specific penalty for incorporating before applying for the NOC (as opposed to operating without a licence, which section 54 clearly penalises). I described the surrounding provisions rather than inventing a direct penalty for that narrower scenario.
-3. I linked to our existing "who-needs-a-pvara-licence" post for the section-numbering discrepancy between the Act (s.19) and the Regulations ("Section 15") rather than re-explaining it at length here, to avoid duplicating that analysis.
