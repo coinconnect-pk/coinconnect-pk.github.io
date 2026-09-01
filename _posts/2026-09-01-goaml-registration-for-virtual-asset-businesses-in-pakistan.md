@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "goAML Registration for Virtual Asset Businesses in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-01 18:27:02 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 11.4–11.6 of the NOC Regulations sets when a foreign VASP registers on goAML, and when the role passes to the licensed local entity."
@@ -72,8 +72,3 @@ No. Regulation 2.2 is explicit that AML Registration and the services it opens u
 This analysis was prepared by the CoinConnect research desk from PVARA's No Objection Certificate Regulations 2025 — principally Regulations 2.2, 11.1 and 11.4 to 11.6 — read alongside Form A1 and Form A4 at Annex A. Where a provision is silent, as with the reporting-entity status of a company that has incorporated but not yet been licensed, that gap is stated in the text above rather than filled with assumption.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Regulations 11.4 and 11.5 describe the reporting-entity status at the "post-NOC, foreign chapter" stage and the "post-licence, local entity" stage, but say nothing directly about the intermediate stage — incorporated but not yet licensed. I inferred the foreign entity likely remains the reporting entity through that gap, but flagged it clearly as inference rather than stated rule. Worth confirming with PVARA or FMU directly if a client sits in that window.
-2. "Maintain active reporting credentials at all times" (Reg 11.5) has no defined technical standard in the source documents — I did not invent one.
