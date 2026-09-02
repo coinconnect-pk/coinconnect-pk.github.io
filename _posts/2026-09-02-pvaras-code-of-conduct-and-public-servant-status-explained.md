@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA's Code of Conduct and Public Servant Status Explained"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-02 18:27:53 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Sections 16 and 69 of the Virtual Assets Act 2026 bind every PVARA official to a Code of Conduct and to Pakistan Penal Code liability as a public servant."
@@ -70,8 +70,3 @@ It also has a bearing on confidentiality expectations. Section 16(2) requires th
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 16 and 69, with cross-references to sections 7, 11, 12, 52 and 54 — read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 16(2)'s Code of Conduct Regulations had not been located among our three source documents — I described the five mandatory categories the Act requires it to cover, without inventing specific content (thresholds, cooling-off periods, disclosure formats). Flag for a follow-up piece once PVARA publishes the actual Code.
-2. Section 69's reference to "section 21 of the Pakistan Penal Code" — I described its effect at a general level (bringing PPC public-servant offences into play) without listing specific PPC sections or offences, since that level of detail sits outside our three source documents and risks misstating criminal law. Recommend a qualified criminal lawyer review before we go further on this angle.
