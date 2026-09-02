@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The PVARA Fund: How Pakistan's Crypto Regulator Is Financed"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-02 06:21:35 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 14 of the Virtual Assets Act 2026 lists eleven revenue sources and nine permitted uses for the PVARA Fund, audited yearly by the Auditor General."
@@ -78,7 +78,3 @@ For a company weighing its own [corporate setup](https://www.coinconnect.site/co
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 14 and 15, with cross-references to sections 9, 13, 59 and 72 — read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 14(2)(b) permits loans or funds "with the approval of the Authority" from Federal, Provincial, local or other entities — the Act does not specify any borrowing limit or debt ceiling. I did not speculate on a figure. Flag if you want a follow-up piece once any borrowing Regulations are published.
