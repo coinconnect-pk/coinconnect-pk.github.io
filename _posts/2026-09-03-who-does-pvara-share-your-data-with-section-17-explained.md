@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who Does PVARA Share Your Data With? Section 17 Explained"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-03 06:27:15 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 17 of the Virtual Assets Act 2026 names the agencies PVARA must share data with, and the approval route for foreign regulators."
@@ -66,8 +66,3 @@ If your business model involves [custody](https://www.coinconnect.site/blog/coin
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 17, with cross-references to sections 4, 5, 9, 39, 40, 46, 48, 49 and 66 — read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act does not fully resolve the interaction between the mandatory domestic sharing duty in section 17(1) and the consent-based standard in section 49 — I described this as an area where section 5(2) points to data protection law prevailing but did not assert a definitive resolution. Worth a dedicated piece once any implementing Regulations clarify the interface.
-2. Section 17(3)'s coordination committee membership ("relevant public authorities") is undefined in the Act. I inferred likely membership from the section 17(1) list as the most probable candidates but flagged this explicitly as inference, not a stated fact.
