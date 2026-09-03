@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The NOC-Before-Incorporation Rule for Pakistani VASPs"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-03 18:27:43 +0500
 categories: [Corporate Setup]
 author: "Malik Abbas"
 description: "Section 19 of the Virtual Assets Act 2026 requires an NOC before incorporation begins, not after — what that sequencing means for founders."
@@ -69,8 +69,3 @@ For a foreign group planning [market entry](https://www.coinconnect.site/launch-
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 19, with cross-references to sections 50 and 54 — and from PVARA's No Objection Certificate Regulations 2025, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act does not state a consequence for incorporating before applying for the NOC — I described the surrounding provisions (sections 50 and 54) rather than asserting a direct penalty, since none is stated for this specific scenario. Worth confirming PVARA's actual treatment of any such case if we ever see one.
-2. The NOC Regulations 2025 reference "Section 15" and other numbering from the predecessor Virtual Assets Ordinance, not the Act's section 19. I treated the two documents as related but distinct rather than assuming the section numbers cross-map, and avoided citing the Regulations' own section numbers as if they were Act sections. Worth a note to confirm PVARA has since reissued or aligned the Regulations to the Act's numbering.
