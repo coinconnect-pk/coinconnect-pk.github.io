@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Registered Office and Resident Key Individual Rule"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-04 18:27:03 +0500
 categories: [Corporate Setup]
 author: "Malik Abbas"
 description: "Section 20(6) of the Virtual Assets Act requires a Pakistan registered office and a resident Key Individual with real decision-making power."
@@ -68,8 +68,3 @@ A foreign [virtual asset service provider](https://www.coinconnect.site/blog/coi
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 20(6), with cross-references to sections 3(1)(xv), 20(1) to (4) and 23 — read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I deliberately pushed back on framing section 20(6) as a "resident director" rule, since the Act's own Key Individual list is wider than directors. Worth checking whether market usage (including our own existing content) has been over-simplifying this — if so, that older content may be worth a correction pass.
-2. "Subject to conditions prescribed" is undefined in the Act text available to me. I did not guess at what those conditions might be and flagged the gap instead. Revisit once PVARA publishes the relevant Regulations.
