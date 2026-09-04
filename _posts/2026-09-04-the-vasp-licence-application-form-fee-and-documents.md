@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The VASP Licence Application: Form, Fee and Documents"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-04 06:19:47 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 19(4) of the Virtual Assets Act sets out the licence application, its non-refundable fee rule, and what documents PVARA can demand."
@@ -61,8 +61,3 @@ For a [foreign exchange operating](https://www.coinconnect.site/blog/coinconnect
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 19(4), with cross-references to sections 20, 21 and 22 — and from PVARA's No Objection Certificate Regulations 2025, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I did not assume the NOC Regulations' Form A1 document list applies unchanged to the section 19(4) licence application — the two are described in different instruments covering different stages, and I flagged this explicitly rather than presenting the NOC form as the licence form. Worth confirming once PVARA issues licensing-specific regulations.
-2. The Act does not state a decision timeline for the licence application under section 19(4), unlike the sixty-calendar-day target the NOC Regulations set for the earlier NOC stage. I did not invent a figure — this is worth a dedicated "how long does licensing take" follow-up once PVARA publishes one.
