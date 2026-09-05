@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What a VASP Licence Actually Permits Under the Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-05 18:24:02 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 21(3) of the Virtual Assets Act scopes each licence to named services and keeps it in force indefinitely, unless suspended or revoked."
@@ -64,8 +64,3 @@ For a counterparty, bank, or customer assessing whether a Pakistani virtual asse
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 21(3) and (4), Schedule I, and sections 22, 23, 50 and 54 — read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The interaction between an indefinite-term licence (s.21(3)) and the "renewal... fees" language in s.22(f) is not resolved in the Act text. I gave our best reading — a periodic fee rather than a literal renewal event — but marked it clearly as inference. Worth confirming once fee Regulations are published.
-2. I inferred, rather than found stated outright, that providing a service outside a licence's stated scope would fall under the section 50 unlicensed-services prohibition. This is a reasonable reading of sections 21(3) and 50 read together, but it is our analysis, not a direct textual statement, and I flagged it as such in the article.
