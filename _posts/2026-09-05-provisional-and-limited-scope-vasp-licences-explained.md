@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Provisional and Limited-Scope VASP Licences Explained"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-05 06:21:17 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 21 of the Virtual Assets Act lets PVARA grant a provisional or limited-scope licence case by case — what that means and its limits."
@@ -60,8 +60,3 @@ A provisional or limited-scope licence is a real option under the Act, but it is
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 21(1) and (2), with a comparison to section 35 — and from PVARA's No Objection Certificate Regulations 2025, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I have not seen Regulations defining the terms and conditions of a provisional or limited-scope licence, so I described the mechanism at the level the Act itself supports and explicitly flagged the rest as undefined. This is a strong candidate for an update once PVARA issues the relevant Regulations.
-2. I deliberately did not present the sandbox and the provisional/limited-scope licence as interchangeable, or as a formal pipeline into one another, since the Act does not state that relationship. Worth revisiting if PVARA's practice later shows one leading into the other.
