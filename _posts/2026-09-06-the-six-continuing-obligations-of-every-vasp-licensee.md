@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Six Continuing Obligations of Every VASP Licensee"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-06 18:24:44 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 22 of the Virtual Assets Act sets six duties every VASP licensee owes PVARA at all times: capital, compliance, reporting, approvals, systems and fees."
@@ -63,8 +63,3 @@ None of these consequences require a criminal conviction — administrative sanc
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 22, read alongside sections 20, 23, 25, 27, 34, 40, 46 and 59 — as published. Where the Act defers detail to Regulations that have not yet been published in the source material reviewed, that is stated in the text above rather than assumed.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 22(d)'s "material change" is undefined in the Act text — I have not invented a threshold and instead tied it to the section 3(1)(v) Controller definition where the connection is textually supported. Worth revisiting once PVARA publishes the Regulations governing this.
-2. Section 22(c)'s reporting frequency is left to Regulations not present in the source documents reviewed. I described the two adjacent obligations the Act does fix (section 27 proof-of-reserves and annual audit) rather than guessing at a calendar for section 22(c) itself.
