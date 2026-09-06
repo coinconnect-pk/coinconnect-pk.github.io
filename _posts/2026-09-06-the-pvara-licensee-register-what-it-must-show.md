@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The PVARA Licensee Register: What It Must Show"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-06 06:20:57 +0500
 categories: [Market Entry]
 author: "Malik Abbas"
 description: "Section 21(4) of the Virtual Assets Act requires PVARA to publish a register of licensees showing name, licence number, services and status."
@@ -80,8 +80,3 @@ The Act does not impose a diligence obligation on counterparties in these terms;
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 21(4), together with section 21(3), Schedule I, section 50 and section 54(1) — read as published. Where PVARA's own operational detail for the register (format, update cadence, publication mechanics) is not fixed by the Act text, that is stated above rather than assumed.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I read "Licensee" in section 21(4) as excluding NOC-stage applicants, based on the Act's own defined term ("a person who holds a license under this Act"). Worth confirming this is how PVARA actually treats its published register in practice, since NOC holders may want visibility too.
-2. The Act sets no explicit update frequency for the register beyond "up-to-date" — I did not invent a cadence, but this is worth checking against whatever PVARA states operationally once the register is live.
