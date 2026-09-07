@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How a VASP Licence Is Varied, Suspended or Revoked"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-07 06:22:55 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 23 of the Virtual Assets Act lists five grounds for varying, suspending or revoking a VASP licence, the hearing right, and the SECP winding-up referral."
@@ -67,8 +67,3 @@ A licensee assessing its own risk should treat these as three separate exposure 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 23, read alongside sections 21, 24, 59, 60, 61 and Chapter 11 (sections 62 to 65) — as published. Where the Act defers procedural detail to Regulations not present in the source documents reviewed, that is stated in the text above rather than assumed.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 23(2) uses "may notify" SECP, which I have read as discretionary rather than automatic. Worth confirming against PVARA's actual practice once a revocation has occurred in public.
-2. I have not asserted a specific notice period or hearing format for section 23(1), since the Act leaves that detail to Regulations not present in the source documents reviewed.
