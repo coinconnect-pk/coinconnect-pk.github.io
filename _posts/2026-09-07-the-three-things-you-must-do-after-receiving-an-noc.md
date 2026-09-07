@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Three Things You Must Do After Receiving an NOC"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-07 23:15:19 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Regulation 15.3 of the NOC Regulations lists three duties after a PVARA NOC: goAML registration, local incorporation, and the three-month licensing filing."
@@ -58,8 +58,3 @@ Regulation 18.1(f) makes diligent progress toward a full VASP licence an ongoing
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025 — principally Regulations 2.2, 2.3, 11.4, 11.5, 15.3, 17.1, 18.1 and 19.1 — read alongside section 74 of the Virtual Assets Act 2026, as published. Where the Regulations' own references to Ordinance-era section numbers could not be confirmed against the Act's current numbering, that is stated in the text above rather than assumed.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The NOC Regulations cite "Section 15(1) of the Ordinance" for incorporation and "Section 17 of the Ordinance" for full licensing. Neither number matches the Act's own section numbering as passed by the National Assembly (application for licence sits at section 19; grant of licence at section 21). I have flagged this as an Ordinance-to-Act numbering gap rather than guessing at a mapping — worth getting PVARA's confirmed cross-reference table if one exists.
-2. The three-month filing deadline is pegged to promulgation of separate VASP licensing Regulations that were not in the source documents reviewed for this analysis. I could not confirm whether those Regulations have been issued yet — this needs a live check against PVARA's published Regulations list before it is used in any client-facing timeline.
