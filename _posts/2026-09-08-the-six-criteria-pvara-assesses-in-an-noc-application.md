@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Six Criteria PVARA Assesses in an NOC Application"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-08 22:15:02 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Regulation 16.1 lists six criteria PVARA assesses in an NOC application, plus its power to interview Key Individuals and inspect the Applicant."
@@ -69,8 +69,3 @@ For governance, Regulation 4.2 specifies what the Applicant Board itself must ac
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025 — principally Regulations 16.1, 16.2 and 16.3, read alongside Regulations 4.2, 5.1, 5.2, 6.2, 6.3, 6.4, 8.2 and the associated Form A1 and Form A3 — as published. Where the Regulations leave interview or inspection procedure undescribed, that gap is stated in the text above rather than assumed.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Regulation 16.2 and 16.3 give PVARA interview and inspection powers but neither Regulation nor the wider document set describes process, notice or scope. I have not invented a procedure — this is worth watching for in any future PVARA circular or guidance note.
-2. Section 2 of Form A4 (the AML/CFT framework submission statement) is the closest textual support I found for the idea that a generic risk assessment would fail criterion (f) — it is my inference connecting that requirement to Regulation 16.1(f), not a direct statement in Regulation 16 itself, so I have marked it as "our reading" in the body.
