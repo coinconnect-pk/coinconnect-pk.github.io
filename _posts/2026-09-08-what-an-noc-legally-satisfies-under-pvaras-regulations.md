@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What an NOC Legally Satisfies Under PVARA's Regulations"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-08 10:56:10 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Regulation 15.4 of the NOC Regulations explains what a PVARA no-objection certificate legally satisfies: pre-incorporation clearance, not a VASP licence itself."
@@ -63,8 +63,3 @@ An Applicant should treat this as the underlying logic behind every limit discus
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025 — principally Regulations 2.2, 2.3 and 15.4 — read alongside section 19 of the Virtual Assets Act 2026 as passed by the National Assembly. Where the two source documents cite the same provision under different instrument names, that inconsistency is stated in the text above rather than resolved by assumption.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. This is the clearest documented instance of the Ordinance/Act numbering conflict across the source material: Regulation 2.2 and Regulation 15.4 cite the identical "Section 15" to two different instruments. I did not attempt to resolve which one is authoritative — both are quoted as written, and the discrepancy is flagged in the body rather than hidden.
-2. Worth asking PVARA directly, or checking any published Ordinance-to-Act correlation table, before this article or similar client material states a specific Act section number for the pre-incorporation NOC requirement.
