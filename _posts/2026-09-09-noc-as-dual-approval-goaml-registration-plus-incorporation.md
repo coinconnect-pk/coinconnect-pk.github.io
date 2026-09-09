@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NOC as Dual Approval: goAML Registration Plus Incorporation"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-09 22:09:31 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Regulation 2.2 of the NOC Regulations explains the two distinct permissions a PVARA No Objection Certificate grants at the same time."
@@ -71,8 +71,3 @@ Our reading is that the safest operating assumption for an Applicant is to treat
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025, principally Regulations 2.2, 2.3, 11.4, 11.5, 11.6, 15.3, 15.4, 17.1 and 19.1, read as published. Where the Regulations do not describe a sequence for an Applicant without a pre-existing foreign chapter, that gap is stated in the text above rather than assumed.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Regulation 11.4's "already providing" language is written specifically for foreign groups with an existing Pakistan-facing chapter. I have flagged, rather than assumed, that the Regulations are silent on the equivalent goAML sequence for a start-up with no such foreign chapter.
-2. I connected Regulation 19.1(b) (AML/CFT breach revocation) to the scenario of registering on goAML but never filing reports — that specific scenario is my inference, not a directly stated example in the Regulations, so it is framed as "our reading."
