@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The NOC Regulations 2025: Citation, Commencement and Scope"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-09 10:57:53 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "When the PVARA No Objection Certificate Regulations 2025 took effect, who they bind, and what an NOC actually authorises under Section 15."
@@ -70,8 +70,3 @@ The commencement and scope provisions do not themselves set out fees, forms, ass
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025, principally Regulations 1.1, 1.2, 2.1 and 2.2, read as published. Where a term or threshold is defined in the wider Virtual Assets Act rather than in this instrument, that is stated in the text above rather than assumed.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Regulation 2.1 does not itself define "Virtual Asset Service Provider" — I have treated that as governed by the wider Act and said so directly rather than guessing at the definition here. If you want a hard cross-reference to a specific Act section number, that needs the Act text, not this Regulations document.
-2. The "already providing" language I connected back to Regulation 2.1 comes from Regulations 11.4 and 17.1(a)(i) later in the same document — it is not stated in Regulation 2 itself, so I have framed it as a reading rather than a direct quote of Regulation 2.
