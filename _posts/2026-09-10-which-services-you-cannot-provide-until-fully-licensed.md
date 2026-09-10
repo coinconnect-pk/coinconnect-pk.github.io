@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Services You Cannot Provide Until Fully Licensed"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-10 21:59:21 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Six Schedule I virtual asset service categories stay locked behind a full Section 17 licence and are not opened up by a PVARA NOC, per Regulation 2.3."
@@ -63,8 +63,3 @@ Map every planned product line against the ten Schedule I categories before subm
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025, principally the final paragraph of Regulation 2.3 and Regulation 3.1(g), read alongside Schedule I of the Virtual Assets Act (section 18) for the category descriptions. Where the Regulations do not describe the mechanism behind the "unless otherwise agreed with PVARA" exception, that gap is stated in the text above rather than assumed.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The "unless otherwise agreed with PVARA" exception in Regulation 2.3 has no described process anywhere in the source documents I reviewed. I have flagged it rather than speculating on what an agreement request would look like.
-2. My explanation of why these particular six categories were excluded (fiduciary/product-design dimension) is analysis, not a stated rationale in either source document — marked clearly as "our reading" in the body.
