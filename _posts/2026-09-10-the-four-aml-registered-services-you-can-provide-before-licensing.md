@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Four AML-Registered Services You Can Provide Before Licensing"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-10 10:56:51 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Regulation 2.3 lists four AML-Registered Services a PVARA Applicant may provide before a full VASP licence, and the conditions attached to them."
@@ -72,8 +72,3 @@ No. Regulation 2.3 is explicit that it does not: "For the avoidance of doubt, al
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025, principally Regulations 2.3, 3.1(g), 9.3 and 17.1(a), read as published. Where the Regulations leave the specific conditions PVARA may impose on AML-Registered Services undefined, or leave the "unless otherwise agreed" exception unexplained, those gaps are stated in the text above rather than filled in.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Regulation 2.3 does not itself list what "conditions imposed by the Authority" might include for AML-Registered Services — I have not speculated on likely conditions, only noted the gap. Worth watching for a future PVARA circular.
-2. The "unless otherwise agreed with PVARA" carve-out at the end of Regulation 2.3 is undefined in the source document — I flagged it rather than guessing at what kind of agreement might qualify.
