@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Board Oversight of AML/CFT: What PVARA Expects"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-11 22:01:15 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 4 of PVARA's NOC Regulations sets four specific AML/CFT duties for a VASP applicant's board, scaled by a proportionality test."
@@ -73,8 +73,3 @@ Regulation 19.2 requires that any revocation be applied proportionately, "taking
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025, principally Regulations 4.1, 4.2, 8.1, 8.2, 18.1 and 19, together with Form A4 and Form A6 in Annex A, read as published. Where practice is not yet settled or specific thresholds have not been published, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I have not found a defined threshold anywhere in the source documents for what "proportionate" governance looks like at different scales (board size, meeting frequency, committee structure) — flagged in the text as open and unsettled.
-2. The connection I draw between Regulation 4.2(d) and Regulation 18.1(d)'s independent audit requirement is my own reading of how the two provisions relate; the Regulations do not explicitly cross-reference each other on this point.
