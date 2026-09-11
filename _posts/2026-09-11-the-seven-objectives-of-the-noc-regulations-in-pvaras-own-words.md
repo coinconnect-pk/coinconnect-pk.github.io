@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Seven Objectives of the NOC Regulations, in PVARA's Own Words"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-11 10:56:22 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 3.1 sets out seven objectives behind PVARA's No Objection Certificate Regulations, from AML/CFT standards to the phased licensing pathway."
@@ -60,8 +60,3 @@ Objective (g) is the structural idea that makes the rest of the Regulations cohe
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025, principally Regulation 3.1(a) through (g), read alongside the Regulations that implement each objective — Regulations 2.3, 4.1, 6.1, 6.3, 7.1, 8.1, 8.2, 11.1 through 11.6, 18.1 and 19.1 — as published.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The closing paragraph connecting objective (g) to the other six as a "reward for meeting them early" is analysis on my part, not a stated framing in Regulation 3.1 itself — marked as "our reading."
-2. I have not attempted to map every one of the seven objectives to a numeric penalty or specific enforcement outcome, since the Regulations reviewed describe revocation grounds generally in Regulation 19.1 rather than tying each ground back to a specific numbered objective.
