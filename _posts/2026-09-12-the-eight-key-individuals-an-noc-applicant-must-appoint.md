@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Eight Key Individuals an NOC Applicant Must Appoint"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-12 10:45:18 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 5.1 of PVARA's NOC Regulations lists eight roles every applicant must appoint, from CEO to Head of Information Security."
@@ -73,8 +73,3 @@ In practice, this means the eight roles are not simply an intake checklist — t
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025 — principally Regulations 3.1(b), 5.1, 5.2, 6.1, 16.2 and 19.1(c), and Forms A1, A3 and A8 in Annex A — read alongside Section 3(1)(xv) and Section 20 of the Virtual Assets Act 2026, as published.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The discrepancy between the Act's ten-category "Key Individual" definition (including Managing Director and Chief Operating Officer) and the NOC Regulations' eight-role list (using CEO, no COO) is real and worth double-checking against any later PVARA guidance before we publish further content assuming one list supersedes the other.
-2. I have not found any source document stating whether roles beyond Compliance Officer/MLRO can be combined at a small applicant — flagged as unsettled and advised readers to confirm directly with PVARA.
