@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can One Person Be Both Compliance Officer and MLRO?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-12 21:19:01 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 5.2 lets a PVARA applicant combine Compliance Officer and MLRO where justified by size and complexity — here is what that actually means."
@@ -63,8 +63,3 @@ In practice, this suggests PVARA sees the Compliance Officer/MLRO pairing as fun
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025 — principally Regulations 4.1, 5.1, 5.2, 6.3, 8.2, 11.2, 11.3 and 16.2, and Forms A1, A3, A4, A5, A6 and A7 in Annex A — read alongside Section 20 of the Virtual Assets Act 2026, as published.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. There is no stated size or complexity threshold anywhere in the source documents for when combination is "justified" — I have flagged this as a case-by-case judgement call the applicant has to make and defend, not a settled rule.
-2. The suggestion that Form A1 Section 2.5's business model narrative is the right place to argue the justification is my own inference, not something the Regulations state directly — flagged in the text as such.
