@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Three Automatic Disqualifiers for a PVARA Key Individual"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-13 11:06:12 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 6.3 bars three categories of person from serving as a Key Individual at a PVARA applicant, with one narrow discharge exception."
@@ -66,8 +66,3 @@ In practice, this means a Key Individual who is convicted of a disqualifying off
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025 — principally Regulations 6.1 through 6.4 and 19.1(c), and Forms A3 and A8 in Annex A — read alongside Section 20(4) of the Virtual Assets Act 2026, as published.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Regulations do not define "financial misconduct" or confirm whether a foreign conviction of that character counts under Regulation 6.3(a) — I have flagged this as unresolved and advised disclosure over self-assessment.
-2. The Regulations do not specify what documentary evidence proves a bankruptcy or insolvency was "duly discharged" for the purposes of the Regulation 6.3(c) exception — I inferred the likely evidentiary expectation from Form A3 Section 6's general disclosure requirement, not from an explicit statement in the Regulations themselves.
