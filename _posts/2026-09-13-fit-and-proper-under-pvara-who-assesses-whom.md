@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fit and Proper Under PVARA: Who Assesses Whom?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-13 21:57:55 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 20 of the Act splits fit and proper assessment between PVARA and the applicant itself — here is exactly who assesses which roles."
@@ -66,8 +66,3 @@ In practice, an applicant that submits a written undertaking under Section 20(2)
 This analysis was prepared by the CoinConnect research desk from Section 20(1) through (4) of the Virtual Assets Act 2026, read alongside Regulations 6.1 through 6.4, 16.1 through 16.3, 18.1(b) and 19.1(a) of the PVARA No Objection Certificate Regulations 2025, and Forms A3, A4 and A8 in Annex A, as published.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act does not explain why Controller, Sponsor, CEO and Director specifically were chosen for direct PVARA assessment while other roles were left to the applicant — my explanation (ownership/top-executive concentration) is inference from the pattern, not a stated rationale in the source documents.
-2. I have described the written undertaking as a "compliance representation" PVARA can test through its interview and inspection powers — that framing is my own reading of how Section 20(2) and Regulation 16 interact, since neither document states this relationship explicitly.
