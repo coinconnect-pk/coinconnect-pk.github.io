@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fit and Proper Is a Continuing Duty Under the Virtual Assets Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-14 11:14:32 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 20(4) of the Virtual Assets Act makes fit and proper an ongoing duty, not a one-time check — the self-notification rule and what a lapse can cost."
@@ -76,8 +76,3 @@ Three things follow directly from the text. First, build an internal trigger lis
 This analysis was prepared by the CoinConnect research desk from Sections 20(3), 20(4) and 23(1)(b) of the Virtual Assets Act 2026, and Regulations 4.2, 6.1, 6.3, 16, 18.1(b), 19.1(c) and 19.2 of the PVARA No Objection Certificate Regulations 2025, together with Form A8 in Annex A, as published.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Regulation 6.1 of the NOC Regulations cites "section 16 of the Act" as the source of the fit-and-proper standard, but in the Act text we hold, fit-and-proper sits at Section 20 and Section 16 is the Code of Conduct provision for PVARA's own officers. I've flagged this as a likely cross-reference mismatch between the NOC Regulations (drafted against the earlier Ordinance numbering) and the Act as finally passed, and deliberately avoided asserting which numbering is authoritative — worth confirming with PVARA if this ever needs to be cited precisely in a filing.
-2. My statement that the Act lacks an explicit proportionality test at the full-licence stage (unlike Regulation 19.2 at NOC stage) is accurate to the text I reviewed, but it is possible unpublished PVARA guidance addresses this gap — flagging in case that guidance exists and should be incorporated later.
