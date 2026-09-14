@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Changing Control After Registration: What PVARA Must Approve First"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-14 23:38:18 +0500
 categories: [Corporate Setup]
 author: "Malik Abbas"
 description: "Once a VASP is registered, acquiring or increasing control needs PVARA's written approval first — here is what Regulation 7.3 and Section 22(d) require."
@@ -60,8 +60,3 @@ Three practical points follow from the text. First, treat the 20% figure in Regu
 This analysis was prepared by the CoinConnect research desk from Sections 3(1)(v), 20(1), 20(5), 22(d), 23(1)(a), 59 and 68 of the Virtual Assets Act 2026, and Regulations 7.1 through 7.3 of the PVARA No Objection Certificate Regulations 2025, together with Forms A1 and A2 in Annex A, as published. Where a specific numerical threshold or procedure has not yet been published, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I have not found a published numerical threshold for the "thresholds to be determined by PVARA" language in Regulation 7.3 — the article states this gap explicitly rather than guessing a figure. If PVARA has since published this via a circular or handbook not in our source set, this section should be updated.
-2. My reading that a Regulation 7.3 control-increase approval triggers the same fit-and-proper scrutiny as a fresh Controller application (Section 20(5)) is an inference from reading the two provisions together — the Act and NOC Regulations do not state this connection explicitly in a single clause.
