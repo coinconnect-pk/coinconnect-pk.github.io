@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corporate Controllers and the UBOs Behind Them Under PVARA"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-15 11:09:42 +0500
 categories: [Corporate Setup]
 author: "Malik Abbas"
 description: "When a company, not a person, holds 20% or more of a VASP, PVARA looks straight through it to the natural persons behind it — here is what must be disclosed."
@@ -66,8 +66,3 @@ Three practical implications follow from reading Sections 20(5) and Regulation 7
 This analysis was prepared by the CoinConnect research desk from Sections 3(1)(xxii) and 20(1), (5) of the Virtual Assets Act 2026, and Regulations 7.1 and 7.2 of the PVARA No Objection Certificate Regulations 2025, together with Forms A1 and A2 in Annex A, as published. Where PVARA's additional Regulations for corporate Controllers referenced in Section 20(5) have not yet appeared in the source documents reviewed, that gap is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 20(5) refers to Regulations PVARA "shall prescribe" for corporate Controllers specifically. I have not seen those specific Regulations in our source set — the article describes the general Form A2/Form A1 disclosure regime that currently applies rather than a bespoke corporate-Controller instrument, and says so explicitly. Worth checking if PVARA has since issued this.
-2. The AMLA 2010 Beneficial Owner definition itself is not in our source documents — I've anchored to Regulation 7.2's cross-reference and Form A2's working description rather than reproducing a definition from memory, per the house rule against reconstructing provisions we have not read directly.
