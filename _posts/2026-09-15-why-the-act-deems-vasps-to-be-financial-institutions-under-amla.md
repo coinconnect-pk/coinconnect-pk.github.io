@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why the Act Deems VASPs to Be Financial Institutions Under AMLA"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-15 22:40:19 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 46 of the Virtual Assets Act deems licensed VASPs financial institutions under AMLA 2010 — the deeming clause and its three baseline duties, explained."
@@ -62,8 +62,3 @@ The practical effect of Section 46 is that a VASP cannot treat its AML/CFT oblig
 This analysis was prepared by the CoinConnect research desk from Sections 46, 47 and 48 of the Virtual Assets Act 2026, and Regulations 2.3, 11.4, 11.5 and 11.6 of the PVARA No Objection Certificate Regulations 2025, as published. Where the classification used in the NOC Regulations and the deeming language in Section 46(1) appear to use different labels, that is noted in the text above rather than resolved by assumption.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The "non-financial business" designation in NOC Regulation 2.3 versus the "deemed financial institution" language in Act Section 46(1) is a genuine tension between the two source documents that I have flagged rather than resolved — my explanation (interim AML-registration phase versus fully licensed status) is my own reading of how they might sit together, not a stated reconciliation in either text. Worth confirming with PVARA or an AML specialist before this is presented as settled.
-2. Regulation 2.3 references "Section 38(1) of the Ordinance," which is the Virtual Assets Ordinance 2025's numbering, not the Act's — I've kept this quoted as written rather than trying to map it to an equivalent Act section, since I could not verify the mapping from the source documents provided.
