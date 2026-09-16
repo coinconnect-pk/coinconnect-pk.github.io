@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA's Documentation Standards for NOC Submissions"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-16 22:37:40 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 8A of the NOC Regulations sets five formatting rules for every document a VASP submits to PVARA — language, version control, pagination and more."
@@ -69,8 +69,3 @@ Getting Regulation 8A right does not, on its own, secure an NOC — the substanc
 This analysis was prepared by the CoinConnect research desk from Regulations 8.2(a), 8A.1, 15.1, 15.2, 16.1 and 17.1 of the PVARA No Objection Certificate Regulations 2025, together with Form A1 and Form A4 at Annex A, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. My reading of item (e) — "where required" — as limited to documents whose own governing provision separately mentions board approval is an inference from the drafting, not a stated PVARA position. Flag if you'd rather present it as covering the whole framework set by default.
-2. I did not speculate on what additional "electronic submission requirements" PVARA might specify under Regulation 15.2, since none are stated in the source document. Left as an open point pending future PVARA notices.
