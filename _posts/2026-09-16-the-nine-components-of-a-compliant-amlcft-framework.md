@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Nine Components of a Compliant AML/CFT Framework"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-16 10:59:01 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 8 of the NOC Regulations lists nine components an AML/CFT framework must have, from board-approved policy to outsourcing risk management."
@@ -85,8 +85,3 @@ Sequence the work so the analytical document comes first. Four practical steps f
 This analysis was prepared by the CoinConnect research desk from Regulations 4.2, 8.1, 8.2, 8A.1, 14, 16.1, 16.3 and 18.1 of the PVARA No Objection Certificate Regulations 2025, together with Forms A4, A5 and A6 at Annex A, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I noted that the Form A4 confirmation table includes a tenth item — Business Continuity/Disaster Recovery arrangements — that does not map to a numbered Regulation 8.2 component. I characterised this as PVARA requiring resilience evidence "alongside" the nine, rather than treating BCP/DR as an implicit part of item (i) or (g). That is my interpretive call; flag if you'd frame it differently.
-2. No guidance in the source documents defines what "proportionate to its business activities and operational complexity" means numerically or by tier — I left this as an open standard rather than inventing thresholds.
