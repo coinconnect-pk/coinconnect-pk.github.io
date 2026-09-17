@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When Is Enhanced Due Diligence Mandatory for a VASP?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-17 22:37:59 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 10 of the NOC Regulations lists four triggers for enhanced due diligence — high-risk jurisdictions, PEPs, complex transactions and adverse media."
@@ -63,9 +63,3 @@ An applicant that treats EDD as "extra paperwork for a few flagged customers" is
 This analysis was prepared by the CoinConnect research desk from Regulations 8.2(b), 9.2(b), 10.1 and 16.1 of the PVARA No Objection Certificate Regulations 2025, together with Form A2 and Form A4 at Annex A, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I read the word "including" before Regulation 10.1's four-item list as making the list non-exhaustive. This is a plain-English reading of standard drafting convention, not a stated PVARA interpretation — flagging in case a narrower reading is preferred for a client-facing piece.
-2. Regulation 10 does not itself define what specific EDD control measures must follow once a trigger is identified. I described this as a gap relative to Regulation 9's five-element CDD list rather than assuming EDD content from general AML practice not sourced from the provided documents.
-3. My statement that "high-risk jurisdiction" is undefined in the source documents is accurate to the three documents reviewed; PVARA or FMU may have issued a jurisdiction list separately that was not part of this review.
