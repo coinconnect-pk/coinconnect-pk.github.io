@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Customer Due Diligence Requirements for VASPs in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-17 11:07:15 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 9 of the NOC Regulations sets five CDD elements a VASP must complete before any AML-registered service, from identity checks to ongoing monitoring."
@@ -69,8 +69,3 @@ Four things follow directly from the text, each tied to a specific element of Re
 This analysis was prepared by the CoinConnect research desk from Regulations 2.3, 7.1, 8.2(b), 9.1, 9.2, 9.3 and 10.1 of the PVARA No Objection Certificate Regulations 2025, together with Form A1 and Form A2 at Annex A, read as published. The Anti-Money Laundering Act, 2010, referenced by Regulation 9.1, was not among the three source documents reviewed, and its own CDD requirements are not restated here. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Regulation 9.2(d)'s "where appropriate" qualifier on source-of-funds verification is left genuinely open in the Regulations — I did not infer a threshold or trigger beyond what the text states, since none is given. Flagging in case PVARA has issued unpublished guidance on this.
-2. I drew the CDD/EDD distinction from reading Regulations 9 and 10 side by side; the Regulations do not themselves state that CDD and EDD are sequential layers in so many words, though Regulation 8.2(b) groups them as one framework component. That connection is my structuring of the material, not a quoted rule.
