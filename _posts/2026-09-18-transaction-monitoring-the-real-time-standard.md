@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transaction Monitoring: The Real-Time Standard"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-18 10:53:24 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 11.1 of the NOC Regulations requires VASPs to detect suspicious activity in real time or near real time. What that standard means for systems."
@@ -71,9 +71,3 @@ Separately, Regulation 8.2(d) requires "transaction monitoring processes" as one
 This analysis was prepared by the CoinConnect research desk from Regulations 8.2(d), 11.1 through 11.6, 14.1, 18.1(a) and 19.1(d) of the PVARA No Objection Certificate Regulations 2025, together with Forms A1, A4, A5 and A7 at Annex A, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Regulation 11.1 does not define "real time" or "near real time" numerically, and I have deliberately not invented a latency figure (minutes, hours, etc.) to fill that gap — the text genuinely leaves it open, and PVARA does not appear to have issued separate technical guidance in the source documents reviewed.
-2. My description of "real time" versus "near real time" as distinct concepts is my own reading of ordinary technical usage, not a distinction the Regulations themselves draw out or define — flagging in case you want that framed more cautiously.
-3. This calendar row shares source material (reg 11.1, 11.6) with the goAML-focused rows in this same batch (013 and, indirectly, any existing goAML articles). I have kept this piece's focus narrowly on the monitoring-system standard itself rather than the registration/handover story, to minimise overlap, but worth a final read-through alongside the other Compliance-category pieces before publishing.
