@@ -478,3 +478,6 @@ blog:
   - url: "https://blog.coinconnect.site/transaction-monitoring-the-real-time-standard/"
     title: "Transaction Monitoring: The Real-Time Standard"
     topics: [transaction, monitoring, real, time, standard, compliance]
+  - url: "https://blog.coinconnect.site/strs-and-ctrs-what-vasps-must-file/"
+    title: "STRs and CTRs: What VASPs Must File"
+    topics: [strs, ctrs, vasps, must, file, compliance]
