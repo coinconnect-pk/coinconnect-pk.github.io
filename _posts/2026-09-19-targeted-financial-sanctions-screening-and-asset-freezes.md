@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Targeted Financial Sanctions Screening and Asset Freezes"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-19 21:30:19 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "PVARA's NOC Regulations require VASPs to screen every customer and transaction for sanctions matches, then freeze and report designated persons immediately."
@@ -71,9 +71,3 @@ Two practical points follow for firms scoping this control:
 This analysis was prepared by the CoinConnect research desk from regulations 4, 8.2, 12.1 and 12.2 of the PVARA No Objection Certificate Regulations 2025, together with Form A1 and Form A4 of the same Regulations, and cross-referenced against sections 46 and 60 of the Virtual Assets Act, 2026 as passed by the National Assembly, each read as published. The term "designated persons" is not defined in any of the three source documents reviewed, and the current designation list sources were not restated here for that reason. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I linked "FMU" to fmu.gov.pk directly in the body text (not just the About section) — this is an approved external host, but check the anchor phrasing reads naturally to you.
-2. "Designated persons" is undefined in all three source documents. I deliberately did not guess at Pakistan's designation-list mechanics (e.g. which domestic list, which statute administers it) since that sits outside the reviewed material — worth a follow-up article once we have the primary TFS legislation to hand.
-3. Regulation 12 does not state a screening frequency (real-time vs batch vs periodic) — I did not invent one. If you have operator-side knowledge of what PVARA expects in practice, that would strengthen a future revision.
