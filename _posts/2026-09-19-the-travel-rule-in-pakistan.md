@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Travel Rule in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-19 10:50:26 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 47 of the Virtual Assets Act sets Pakistan's Travel Rule: originator and beneficiary data, FATF alignment, and a record-retention floor."
@@ -70,9 +70,3 @@ Read together, section 47 is the data-transmission piece of a wider reporting ar
 This analysis was prepared by the CoinConnect research desk from sections 5(2), 40, 46, 47 and 48 of the Virtual Assets Act, 2026 as passed by the National Assembly, together with the Statement of Objects and Reasons appended to the Act, and cross-referenced against the seven-year retention standard in the PVARA No Objection Certificate Regulations 2025, read as published. The Anti-Money Laundering Act, 2010, referenced directly by section 47(4), was not among the three source documents reviewed, and its specific retention period is not restated here. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 47(1) leaves the actual Travel Rule threshold to a future PVARA Regulation, and it has not, on the documents reviewed, been published yet — I have not guessed at a figure. Worth checking whether PVARA has since issued this Regulation, since the threshold is the single most commercially relevant number in the whole provision.
-2. Section 47's own text does not define "originator and beneficiary information" with a specific field list. I described the FATF Recommendation 16 convention (name, account/wallet identifier, address) as international context for what such regimes typically require, clearly separated from what Pakistan's own statute says — please check this framing doesn't read as implying it is already the Pakistani standard, since it is only offered as background.
-3. Section 47(4)'s AMLA 2010 retention floor was not verifiable against AMLA 2010 itself, which was outside the three source documents provided for this batch. I used the seven-year NOC Regulations figure as a practical benchmark only, flagged explicitly as not the same as the section 47(4) floor itself.
