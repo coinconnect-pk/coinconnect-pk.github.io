@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which AML Functions Can a Pakistani VASP Not Outsource?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-20 21:47:54 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "PVARA's NOC Regulations name CDD, sanctions screening, monitoring and MLRO duties as AML-critical, and set four conditions before they can go to a vendor."
@@ -71,9 +71,3 @@ Two practical points follow for firms scoping their outsourcing arrangements:
 This analysis was prepared by the CoinConnect research desk from regulations 14.1 and 14.2 of the PVARA No Objection Certificate Regulations 2025, together with Form A5 of the same Regulations and section 46(1) of the Virtual Assets Act, 2026 as passed by the National Assembly, each read as published. Regulation 14.1 does not define the outer boundary of "functions that go to the core" of AML/CFT duties beyond the named examples, and no such boundary is invented here. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I read "such as" in regulation 14.1 as making the list non-exhaustive — this is a plain-text reading, not a PVARA interpretive statement, since no guidance on the point exists in our three source documents. Worth confirming against any PVARA FAQ or circular if one is issued.
-2. I did not attempt to define a threshold for what makes a non-listed function "go to the core" of AML/CFT duties — that judgement call sits outside what the source text supports.
-3. This pairs naturally with the cross-border outsourcing article (084) — I've kept the emphasis here on the definition/conditions and left the deeper contractual mechanics for that piece to avoid duplicating content.
