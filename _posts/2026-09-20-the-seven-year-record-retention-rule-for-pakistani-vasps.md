@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Seven-Year Record Retention Rule for Pakistani VASPs"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-20 11:12:18 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "PVARA's NOC Regulations set a seven-year minimum for AML/CFT records and require them to be auditable, retrievable and tamper-evident."
@@ -71,9 +71,3 @@ Two practical points follow for firms scoping this control:
 This analysis was prepared by the CoinConnect research desk from regulations 8.2, 13.1, 13.2 and 19.1 of the PVARA No Objection Certificate Regulations 2025, Form A1 and Form A4 of the same Regulations, Annexure-B of the PVARA Regulatory Sandbox Guidelines, and section 47(4) and section 54(6) of the Virtual Assets Act, 2026 as passed by the National Assembly, each read as published. No technical standard for "tamper-evident" storage was found in the three source documents reviewed, so none is stated here. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I did not find a stated technical standard for "tamper-evident" in any of the three source documents — I described the concept generically rather than naming a specific technology (hashing, WORM storage etc). Worth flagging to a client only as illustrative, not as a PVARA-mandated method.
-2. I explicitly did not assume the sandbox's Annexure-B retention duty runs on the same seven-year clock as regulation 13.1, since Annexure-B doesn't restate a number. If you know PVARA's actual practice here, that would sharpen a revision.
-3. Section 47(4) of the Act says the prescribed retention period "shall not be less than" the AMLA 2010 period — I did not state what that AMLA period actually is, since it isn't in our three source documents. Could be worth a follow-up article once we have the AMLA text on file.
