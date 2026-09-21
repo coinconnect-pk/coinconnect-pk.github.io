@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cross-Border Outsourcing: Making Audit Rights Enforceable"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-21 11:17:42 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 14.1(d) requires PVARA applicants to make audit rights over AML vendors legally enforceable, including across borders — what that means in practice."
@@ -79,9 +79,3 @@ Two practical points follow for firms structuring cross-border vendor relationsh
 This analysis was prepared by the CoinConnect research desk from regulations 14.1, 14.2, 18.1 and 19.1 of the PVARA No Objection Certificate Regulations 2025, Form A5 of the same Regulations, and sections 39 and 46 of the Virtual Assets Act, 2026 as passed by the National Assembly, each read as published. Regulation 14.1(d) does not itself describe the specific legal mechanics of cross-border enforcement (choice of forum, arbitration, mutual recognition), and none are invented here beyond what the text supports. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I connected regulation 14.1(d) to section 39's data localisation provisions as a related-but-separate risk — this is my own analytical framing, not something the source documents state explicitly link together. Worth a sanity check.
-2. I did not name specific enforcement mechanisms (arbitration seats, treaty frameworks) since none are specified in the three source documents. If CoinConnect has operator-side experience structuring these clauses, that would strengthen a revision considerably.
-3. This is the second of a two-part pair with article 083 (outsourcing restrictions generally) — I kept 083 focused on the definitional/conditions question and this one on the enforceability/cross-border mechanics specifically to avoid repeating the same blockquotes.
