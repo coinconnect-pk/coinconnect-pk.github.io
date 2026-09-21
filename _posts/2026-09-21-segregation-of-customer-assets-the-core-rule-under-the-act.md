@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Segregation of Customer Assets: The Core Rule Under the Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-21 23:42:08 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 24(1) of the Virtual Assets Act requires VASPs to hold customer virtual assets and fiat in accounts separate from the firm's own — what the duty covers."
@@ -70,9 +70,3 @@ Two practical points follow for firms building out this control:
 This analysis was prepared by the CoinConnect research desk from sections 3(1)(vii), 24 and 27 of the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. The detailed Regulations PVARA is expected to issue under section 24(1) prescribing "the manner" of segregation are not among the three source documents reviewed, so the operational mechanics beyond the statutory principle are not stated here. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 24(1) explicitly defers the operational detail of segregation to future Regulations — I did not speculate about what those Regulations will require (dedicated wallets, omnibus vs individual customer accounts, on-chain vs off-chain segregation) since none of that is in our three source documents.
-2. This article and 086 (insolvency ring-fence) are a deliberate pair — I've kept this one focused on the segregation mechanism itself and left the insolvency consequence for the companion piece, with a forward pointer in the closing section rather than duplicating the 24(2) analysis here.
-3. No penalty specific to a section 24 breach is named in the Act beyond the general administrative sanctions in section 59 — I did not state a specific fine figure tied to segregation failures since the Act doesn't isolate one.
