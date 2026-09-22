@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fiduciary Duty a VASP Owes Its Customers in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-22 22:38:04 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 24(3) of the Virtual Assets Act 2026 puts VASPs under a fiduciary duty to customers. Here is what that standard requires beyond ordinary contract law."
@@ -82,8 +82,3 @@ Firms structuring their [corporate setup](https://www.coinconnect.site/corporate
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- No Regulations under section 24(3) had been published in the source documents I had access to, so the "how should a Licensee build this in" section is necessarily general/practical rather than citing a specific compliance standard. Flagging in case you want to soften or sharpen that section once Regulations land.
-- I drew the "fit-and-proper vs fiduciary duty" distinction and the "which services does it apply to" analysis from first principles applied to the Act's defined terms (Schedule I, s.3, s.41, s.44) rather than from an explicit statutory statement that fiduciary duty is scoped by service type — the Act itself doesn't say this explicitly, so I've marked it as "our reading" in the prose. Worth a second look before publishing if you want zero interpretive risk.
