@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Customer Assets in Insolvency: The Statutory Ring-Fence"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-22 11:11:14 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 24(2) of the Virtual Assets Act keeps Customer Assets out of a failed VASP's estate, overriding any other law to the contrary — how the protection works."
@@ -69,9 +69,3 @@ Two practical points follow from reading section 24(2) alongside its surrounding
 This analysis was prepared by the CoinConnect research desk from sections 3(1)(vii), 24 and 27 of the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. The Act does not address, and this analysis does not speculate about, what happens to the insolvency ring-fence where a Licensee failed to maintain the segregation required by section 24(1) — that is a gap in the source material, not a settled position stated in the text. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The interaction between a segregation failure and the insolvency ring-fence is the most legally interesting open question in this pair of articles, and the Act simply does not answer it. I deliberately avoided speculating about tracing remedies or equitable doctrine, since that would go beyond what section 24 itself states — flag this as a genuine gap worth raising with counsel if a client scenario ever turns on it.
-2. This is the companion piece to 085 (segregation) — written to stand alone if read first, but designed to be read as a pair.
-3. No case law or PVARA guidance on how courts would actually apply the non-obstante clause in a real Pakistani VASP insolvency exists yet, since the framework is new — I noted this as a live gap rather than assuming an outcome.
