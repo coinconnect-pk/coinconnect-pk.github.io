@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can a VASP Lend or Pledge Customer Crypto in Pakistan?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-23 10:56:17 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 24(4) of the Virtual Assets Act 2026 bans rehypothecation of customer assets by default. Here is the rule, the consent exception, and its limits."
@@ -80,8 +80,3 @@ Firms still deciding their [licensing](https://www.coinconnect.site/pvara-guide)
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The "is bundling consent into general terms enough" section is explicitly flagged in the article as ambiguous — the Act genuinely doesn't answer it, and I've given the more conservative reading as our recommended operational position rather than presenting it as settled law. Worth checking that framing matches how you want to advise clients.
-- No Regulations under s.24(4) were in the source documents, so the "what makes consent explicit/informed/revocable" breakdown is my own textual analysis of the three words, not a citation to a defined standard. Flagged in the text as "our reading."
