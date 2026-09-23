@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Four Levers Behind VASP Capital Rules in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-23 22:51:51 +0500
 categories: [Corporate Setup]
 author: "Malik Abbas"
 description: "Section 25 of the Virtual Assets Act 2026 gives PVARA a baseline duty, an uplift power, add-on requirements and an exemption route. Here is how each works."
@@ -72,8 +72,3 @@ Firms working through their [corporate setup](https://www.coinconnect.site/corpo
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 and the PVARA No Objection Certificate Regulations, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- This article covers similar statutory ground to the existing queued/published piece on VASP minimum capital (015, "What the Act Requires"). I've deliberately taken a different structural angle — the four-lever framework (baseline / uplift / add-ons / exemption) rather than the NOC-forms-evidence angle the earlier piece takes — to avoid duplicating it, per the brief's target ("PVARA's uplift power, and the low-risk exemption route"). Worth a skim before publishing both to confirm they read as complementary rather than repetitive.
-- "Limited-scope" and "low-risk" in s.25(4) are undefined in the Act — I've cross-referenced s.21(2)'s limited-scope licence concept as the most natural reading, but flagged this explicitly as interpretation, not a cited definition.
