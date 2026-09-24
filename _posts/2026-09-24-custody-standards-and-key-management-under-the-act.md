@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Custody Standards and Key Management Under the Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-24 11:08:49 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 26 of the Virtual Assets Act 2026 sets two custody duties for VASPs and leaves technical key-management standards to Regulations. Here is what exists now."
@@ -76,8 +76,3 @@ Firms weighing whether to build custody in-house or rely on a third-party custod
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- No custody-specific Regulations were in the source documents, so the whole "what should a custody operation build now" section is best-practice guidance derived from the statutory outcome (s.26(1)) rather than a cited technical standard. I've kept the specific technologies (multi-sig, HSM, MPC) framed as "common industry approaches", explicitly not mandated by the Act, to avoid implying they're a legal requirement.
-- The link connecting s.26(2)'s "verification or assurance processes" to the s.27 proof-of-reserves audit is my own inference, flagged in the text as "our reading" — the Act doesn't explicitly tie the two sections together.
