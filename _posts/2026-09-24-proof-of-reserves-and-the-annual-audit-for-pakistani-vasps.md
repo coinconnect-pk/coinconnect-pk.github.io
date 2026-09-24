@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proof of Reserves and the Annual Audit for Pakistani VASPs"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-24 22:51:50 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 27 of the Virtual Assets Act 2026 requires cryptographic proof-of-reserves and an annual segregation audit. Here is what each obligation actually covers."
@@ -84,8 +84,3 @@ Firms building their compliance calendar as part of [regulatory licensing](https
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The section on "who receives the proof-of-reserves and audit results" draws a distinction between s.27 (supervisory, to the Authority) and s.42 (public disclosure for Issuers) that I've labelled "our reading" — it's a reasonable structural inference from the text but the Act doesn't say this explicitly, so flag if you'd rather I soften that claim further.
-- No Regulations on proof-of-reserves intervals or technical format existed in the source documents, so the "quarterly or monthly by international comparison" comment is explicitly framed as a plausible regulatory choice, not a stated requirement — check that framing reads cautiously enough for you.
