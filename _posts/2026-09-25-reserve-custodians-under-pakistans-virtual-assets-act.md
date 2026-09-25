@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reserve Custodians Under Pakistan's Virtual Assets Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-25 11:08:56 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 28 of the Virtual Assets Act 2026 places the custodian of reserve assets under PVARA oversight. Here is what the section requires and what is left open."
@@ -58,9 +58,3 @@ Three things are not yet settled by the Act itself and depend entirely on Regula
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The section on whether an Issuer can self-custody its own reserve is my inference from the "independent custodian" wording in the Segregated Reserve definition — the Act does not say this outright, so I've flagged it clearly as a reading rather than a stated rule. Check the framing is cautious enough.
-- I've suggested reserve custodians are "likely" to need to meet standards similar to Schedule I custody obligations but stopped short of saying they need a full custody licence, since the Act does not say this. Worth a second look if you think this reads as too speculative.
-- This article number collided with a duplicate run of the same scheduled task that wrote a different article to the same slot at the same time — I removed the duplicate and kept this version after both had already passed validation. If you see any sign a second version resurfaced during your review, that is why.
