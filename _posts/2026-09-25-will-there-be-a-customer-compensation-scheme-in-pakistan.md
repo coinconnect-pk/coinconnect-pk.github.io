@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Will There Be a Customer Compensation Scheme in Pakistan?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-25 22:57:07 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 29 of the Virtual Assets Act 2026 lets PVARA build a compensation scheme for custodial failure. It is a power, not a guarantee — here is what it covers."
@@ -52,9 +52,3 @@ Section 72 offers one practical way to monitor this. It requires the Authority t
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The section on what "custodial failure" likely excludes (market losses, fraud unconnected to custody) is my inference from the plain meaning of the phrase, not a definition stated in the Act. Flagged clearly as a reading — worth checking you're comfortable with that level of inference for a compensation topic, since customers may read this article looking for reassurance we can't give.
-- I deliberately avoided any comparison to compensation schemes in other jurisdictions (e.g. FSCS-style schemes) since the source documents don't cover them and I didn't want to imply a benchmark PVARA hasn't committed to.
-- This article number collided with a duplicate run of the same scheduled task that wrote a different article to the same slot at the same time — I removed the duplicate and kept this version after both had already passed validation.
