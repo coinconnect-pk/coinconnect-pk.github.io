@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transfer and Settlement Services Explained (Schedule I)"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-26 22:10:32 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Schedule I item 8 licenses Virtual Asset Transfer and Settlement Services in Pakistan, excluding exchange execution. Here is what falls inside the licence."
@@ -55,8 +55,3 @@ A firm building toward this licence category as part of its [licence application
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The section distinguishing custody-only wallet providers from item 8 transfer businesses is my structural reading of items 3 and 8 side by side — the Act does not state this distinction directly, so I've flagged it as inference rather than settled classification.
-- This article number collided with a duplicate run of the same scheduled task that wrote a different article to the same slot at the same time — I removed the duplicate and kept this version after both had already passed validation.
