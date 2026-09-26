@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Staking as a Regulated Service Under Pakistan's Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-26 11:08:18 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Staking on behalf of customers is licensable under Schedule I of the Virtual Assets Act 2026, but only in specific circumstances. Here is when the licence applies."
@@ -59,9 +59,3 @@ The Act leaves several practical questions to Regulations or to the Authority's 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The list of scenarios that fall outside licensing (self-staking, non-discretionary staking, node operation) is my inference from the narrow wording of item 7(b), not text the Act states as exclusions. I've flagged this clearly but it's the most speculative section in the piece — worth a careful read given it's exactly the kind of claim that could be wrong if PVARA classifies differently.
-- Liquid staking derivatives and restaking are mentioned only as an open question, not analysed further, since neither term appears in any source document.
-- This article number collided with a duplicate run of the same scheduled task that wrote a different article to the same slot at the same time — I removed the duplicate and kept this version after both had already passed validation.
