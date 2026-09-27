@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Initial Virtual Asset Offerings: Who May Conduct One in Pakistan?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-27 22:44:47 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 30 of the Virtual Assets Act 2026 restricts token offerings to Pakistani-registered entities meeting prescribed criteria. Section 51 bans the rest outright."
@@ -94,8 +94,3 @@ Projects sequencing their [market entry](https://www.coinconnect.site/launch-gro
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The "foreign project must register a Pakistani entity before offering" reading combines section 30(1) with section 2(1)(b)'s scope language — the Act doesn't spell out this exact mechanism for offerings specifically, so I've labelled it as a reading and cross-referenced the existing NOC/SECP sequencing logic. Worth a second look.
-- No Regulations under section 30(2) existed in the source documents, so every specific eligibility criterion, disclosure requirement or approval process is described as prescribed-but-not-yet-published.
