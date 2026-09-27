@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are You an Issuer? The Control Test in Pakistan's Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-27 11:36:07 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "The Virtual Assets Act 2026 defines an Issuer by control, not by role. Section 3(1)(xiii) sets out the test and four activities that do not trigger it."
@@ -64,9 +64,3 @@ Where a business performs a mix of activities — some development work, some pr
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The discussion of what happens when control is "genuinely shared" between multiple parties is my extrapolation from the word "primary" — the Act doesn't address joint-control scenarios directly, so I've flagged this as an open question rather than a settled answer.
-- The example of a development firm retaining an admin key as a trigger for losing the carve-out is illustrative, drawn from common industry practice, not from the Act's text — flagged as "for example" in the piece but worth confirming that reads as illustration rather than a stated rule.
-- This article number collided with a duplicate run of the same scheduled task that wrote a different article to the same slot at the same time — I removed the duplicate and kept this version after both had already passed validation.
