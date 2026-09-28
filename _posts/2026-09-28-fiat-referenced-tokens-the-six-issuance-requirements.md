@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fiat-Referenced Tokens: The Six Issuance Requirements"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-28 11:49:52 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 31 of the Virtual Assets Act 2026 sets six requirements for issuing a fiat-referenced token, from full reserve backing to insolvency protection."
@@ -82,9 +82,3 @@ Issuers building a Fiat-Referenced Token as part of a broader [market entry](htt
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The "redemption under stress, not just normal conditions" reading of "without undue delay" is our interpretation of a qualitative statutory standard — flagged clearly, but worth checking you're comfortable with that level of extrapolation.
-- HQLA remains formally undefined pending Regulations per section 3(1)(x) — I noted this rather than guessing a composition, consistent with the no-unverifiable-claims instruction.
-- No Regulations existed in the source documents for section 31(1)(f)'s open-ended "any other requirement" power, so I described it only as a signal that the six requirements are a floor, not as a prediction of what else might be added.
