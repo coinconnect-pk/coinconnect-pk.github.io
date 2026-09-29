@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asset-Referenced Tokens and the Backing Rule Under the Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-29 11:52:34 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 32 of the Virtual Assets Act 2026 lets an asset-referenced token back with real-world assets but expressly bans backing it with other virtual assets."
@@ -102,9 +102,3 @@ Issuers exploring an Asset-Referenced Token as part of their [regulatory licensi
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The "why does the Act ban Virtual Asset backing" section explains the rationale by reference to well-known market failures generally, not to anything the Act itself states — clearly framed as background reasoning, not a statutory claim, but worth checking the framing reads as analysis rather than fact.
-- The cross-reference to section 53's algorithmic token ban as a related but separate restriction is accurate to the source text but worth a second look to confirm it doesn't overstate the connection between the two provisions.
-- No Regulations under section 32(1)(a) or 32(3) existed in the source documents, so custody mechanics and any asset-category restrictions are described as pending.

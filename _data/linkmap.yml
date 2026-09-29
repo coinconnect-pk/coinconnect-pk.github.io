@@ -538,3 +538,6 @@ blog:
   - url: "https://blog.coinconnect.site/fiat-referenced-tokens-the-six-issuance-requirements/"
     title: "Fiat-Referenced Tokens: The Six Issuance Requirements"
     topics: [fiat, referenced, tokens, six, issuance, requirements, licensing]
+  - url: "https://blog.coinconnect.site/asset-referenced-tokens-and-the-backing-rule-under-the-act/"
+    title: "Asset-Referenced Tokens and the Backing Rule Under the Act"
+    topics: [asset, referenced, tokens, backing, rule, under, act, licensing]
