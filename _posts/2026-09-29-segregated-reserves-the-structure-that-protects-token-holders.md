@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Segregated Reserves: The Structure That Protects Token Holders"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-29 23:38:21 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 3(1)(xxvi) defines the Segregated Reserve that backs Pakistani stablecoins — a structure built to survive the issuer's own insolvency."
@@ -82,9 +82,3 @@ Issuers building either a [fiat-referenced token](https://www.coinconnect.site/b
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- This article deliberately covers different ground from the queued 092 reserve-custodians article (which focuses on section 28 oversight/inspection standards and the custodian relationship) by focusing on the Segregated Reserve structure itself — the trust-vs-own-name choice and creditor remoteness. There is necessarily some overlap since both are grounded in the same section 3(1)(xxvi) definition; flag if you'd rather I trim the overlap further.
-- The "Related reading" link to the 092 reserve-custodians article points at the pillar-guide URL as a placeholder since 092 is queued but not yet published under its own URL — please swap in 092's actual published URL once it goes live, or drop the link if that's easier.
-- The claim that the trust/special-vehicle route is the "stronger structural protection" compared to holding assets in the Issuer's own name is our analysis of the two options the Act permits, not a statement the Act itself makes — clearly labelled, but worth a second look given it's a substantive judgement call for issuers.
