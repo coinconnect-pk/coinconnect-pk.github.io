@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Significant Issuers: When Enhanced Requirements Kick In"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-09-30 11:40:13 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 33 of the Virtual Assets Act 2026 creates a Significant Issuer tier with enhanced obligations, triggered by thresholds Regulations have not yet set."
@@ -82,9 +82,3 @@ Issuers planning a Fiat-Referenced or Asset-Referenced Token programme with ambi
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The question of whether Significant Issuer status could apply outside Fiat-Referenced/Asset-Referenced Tokens is genuinely unresolved by the text — I've flagged it as an open question rather than answering it, given the Chapter 5 placement points one way but the section 33(1) wording itself doesn't expressly confine it. Worth your own read.
-- The "factors likely weighed together rather than individually decisive" reading of "having regard to" is inference from ordinary statutory drafting convention, not a stated rule — flagged accordingly.
-- No Regulations defining the section 33(1) thresholds existed in the source documents, so no numeric guidance is given anywhere in the article.
