@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can a Pakistani VASP Store Data Offshore?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-01 23:53:18 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 39 of the Virtual Assets Act 2026 lets VASPs store data outside Pakistan under safeguards, but PVARA can override that with immediate localisation orders."
@@ -81,9 +81,3 @@ Section 39 gives VASPs real flexibility on where they run their infrastructure, 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- No Regulations prescribing the section 39(1) safeguards existed in the source documents. The article infers their likely direction from sections 40, 47(2) and 48, but explicitly labels this as inference, not stated content.
-- Section 39(2)'s trigger grounds (national security, financial stability, consumer protection, enforcement effectiveness) are not defined anywhere in the Act text I was given — flagged as broad and undefined rather than assumed to have narrow scope.
-- The article deliberately does not name a specific external Pakistani data protection statute under section 5(2), since none is named in the source documents and guessing would risk an unverifiable claim.
