@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Five Categories of Sensitive Information Under PVARA"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-02 11:58:55 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 40(2) of the Virtual Assets Act 2026 lists five categories of sensitive information, from customer records to private keys, that VASPs must segregate."
@@ -82,9 +82,3 @@ Section 40(2) gives every VASP a concrete starting checklist rather than a vague
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The rationale I gave for why proprietary trading data (category d) sits alongside customer-facing categories is my own inference from the nature of the data types, not a stated explanation in the Act — clearly flagged as "our reading."
-- I referenced section 40(3) and (4) briefly as the operative controls following classification, without restating their content in full, since that is the subject of a companion article (108) rather than this one — worth checking the two pieces read consistently together once both are live.
-- No Regulations designating additional sensitive-information categories under section 40(2)(e) existed in the source documents, so none are named.
