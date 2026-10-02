@@ -559,3 +559,6 @@ blog:
   - url: "https://blog.coinconnect.site/the-five-categories-of-sensitive-information-under-pvara/"
     title: "The Five Categories of Sensitive Information Under PVARA"
     topics: [five, categories, sensitive, information, under, pvara, compliance]
+  - url: "https://blog.coinconnect.site/data-segregation-controls-every-vasp-licensee-must-implement/"
+    title: "Data Segregation Controls Every VASP Licensee Must Implement"
+    topics: [data, segregation, controls, every, vasp, licensee, must, implement, compliance]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Segregation Controls Every VASP Licensee Must Implement"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-02 23:24:46 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 40(3) of the Virtual Assets Act 2026 sets four data controls VASPs must implement: segregation, need-to-know access, encryption and audit trails."
@@ -90,9 +90,3 @@ The four controls in section 40(3) are among the most concrete, self-executing o
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- No section 40(4) Regulations existed in the source documents, so all specific technical thresholds (encryption strength, retention periods, storage architecture detail) are correctly left undefined in the article rather than invented.
-- The definitions I gave for "logical" versus "technical" segregation are ordinary-meaning explanations, not statutory definitions — the Act does not define either term, and I've flagged this as inference.
-- I did not name a specific international standard (e.g. ISO 27001 or a named NIST framework) for the encryption/key-management requirement under section 40(3)(c), since none is named in the Act text and naming one would be an unverifiable addition — worth confirming PVARA's eventual position once Regulations issue.
