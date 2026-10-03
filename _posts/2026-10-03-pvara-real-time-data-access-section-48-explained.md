@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA Real-Time Data Access: Section 48 Explained"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-03 11:29:01 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 48 of the Virtual Assets Act 2026 requires VASPs to build secure reporting channels and automated interfaces for PVARA's real-time supervisory access."
@@ -71,9 +71,3 @@ Section 48 asks a VASP to build for supervision as a standing condition of holdi
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 and the PVARA No Objection Certificate Regulations 2025, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- Section 48 does not define "prescribed data," "secure reporting channels," or "secure automated interfaces" with any technical precision — I have deliberately not invented specifics (e.g. named protocols or standards) since none appear in the Act.
-- I connected section 48 to the NOC Regulations' technology-architecture questions (Section 6 of Form A1) as a reasonable practical link, but the NOC Regulations do not cite section 48 by name — flagged as inference, not a stated cross-reference.
-- No section 48(2) Regulations existed in the source documents at the time of writing, so all technical-standard detail is correctly left undefined.
