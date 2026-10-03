@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Customer Data Privacy Rules for VASPs Under Section 49"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-03 22:16:42 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 49 of the Virtual Assets Act 2026 sets a consent standard for customer data, and section 5(2) makes external data protection law override the Act."
@@ -75,9 +75,3 @@ Section 49 sets the consent principle; section 5(2) decides which statute actual
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- Neither the Act nor either regulatory source document defines "non-essential" for section 49 purposes. My essential/non-essential split is a reasoned inference from other provisions of the Act (CDD, AML reporting), not a statutory test — flagged clearly in the text as "our reading."
-- I did not name a specific Pakistani data protection statute (e.g. a personal data protection bill or act) because none of the three source documents names one, and the Act's own text in section 5(2) refers only generically to "any law." Naming a specific statute here would be an unverifiable addition.
-- The link between section 49 and section 39 (data localisation) is my own connection based on both sections pointing to the same category of external law — worth double-checking this reads naturally rather than as overreach.
