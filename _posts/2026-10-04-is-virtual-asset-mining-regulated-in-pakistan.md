@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is Virtual Asset Mining Regulated in Pakistan?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-04 11:48:49 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Section 37 of the Virtual Assets Act 2026 exempts pure mining from licensing, but large operators face a coming registration framework based on scale."
@@ -78,9 +78,3 @@ Pure mining in Pakistan is, today, genuinely unlicensed — but "unlicensed" is 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- No scale, energy-use or hash-rate thresholds for the section 37(3) registration framework exist in any of the three source documents — I have stated plainly that they are unpublished rather than estimating a figure.
-- I noted that the mining definition under section 3(1)(xix) is broad enough to cover proof-of-stake validator activity as well as proof-of-work — this is my own reading of the plain wording ("computational or other consensus mechanisms"), not a statement the Act makes explicitly. Worth checking this doesn't overstate the point given the Act treats staking separately under Schedule I.
-- This article and article 112 (Schedule I item 10, mining-related services) cover adjacent ground deliberately — this one is the general "is mining regulated" overview, 112 goes into the specific licensable-service boundary in more depth. Confirm the two don't cannibalise each other's target keyword in search.
