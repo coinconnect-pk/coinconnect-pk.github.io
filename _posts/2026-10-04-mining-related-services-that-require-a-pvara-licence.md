@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mining-Related Services That Require a PVARA Licence"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-04 22:34:31 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Schedule I item 10 and section 37(2) of the Act licence mining services touching customer assets, while pure mining for one's own account stays exempt."
@@ -70,9 +70,3 @@ The rule at the centre of both section 37(2) and Schedule I item 10 is simple to
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- IMPORTANT: Schedule I item 10 in the source document (`virtual_assets_act_2026.txt`, line 470-471) ends mid-sentence at "Licensing and regulatory obligations apply only" — the text simply stops there before the document moves into the Statement of Objects and Reasons. I quoted it exactly as it appears and explicitly told the reader the clause is incomplete rather than guessing the ending. Please confirm you have a complete/corrected version of the Act — if so, this article needs the finished clause added.
-- The list of example business models (hosted mining, mining pools) is my own application of the Customer Assets definition to common mining models — none of these are named examples in the Act. Flagged clearly as inference in the text.
-- I asserted that custody obligations (sections 24-29) could apply on top of a mining-related service licence where customer assets are held — this is a reasonable structural reading (those chapters apply "wherever customer assets are held") but the Act does not state this overlap explicitly for mining. Worth a second look.
