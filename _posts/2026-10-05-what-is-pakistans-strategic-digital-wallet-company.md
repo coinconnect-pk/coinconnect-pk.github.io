@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is Pakistan's Strategic Digital Wallet Company?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-05 11:59:44 +0500
 categories: [Market Entry]
 author: "Malik Abbas"
 description: "Section 38 of the Virtual Assets Act 2026 lets the government create a Strategic Digital Wallet Company for state custody — barred from serving private persons."
@@ -74,9 +74,3 @@ Section 38 is a narrow but clear provision: it gives Pakistan the legal mechanis
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- "Strategic reserve objectives" is undefined in the Act — my explanation of it as a sovereign/public virtual asset reserve concept is inference from context, clearly labelled as such, not a statutory definition.
-- None of the three source documents confirm whether an SDWC has actually been established or designated to date — I stated this as unconfirmed and told the reader to verify independently, rather than assuming either way.
-- I inferred that the SDWC is not licensed under Schedule I based on its placement in Chapter 6 rather than Chapter 3, and on section 38 not referencing sections 18-23. The Act does not say explicitly "the SDWC is exempt from licensing" — this is a structural reading, worth double-checking.
