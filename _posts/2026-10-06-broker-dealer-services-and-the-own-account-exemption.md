@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Broker-Dealer Services and the Own-Account Exemption"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-06 23:54:36 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Schedule I item 2 lists five broker-dealer activities and one exemption for trading solely on your own account. Here is how the five limbs and the carve-out work."
@@ -67,8 +67,3 @@ That phased route does not remove the underlying licensing requirement — Regul
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 — Schedule I item 2 and section 21 — read alongside PVARA's No Objection Certificate Regulations 2025, Regulation 2.3 and Regulation 18.1. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The own-account exemption's three conditions are conjunctive on the plain wording ("deals solely... does not execute... and does not hold or control"), and I have treated all three as required together throughout — worth double-checking this reading against any PVARA guidance if it is issued, since the Act does not explicitly state whether the conditions are cumulative or whether any single failure is fatal to the exemption (I read "and" as making them cumulative).
-2. No source document gives a minimum capital figure specific to Broker-Dealer Services, so none is stated here — section 25 of the Act leaves this to future Regulations.
