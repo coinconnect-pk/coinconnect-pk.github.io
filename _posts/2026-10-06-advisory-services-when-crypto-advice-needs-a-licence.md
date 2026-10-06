@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advisory Services: When Crypto Advice Needs a Licence"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-06 12:31:32 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Schedule I item 1 licenses Advisory Services under a personalised-recommendation test, with a carve-out for research reports and general market commentary."
@@ -64,9 +64,3 @@ Three points follow directly from Schedule I item 1 and the wider Act:
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 — principally section 18, Schedule I item 1, and sections 19 and 20 — read alongside PVARA's No Objection Certificate Regulations 2025, Regulations 2.3 and 5. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act's own definition of "personalised" is unusually generous to us as source material — it is a self-contained explanatory paragraph directly under the Schedule I table, so this article quotes it in full rather than paraphrasing.
-2. I have not stated a specific minimum capital figure for an Advisory Services licence, since the source documents leave minimum financial resource amounts to future Regulations under section 25 of the Act rather than stating a number.
-3. The NOC Regulations use "Section 17" and "Section 15" language keyed to the predecessor Ordinance's numbering, which does not match the passed Act's own section numbers (section 19 is the correct Act citation for the pre-incorporation NOC requirement, per the analysis already flagged in article 058). I have used the Act's actual section 19/20 numbering in the body text and left the NOC Regulations' internal "Section 17" wording only inside the direct quotation, to avoid restating the mismatch as settled.
