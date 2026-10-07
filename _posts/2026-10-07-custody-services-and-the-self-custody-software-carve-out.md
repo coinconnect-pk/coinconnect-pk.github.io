@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Custody Services and the Self-Custody Software Carve-Out"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-07 12:11:44 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Schedule I item 3 licenses custody of Virtual Assets and private keys, but excludes software that leaves customers in exclusive control of their own keys."
@@ -61,8 +61,3 @@ A firm that qualifies for a Custody Services licence under item 3 should treat s
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 — Schedule I item 3 and sections 24 and 26 — read alongside PVARA's No Objection Certificate Regulations 2025, Regulation 2.3. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The "exclusive control" framing I used to describe the practical test is my own synthesis of the carve-out's wording, not a phrase the Act itself uses as a defined term — the Act's actual words are "retain exclusive control over their own private keys," and I have kept close to that language rather than inventing a separate legal test.
-2. The multi-signature and recovery-mechanism examples are illustrative interpretation, flagged as such in the text, since the Act does not name specific technical architectures — only the general "mere provision... that enables... exclusive control" standard.
