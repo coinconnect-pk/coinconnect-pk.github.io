@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exchange Services: The Four Activities That Trigger a Licence"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-08 12:20:32 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Schedule I item 4 lists four activities that make a platform an Exchange Service in Pakistan — fiat pairs, crypto pairs, order matching and order books."
@@ -61,8 +61,3 @@ Regulation 18.1(f) still requires the registered applicant to "apply for and pro
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 — Schedule I items 2 and 4, and section 21 — read alongside PVARA's No Objection Certificate Regulations 2025, Regulation 2.3 and Regulation 18.1. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The reading that limb (d), order-book maintenance, could independently capture a pure infrastructure provider that never executes trades is a structural inference from the "any of the following" drafting, not a statement the Act makes explicitly about third-party technology vendors — flagged in the body as a plain-wording reading rather than settled guidance.
-2. The overlap analysis between Exchange Services and Broker-Dealer Services (item 2) is my own structural comparison of the two Schedule I entries side by side. The Act does not state directly that a platform may need both licences simultaneously, though nothing in either definition excludes that outcome.
