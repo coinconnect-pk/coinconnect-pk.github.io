@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crypto Lending and Borrowing as a Licensed Activity"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-09 12:21:14 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Schedule I item 5 licenses crypto lending and borrowing in Pakistan, covering facilitation, arrangement, intermediation and lending as principal, in one clause."
@@ -61,8 +61,3 @@ For a business lending as principal — taking in Virtual Assets from customers 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 — Schedule I item 5 and section 24 — read alongside PVARA's No Objection Certificate Regulations 2025, Regulation 2.3. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The reading that fee-free or interest-free lending still falls within item 5, because "any agreed interest, fees or rewards" is optional rather than required, is my own reading of the word "any" in context — the Act does not give a worked example either way, so I have flagged this as analysis rather than an express statement.
-2. The suggestion that a lending applicant could raise an early-start arrangement "unless otherwise agreed with PVARA" is drawn directly from Regulation 2.3's own wording, but I have not stated what such an agreement would require in practice, since none of the source documents describe that process.
