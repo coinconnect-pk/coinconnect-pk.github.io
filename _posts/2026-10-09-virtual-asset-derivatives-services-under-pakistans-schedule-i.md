@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Virtual Asset Derivatives Services Under Pakistan's Schedule I"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-09 23:48:55 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Derivatives on virtual assets are a licensable Schedule I service in Pakistan, and one of four activities a firm may run before its full VASP licence is granted."
@@ -66,9 +66,3 @@ Derivatives is a category the Act and its Regulations clearly intend to bring on
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, and the PVARA No Objection Certificate Regulations 2025, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **The Schedule I item 6 definition is genuinely truncated in the source document** — it cuts off mid-clause at "or other similar" before item 7 begins. I have said so explicitly and avoided guessing the missing closing words. Worth checking the National Assembly's published Bill text directly if we want to close this gap with certainty.
-2. The NOC Regulations spell the fourth AML-registered service "Virtual Asset Derivative Services" (singular "Derivative"), while the Act's Schedule I calls it "Virtual Asset Derivatives Services" (plural). I have treated these as the same category — it reads as a drafting inconsistency between the two documents rather than two different services — but flag in case you know otherwise.
-3. I inferred the "heaviest transaction-level money-laundering exposure" rationale for why these four services were chosen for pre-licence AML registration; that reasoning is not stated anywhere in the Regulations. Marked clearly as our reading, not fact.
