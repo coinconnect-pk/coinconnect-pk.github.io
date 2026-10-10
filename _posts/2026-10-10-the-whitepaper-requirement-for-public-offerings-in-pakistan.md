@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Whitepaper Requirement for Public Offerings in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-10 22:51:34 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Any issuer offering a virtual asset to the public in Pakistan must publish a whitepaper under section 42, unless PVARA has exempted that category of offering."
@@ -75,9 +75,3 @@ Issuers preparing a [licence application](https://www.coinconnect.site/regulator
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act does not define "to the public" for section 42 purposes, and I have flagged this as an open gap rather than guessing a threshold (a number of holders, a monetary size, or similar). If PVARA has issued guidance narrowing this, the article should be updated.
-2. Section 42(3)'s exemption power is drafted as category-based ("exempt categories of Issuers or offerings"), and I have read that literally rather than assuming individual case-by-case waivers are available — worth confirming against any Regulations issued since.
-3. I have treated an IVAO and a general public offering under section 42 as overlapping but distinct concepts. This is my own structuring to make the relationship clear; the Act does not state explicitly how the two provisions interact.
