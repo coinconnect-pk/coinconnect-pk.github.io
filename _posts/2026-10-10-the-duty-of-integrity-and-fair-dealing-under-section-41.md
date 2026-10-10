@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Duty of Integrity and Fair Dealing Under Section 41"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-10 12:02:33 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 41 sets a single honesty and fair-dealing standard for every VASP licensee in Pakistan, sitting alongside a separate fiduciary duty over customer assets."
@@ -78,9 +78,3 @@ A firm's [ongoing compliance](https://www.coinconnect.site/blog/coinconnect-insi
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. No Regulations under section 41(2) had been issued in the source documents provided, so the "detailed requirements relating to market conduct" remain entirely unwritten as far as I can verify. If PVARA has since published a market conduct Regulation, this article should be updated with the specifics.
-2. I drew the connection between section 41 and sections 42/44/45 as an inference from chapter structure, not from an explicit cross-reference in the Act. Flagged clearly as "our reading" — worth a second look if you disagree with the framing.
-3. The table comparing section 24(3) and section 41 is my own structuring device to make the distinction legible; the Act itself does not present them side by side. Comfortable with this as an analytical aid rather than a claim about drafting intent.
