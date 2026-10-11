@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can You Advertise Crypto in Pakistan? Section 43 Explained"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-11 23:04:46 +0500
 categories: [Market Entry]
 author: "Malik Abbas"
 description: "Section 43 bans advertising a virtual asset in Pakistan unless the issuer is licensed, and the ban reaches marketers, influencers and platforms, not just issuers."
@@ -66,9 +66,3 @@ Anyone planning a [market entry](https://www.coinconnect.site/launch-growth) int
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 43(1) does not carry its own penalty clause, so I have reasoned through section 50, 51, 54 and 59 to work out what exposure a breach creates. That chain is my analysis, not something the Act states explicitly in one place — worth a second look given how central this point is to the article's argument.
-2. I have read "no person" in section 43(1) literally, to include marketers, platforms and individual promoters, not only issuers. This is a plain reading of the text, but it is a reading — the Act does not spell out enforcement against third-party marketers in worked detail, and no Regulations on this had been issued in the material reviewed.
-3. No definition of "advertise or market" is given in the Act or in any Regulations available to me, so I have described the likely scope rather than asserting a settled boundary. Update this once PVARA issues the section 43(2) form-and-manner Regulations.
