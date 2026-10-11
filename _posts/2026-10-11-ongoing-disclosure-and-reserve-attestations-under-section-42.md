@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ongoing Disclosure and Reserve Attestations Under Section 42"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-11 12:09:20 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Issuers in Pakistan face ongoing disclosure and reserve attestation duties under section 42(2), separate from the proof-of-reserves duty licensees carry."
@@ -67,9 +67,3 @@ An issuer weighing its overall [capital requirement](https://www.coinconnect.sit
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. No Regulations prescribing the "manner and frequency" of section 42(2) disclosures had been issued in the source material, so I have described the duty in general terms rather than inventing a reporting calendar. Update this once PVARA publishes the specific Regulations.
-2. I have distinguished section 42(2) reserve attestations from section 27 proof-of-reserves as separate concepts serving separate audiences. The Act does not explicitly state they are distinct — this is my own reading based on which chapter and which duty-holder each sits under. Flag if you read it differently.
-3. No thresholds for "Significant Issuer" status under section 33 were available in the source documents. I have avoided naming any number of holders or transaction volume, since none is in the text.
