@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Must a Crypto Risk Disclosure Say in Pakistan?"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-12 12:19:14 +0500
 categories: [Market Entry]
 author: "Malik Abbas"
 description: "Section 43(2) requires every virtual asset marketing material to carry a risk disclosure and gives PVARA power to set its content, form and limits."
@@ -71,9 +71,3 @@ Anyone sequencing a Pakistan launch should treat the risk-disclosure duty as a l
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 43(2) has no worked example of a compliant disclosure anywhere in the Act — the checklist in this piece is my inference from adjacent disclosure provisions (sections 42(4), 31, 32), not a summary of a stated PVARA requirement. Worth a second look given it is presented as practical guidance rather than pure interpretation.
-2. I have linked section 42(4)'s disclosure-template power to section 43(2)'s marketing risk disclosures as likely to come from the same instrument. The Act does not say this explicitly; it is a reasonable but unconfirmed inference.
-3. No Regulations under section 43(2) or 42(4) had been issued in the material reviewed here — flag for update once PVARA publishes them.
