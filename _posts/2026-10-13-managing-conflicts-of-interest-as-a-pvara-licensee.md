@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Managing Conflicts of Interest as a PVARA Licensee"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-13 12:40:31 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 44 requires every licensee to identify, manage and disclose conflicts of interest and bars putting its own interests above its customers'."
@@ -63,9 +63,3 @@ Anyone building the compliance function for a Pakistani virtual asset business s
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act does not define "conflict of interest" for section 44 purposes, and I have relied on the ordinary meaning of the phrase plus analogy to the Act's Schedule I service categories to describe likely scenarios. This is my reasoning, not a statutory list — worth checking once PVARA's Regulations under section 44 are published.
-2. I have cross-referenced the AML/CFT board-approval pattern from the PVARA No Objection Certificate Regulations (a different, AML-specific instrument) as a governance analogy for conflicts policy structure. This is a structural inference, not a stated requirement of section 44 itself, and should be flagged as such if this article is cited for compliance purposes.
-3. The "Key Individual" cross-reference draws on the Act's own definition (section 3(1)(xv)) rather than anything section 44 says directly about who should own conflicts management — a reasonable inference, but an inference.
