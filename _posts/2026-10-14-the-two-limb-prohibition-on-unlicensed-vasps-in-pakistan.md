@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Two-Limb Prohibition on Unlicensed VASPs in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-14 23:01:09 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 50(1) bans providing virtual asset services in Pakistan unless a business is both incorporated locally and holds a valid PVARA licence."
@@ -65,9 +65,3 @@ Anyone advising a group on [market entry](https://www.coinconnect.site/launch-gr
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I have referenced PVARA's No Objection Certificate Regulations and the Sandbox Guidelines (separate documents, not the Act itself) to describe a narrower pre-licence AML-registered services exception. That exception is created by those instruments, not by section 50(1) directly, and the two documents actually refer to section numbers of the predecessor Virtual Assets Ordinance, 2025, rather than the Act's own numbering — worth checking this cross-reference holds cleanly given the numbering difference between the Ordinance and the Act as passed.
-2. The scenario table's middle rows are my construction to illustrate the two-limb logic, not examples drawn directly from the Act's text — flag as illustrative reasoning, not statutory example.
-3. I have not been able to confirm from the Act alone whether a sandbox participant's activity is formally exempted from section 50(1) or merely shielded by a no-action letter under section 35(3) — the Act's wording on this interaction is not fully explicit, and it is worth a second look before this piece is relied on for a live sandbox structuring question.
