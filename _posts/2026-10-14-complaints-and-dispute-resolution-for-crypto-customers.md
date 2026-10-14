@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Complaints and Dispute Resolution for Crypto Customers"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-14 11:06:57 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Section 45 requires licensees to run internal complaint procedures and lets PVARA set up an independent scheme for smaller crypto customer claims."
@@ -77,9 +77,3 @@ Building a working complaint-handling procedure into a licensee's operating mode
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 45 states no complaint-resolution deadline. My statement that a licensee "should not treat the absence of a stated deadline as licence to leave a complaint unresolved indefinitely" is my analysis drawn from section 41(1)'s general conduct duty, not a direct requirement of section 45 — worth confirming this framing holds once PVARA's Regulations appear.
-2. I have described section 45(2)'s scheme as discretionary based on the word "may." This is a plain reading of the text but is worth double-checking against any PVARA public statements on its implementation intentions, which I have not had access to.
-3. The suggested internal-procedure checklist is my construction from general conduct standards in the Act, not a summary of a stated PVARA requirement — flag as inference, not fact, if this is used for compliance sign-off.
