@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unauthorised Token Offerings and Their Consequences"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-15 10:52:34 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 51 bans conducting an unauthorised Initial Virtual Asset Offering in Pakistan, and section 54(2) sets a three-year, 25 million rupee exposure."
@@ -78,9 +78,3 @@ Given how much of the section 51 compliance path still depends on Regulations th
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. My statement that "no compliant IVAO path currently exists in practice" is an inference from the absence of published Regulations under sections 30(2) and 42(1) in the material I reviewed, not a stated position of PVARA — this could change quickly if Regulations have since been issued, and is worth a direct check before publication.
-2. I have not been able to confirm from the Act's text alone whether a platform merely hosting or listing token-sale promotional material (without being the issuer) carries liability under section 54(2) itself, as opposed to only being subject to a section 61 takedown direction. I have described the section 61 exposure as the more clearly supported route and flagged the criminal-liability point as less certain — worth a second look given how commercially significant this distinction is for platforms.
-3. The comparison table between sections 50(1)/54(1) and 51/54(2) is my own construction to illustrate the relationship between the two prohibitions; it is not a table that appears in the Act itself.
