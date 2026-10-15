@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insider Trading in Virtual Assets: What Pakistan's Act Prohibits"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-15 22:46:02 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Who counts as an insider, what counts as inside information, and the three acts section 52 of the Virtual Assets Act 2026 prohibits — explained section by section."
@@ -80,9 +80,3 @@ This also belongs in the [conflict-of-interest management](https://www.coinconne
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 3(1)(v), 3(1)(xi), 3(1)(xii), 3(1)(xvii), 20(4), 44, 52 and 54(3) — read as published. Where guidance has not yet been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act does not define "family members" for the purposes of section 3(1)(xii) — no degree of relationship (spouse, children, parents, siblings) is specified. I described it as the Act leaves it, without guessing a scope.
-2. Section 52(3)'s promised guidelines and regulations on manipulative behaviour have not been published in the source documents provided. I flagged this rather than describing any specific manipulative conduct beyond the section 3(1)(xvii) definition itself.
-3. Whether a Controller's 20% threshold under section 3(1)(v) is measured only at the moment of a trade, or on a continuing basis, is not addressed by section 52 or the definitions — worth a follow-up piece once Regulations are issued.
