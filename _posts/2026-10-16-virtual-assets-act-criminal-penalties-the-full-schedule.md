@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Virtual Assets Act Criminal Penalties: The Full Schedule"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-16 22:23:54 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Every criminal offence in section 54 of the Virtual Assets Act 2026, listed one by one with its imprisonment term and fine ceiling, plus who tries the case."
@@ -92,9 +92,3 @@ That procedural framework — investigation, warrant, prosecution and appeal —
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 3(1)(xiv), 22, 27, 30, 50, 51, 52, 54, 56, 57 and 58 — read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 54(3)(b)'s corporate fine formula gets its own dedicated deep-dive elsewhere in the queue — I kept this piece to a summary of the mechanism to avoid duplicating that analysis at length.
-2. The drafting of 54(6) ("...and the Authority may also impose administrative penalties") differs from every other subsection's "or with both" pattern. I flagged the difference rather than treating it as equivalent — worth confirming with counsel whether this is a deliberate stacking provision or a drafting inconsistency.
-3. Section 57(3)'s offence sits outside section 54 but is close enough in kind (investigation-related, smallest fine in the Act) that I included it in the schedule table for completeness — flagging in case you'd rather keep the two sections strictly separate in future pieces.
