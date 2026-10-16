@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Algorithmic Stablecoins Are Banned Under Pakistan's Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-16 10:48:50 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 53 bans undercollateralised algorithmic tokens outright. The collateralisation test, the narrow exception, and what it means for issuers in Pakistan."
@@ -64,9 +64,3 @@ Anyone structuring a token intended for the Pakistani market needs to decide, at
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 3(1)(i), 3(1)(ix), 31, 32, 35, 50 to 54, and 59 — read as published. Where guidance or Regulations have not yet been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 53 has no dedicated criminal penalty in section 54's enumerated list. I described the two general routes (section 59 administrative sanction, and section 54(1) only if the conduct is also an unlicensed service) rather than inventing a specific penalty — this mirrors the same gap flagged in our section 54 penalties piece.
-2. "Fully or adequately collateralized" is not defined within section 53. I cross-referenced the section 31 and 32 reserve standards as the closest available benchmark, but the Act does not state that these standards apply to section 53 by cross-reference — that is my inference, flagged as such in the text ("Our reading is").
-3. No Regulations permitting an algorithmic mechanism under the section 53 exception are disclosed in the source documents. If PVARA has since published such Regulations, this article needs a refresh before it goes further into distribution.
