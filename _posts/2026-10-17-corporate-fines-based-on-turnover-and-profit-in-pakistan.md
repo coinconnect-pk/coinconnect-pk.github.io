@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corporate Fines Based on Turnover and Profit in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-17 10:33:50 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 54(3)(b) fines a company three times its profit or loss avoided, or 15% of turnover. The only penalty in the Virtual Assets Act 2026 with no fixed ceiling."
@@ -63,9 +63,3 @@ It is also worth noting that section 54(3)(b) applies specifically to contravent
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 41, 44, 52, 54(1) and 54(3) — read as published. The worked figures above are illustrative constructions built to explain the mechanics of the calculation; they are not drawn from any real matter. Where the Act's own reasoning is not stated in the text, that is flagged as analysis rather than fact.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act does not define how "profit gained or loss avoided" is to be calculated or evidenced — no methodology, valuation date, or attribution standard is set out in section 54(3)(b) or elsewhere in the source documents. I described the mechanism without inventing a calculation standard.
-2. The drafting "with fine or three times the amount" (rather than "with fine of three times the amount") appears to be the same drafting point flagged in our general penalties piece — I have read it as "fine of three times" throughout, consistent with that earlier analysis.
-3. Whether the 15% turnover fallback is capped in aggregate by anything outside section 54(3)(b) itself — for example, whether section 59's twenty-five million Rupee administrative cap could apply in parallel or is superseded — is not addressed in the Act as reviewed. Worth flagging to a litigator before citing this as an absolute uncapped exposure in client-facing material.
