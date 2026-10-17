@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When Directors Are Personally Liable Under Pakistan's Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-17 21:24:37 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 55 pierces the corporate veil for consent, connivance, or neglect. What each test means, and why neglect is the widest and hardest to defend against."
@@ -64,9 +64,3 @@ This links to [governance structure](https://www.coinconnect.site/corporate-setu
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 3(1)(xv), 20, 52, 54, 55, 56, 57 and 58 — read as published. Where the Act does not define a term used in section 55, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act does not define "consent", "connivance", "neglect" or "similar officer" within section 55. I applied ordinary meaning and cross-referenced the section 3(1)(xv) Key Individual definition as the closest available guide to scope — that cross-reference is my inference, not a stated link in the Act.
-2. Whether a section 55 finding against a director triggers the corporate turnover-based fine under 54(3)(b), or only the natural-person bracket under 54(3)(a), is my reading of the ordinary consequence of the individual being a natural person — the Act does not spell this interaction out explicitly. Worth confirming with a litigator before stating it as settled in client material.
-3. No published case law or PVARA guidance on how section 55 has been or will be applied is available in the source documents. This piece is confined to the statutory text and reasonable inference from it.
