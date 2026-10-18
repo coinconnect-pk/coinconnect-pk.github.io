@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Investigation Powers and the Warrant Requirement in Pakistan"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-18 10:51:38 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 56 restricts investigation to authorised officers. Section 57 requires a court warrant before search or seizure. What that means for a VASP under review."
@@ -64,9 +64,3 @@ A licensee that receives notice of an investigation should treat the warrant req
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 9(2)(e), 54(5), 56 and 57 — read as published. Where the Act does not define a term used in these sections, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act does not define "authorised officer" anywhere in sections 56 or 57, or in the definitions clause at section 3. I described this as an administrative gap rather than guessing at a designation process — worth confirming whether PVARA has since published guidance on how officers are authorised.
-2. I drew the distinction between section 57(3) (refusal to provide information) and section 54(5) (obstructing an officer) from the plain text of both provisions. The Act does not explicitly cross-reference the two, so the comparison in the fourth section is my own reading of how the two offences sit next to each other, not a stated relationship in the Act.
-3. No PVARA guidance, rules, or published case law on how the warrant process under section 57(1) operates in practice is available in the source documents. This piece is confined to the statutory text.
