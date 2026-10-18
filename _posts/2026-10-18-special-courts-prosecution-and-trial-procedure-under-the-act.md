@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Special Courts, Prosecution and Trial Procedure Under the Act"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-18 21:31:38 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "How offences under the Virtual Assets Act reach trial: the Special Court, the special public prosecutor, and the fourteen-day cap on adjournments."
@@ -65,9 +65,3 @@ For any [virtual asset service provider](https://www.coinconnect.site/blog/coinc
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 3(1)(xxviii), 54(7), 54(8) and 58 — read as published. Where the Act does not specify a procedural detail, such as who bears adjournment costs, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Act does not name any Special Court, and I have not been able to confirm from the source documents whether the Federal Government has issued a notification under section 54(8) designating one. Worth checking the Official Gazette before stating a specific court to a client.
-2. Section 58(4) says the court "may impose such costs as it deems fit" without specifying against whom. I did not speculate on which party typically bears these costs beyond noting the ambiguity — that would need confirmation from a litigator with trial experience under this Act or its predecessor Ordinance.
-3. I described Chapter XXII-A of the Code of Criminal Procedure, 1898 as governing summary trials based on general knowledge of that Code, since the Virtual Assets Act itself does not describe the chapter's contents — only that the court must follow its procedure. Worth a second check against the Code's actual text before publishing to a legally sophisticated audience.
