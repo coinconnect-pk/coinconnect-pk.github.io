@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Five Administrative Sanctions PVARA Can Impose"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-19 11:09:16 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 59 gives PVARA reprimand, directive, financial penalty, licence action and disqualification powers — without going to court first. How each one works."
@@ -68,9 +68,3 @@ This appeal route means a section 59 sanction is not the final word simply becau
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 23, 54, 57, 58, 59, 62, 63, 64 and 65 — read as published. Where the Act does not resolve how two provisions interact, such as the two financial-penalty powers in section 59, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 59(1) does not itself set out a hearing or notice requirement before the Authority reaches its "satisfaction" that a contravention occurred. I noted the contrast with section 23's explicit written-notice-and-hearing requirement for licence actions, but I did not assume section 23's procedure automatically applies to the other four sanctions under section 59 — that would need confirmation from PVARA's procedural Regulations, which are not in the source documents.
-2. I flagged as unresolved how the Rules-prescribed maximum penalty under 59(1)(c) relates to the twenty-five-million-Rupee cap under 59(4). This is a genuine textual ambiguity in the Act as passed, not something I could resolve from the source documents — worth raising with a litigator before stating a combined maximum exposure figure to a client.
-3. No published Rules setting the maximum financial penalty under section 59(1)(c) are available in the source documents, so I could not state that figure.
