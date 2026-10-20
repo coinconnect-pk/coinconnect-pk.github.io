@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA's Emergency Powers: The Thirty-Day Suspension Explained"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-20 10:59:04 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "When PVARA can freeze assets or suspend services without a hearing under section 60 of the Virtual Assets Act 2026, and the statutory thirty-day limit."
@@ -58,10 +58,3 @@ A single incident could, in principle, touch all three. A cybersecurity breach a
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally section 60, read together with sections 3(1)(xvii), 9(1)(b), 23, 52, 59, 61, 63 and 64 — as published. Where the Act does not specify a procedure or outcome, that is stated plainly in the text above rather than inferred as settled law.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. **What happens after thirty days is not stated in the Act as passed.** This is the biggest open question in this article and I have flagged it prominently rather than guessing at renewal mechanics. If PVARA Regulations on this point exist or are issued, this article needs a direct update.
-2. **No express prior-hearing carve-out or requirement stated for section 60**, in contrast to section 23's explicit written-notice-and-hearing requirement. I inferred the absence of a hearing requirement from the silence of the text, which is a reasonable but not airtight reading — worth a second pass if we ever cite this in front of a regulator.
-3. **"Systemic threat" and "cybersecurity breach" are undefined** in the sections available to us. If PVARA Regulations define these terms elsewhere, this piece should be updated to cite the definition directly rather than leaving it open.
-4. **Timing mismatch between the 30-day order and the Tribunal's appeal timeline** is my own observed inference from reading the two provisions together, not a point the Act states explicitly. Flagging so it is understood as analysis.
