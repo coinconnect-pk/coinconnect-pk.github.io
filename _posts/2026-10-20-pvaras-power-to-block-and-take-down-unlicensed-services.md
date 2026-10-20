@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA's Power to Block and Take Down Unlicensed Services"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-20 22:58:22 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 61 lets PVARA order websites, apps and payment links blocked. Who can be directed to act, what must be in the order, and the ten-day right to object."
@@ -72,9 +72,3 @@ This makes section 61 the Act's fastest tool for limiting an unlicensed operator
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 54, 59, 60 and 61 — read as published. Where the Act does not settle a procedural detail, such as the status of a blocking order during the representation period, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 61(5) does not state whether a blocking order remains in force while the ten-day representation window and the Authority's fifteen-day response period are running. I offered a reasoned inference — that it most likely remains in place — but flagged it clearly as inference rather than stated law. This should be verified before it is stated as settled to a client whose material has been blocked.
-2. The Act does not define "reasonable grounds" for the purposes of section 61(1), and I did not import a definition from elsewhere in the Act, since none is given. This is a genuinely open evidentiary standard.
-3. No published Regulations operationalising section 61 — such as a standard form of order, or a specified response format for the Authority's fifteen-day reply — are available in the source documents.
