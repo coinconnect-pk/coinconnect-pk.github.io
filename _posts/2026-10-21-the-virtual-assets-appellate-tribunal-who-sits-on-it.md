@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Virtual Assets Appellate Tribunal: Who Sits On It"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-21 10:59:37 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 62 of the Virtual Assets Act 2026 creates the Tribunal that hears disputes against PVARA orders. Composition, qualifications and tenure of its members."
@@ -64,9 +64,3 @@ The Tribunal is the first stop for anyone contesting an order made by PVARA unde
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026, read as published, focusing on section 3(1)(xxx) and section 62(1)–(4). Where the Act defers detail to Rules the Federal Government has not yet published — including the precise appointment procedure under section 62(4) and the outer boundary of the Tribunal's jurisdiction beyond section 63 — that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Act does not define "the relevant field" for the presiding officer's ten years of advocacy experience — I read it as relevant to Tribunal matters generally (virtual assets, financial regulation, technology law) but the Act does not say so explicitly.
-- I have not found published Federal Government Rules on the section 62(4) appointment procedure — worth checking for anything issued after this analysis was prepared.
-- No word count or removal-for-cause provision appears in section 62 itself (unlike section 11(3) for the Chairperson) — I did not state one exists.
