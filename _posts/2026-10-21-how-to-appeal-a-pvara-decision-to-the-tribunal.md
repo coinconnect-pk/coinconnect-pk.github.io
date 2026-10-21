@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Appeal a PVARA Decision to the Tribunal"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-21 23:02:24 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "The thirty-day window to appeal a PVARA order, the Tribunal's three-month decision deadline, and the civil-court powers it uses to decide your case."
@@ -84,9 +84,3 @@ In practice, this means the safer working assumption is that a PVARA order conti
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 as passed by the National Assembly — principally sections 63 and 64(1) through 64(5) — read as published. Where the Act's wording differs between sections on the same point, or is silent on a consequence, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Section 63 measures the thirty-day window from the date the order was "communicated," while section 64(1) measures it from "the date of such order." These could produce different deadlines if there is a gap between an order being made and being communicated. I flagged this as an open point rather than assuming the two provisions mean the same thing — worth checking against any prescribed Rules before advising a client on a live deadline.
-2. The Act does not state what happens if the Tribunal fails to decide an appeal within the three-month deadline in section 64(2). I did not infer a consequence, since none is given.
-3. The prescribed form, particulars, documents and fees referred to in section 64(1) are not in the three source documents reviewed for this article — only the Act's cross-reference to them.
