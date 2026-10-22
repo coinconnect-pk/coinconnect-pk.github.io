@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tax Compliance Duties for VASPs and Sandbox Participants"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-22 22:58:17 +0500
 categories: [Tax & Banking]
 author: "Malik Abbas"
 description: "How the Virtual Assets Act ties licensed VASPs to the Income Tax Act, and how PVARA's sandbox separately tests applicants on tax registration and anti-evasion."
@@ -75,9 +75,3 @@ Neither document reviewed here states that a sandbox participant automatically b
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026 (principally section 66) and PVARA's Sandbox Guidelines 2026 (the Key Evaluation Criteria, Form I Part E, and Annexure-B), read as published. Where the two documents use different language for what is, in substance, a similar expectation, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. I have deliberately not stated that section 66 of the Act applies to sandbox participants who are not yet licensed — the Guidelines create their own separate tax undertaking for the sandbox period, and I did not want to blur the two sources of obligation. Worth confirming this reading is correct before it goes out under CoinConnect's name.
-2. The Sandbox Guidelines' Key Evaluation Criteria on tax compliance is conditional on the applicant being "based in Pakistan." The Guidelines do not spell out what tax-law demonstration, if any, applies to an applicant not yet based in Pakistan at the point of application — only that incorporation and tax registration follow once approval is granted.
-3. Neither the Act nor the Sandbox Guidelines, as provided, define "applicable tax laws in Pakistan" in the Guidelines' evaluation criterion — I have not assumed this means only the Income Tax Act, 2001, since the Guidelines do not name a specific statute the way section 66 of the Act does.
