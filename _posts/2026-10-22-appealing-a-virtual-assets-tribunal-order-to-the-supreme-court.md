@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Appealing a Virtual Assets Tribunal Order to the Supreme Court"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-22 11:05:53 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Section 65 of the Virtual Assets Act 2026 gives a further thirty-day right of appeal to the Supreme Court after the Virtual Assets Appellate Tribunal rules."
@@ -64,9 +64,3 @@ Chapter 10 of the Act gives PVARA a wide enforcement toolkit — criminal offenc
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act 2026, read as published, focusing on section 65 and its relationship to sections 62 to 64 and Chapter 10. Where the Act defers procedural detail to Rules not reproduced in its text, or is silent on a point such as the grounds of appeal available at the Supreme Court stage, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- Section 65 is a single sentence in the Act with almost all procedural detail deferred to Rules — I built the surrounding analysis from context in sections 62–64 and Chapter 10 rather than any additional statutory text on section 65 itself, since none exists in the source document.
-- I flagged the difference in trigger wording between section 63 ("communicated") and section 65 ("date of such order") as a possible practical gap — worth a lawyer's eye if a client ever faces a Tribunal order that is delayed in being communicated.
-- I did not state whether the Supreme Court appeal is limited to questions of law, since the Act does not say so — this may be worth checking against the Supreme Court's own rules of procedure for a future update.
