@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Six Ongoing Obligations After an NOC"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-23 22:52:26 +0500
 categories: [Compliance]
 author: "Malik Abbas"
 description: "Regulation 18.1 of the PVARA NOC Regulations sets six duties an NOC holder carries after registration — AML compliance, notification, Form A6, audits and more."
@@ -63,8 +63,3 @@ The six duties in Regulation 18.1 apply to an NOC holder that has not yet been g
 This analysis was prepared by the CoinConnect research desk from Regulations 7.3, 8A, 11.4–11.6, 15.3(c), 17.1(a)(iv), 18.1 and 19.1(e) of the PVARA No Objection Certificate Regulations 2025, Form A6 in Annex A, and Sections 20(4) and 22 of the Virtual Assets Act 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. Regulation 18.1(f) references "the time period required by the Authority" without stating that period directly in Part 6 — I've cross-referenced it to the three-month filing deadline in Regulation 15.3(c) and the condition repeated in 17.1(a)(iv), which is our best reading of what "the time period" means, but PVARA could in principle set a different or case-specific deadline in an individual NOC decision letter. Worth confirming against an actual NOC grant letter if one is available.
-2. I've distinguished Regulation 18.1's NOC-stage obligations from Section 22's full-licensee obligations as two tiers of the same framework — that structural read is not stated explicitly in either document, so flagging it as our synthesis rather than a textual statement.
