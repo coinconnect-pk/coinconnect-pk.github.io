@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA's Sixty-Day Window to Decide an NOC Application"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-23 11:00:50 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Regulation 17 of the NOC Regulations 2025 gives PVARA sixty calendar days to decide an NOC application. What that decision authorises, and what refusal requires."
@@ -63,9 +63,3 @@ The NOC decision is the gateway, not the destination. Once granted, regulation 1
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025, principally regulation 17.1 through 17.3, read alongside regulations 2.2, 2.3, 15.3, 15.4, 16.1 to 16.3 and 18.1(f) for context, as published. Where the Regulations do not state an outer time limit for the assessment stage that precedes the sixty-day decision window, or do not set out a separate reconsideration process for a refused application, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Regulations set the sixty-day figure as running "following assessment," not from the date of first submission under regulation 15.1. I have deliberately not stated a total end-to-end timeline, since the assessment stage itself carries no stated limit in this document — worth flagging to prospective applicants who ask "how long" the whole process takes, since the honest answer is that only the post-assessment decision phase is time-bound.
-- The Regulations use "the Ordinance" throughout (e.g. section 15, section 17) rather than the Virtual Assets Act 2026's own section numbers. I have preserved that wording exactly as it appears in the NOC Regulations rather than assuming a one-to-one match to the Act's current numbering, since the two documents were not confirmed to use identical section numbers.
-- No provision in Part 5 of the NOC Regulations addresses reconsideration or resubmission after a refusal — I did not assume one exists.
