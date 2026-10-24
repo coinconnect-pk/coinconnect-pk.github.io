@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Eight Statutory Forms in Annex A of the NOC Regulations"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-24 21:34:56 +0500
 categories: [Licensing]
 author: "Malik Abbas"
 description: "Annex A of the PVARA NOC Regulations lists eight statutory forms, A1 through A8, covering application, disclosure, fitness, and ongoing reporting duties."
@@ -67,8 +67,3 @@ Because it tells an applicant when the form is triggered and what breach it conn
 This analysis was prepared by the CoinConnect research desk from the PVARA No Objection Certificate Regulations 2025, Annex A and the preamble text of each of the eight forms, read alongside regulations 5.1, 6.3, 6.4, 7.2, 8, 11, 14.1, 15.1 and 18.1(c) for context, as published. Where a form's preamble does not state a specific "issued under" regulation number — Forms A7 and A8 — that is stated in the text above rather than inferred.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- Forms A7 and A8 do not carry a stated "issued under Regulation X" citation in the source document, unlike A1 through A6. I did not guess at a regulation number for either — worth checking with PVARA directly if a client needs a precise citation for A7 or A8.
-- Form A1's own preamble cites "Regulation 15.1 of the No Objection Certificate Registration Regulations 2025," using a slightly different title ("Registration Regulations" rather than "Regulations") than the cover page of the document ("No Objection Certificate Regulations 2025"). I preserved the wording exactly as it appears in each form rather than normalising it, since the source is inconsistent on this point throughout.
