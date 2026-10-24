@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When PVARA Can Revoke Your NOC"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-24 10:47:43 +0500
 categories: [Enforcement]
 author: "Malik Abbas"
 description: "Regulation 19 of the PVARA NOC Regulations sets five grounds for revoking an NOC and a proportionality test — what each ground covers and what triggers it."
@@ -60,8 +60,3 @@ The NOC Regulations do not set out a specific wind-down procedure for a revoked 
 This analysis was prepared by the CoinConnect research desk from Regulations 2.2, 6.3, 8.1, 14, 18.1(d) and 19.1–19.2 of the PVARA No Objection Certificate Regulations 2025, Form A1's declaration section, and Sections 20(4) and 23 of the Virtual Assets Act 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The line between a general AML/CFT "breach" (ground b) and a "systemic or material" failure (ground d) is not defined in the Regulations. I've offered a reading tied to Regulation 8.1's proportionality standard, but this is our inference, not a stated rule — worth revisiting if PVARA publishes enforcement guidance that draws the line differently.
-2. I've stated that NOC revocation likely triggers an immediate stop to AML-Registered Services by analogy to Section 23(2)'s treatment of full licence revocation, since the NOC Regulations do not set out an explicit wind-down mechanic of their own. This is a reasonable inference from Regulation 2.2's "single package" framing, but it is not a direct textual statement — flagging in case PVARA has unpublished internal procedure on this point.
