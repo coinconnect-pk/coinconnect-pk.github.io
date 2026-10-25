@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Makes a Sandbox Application Fail"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-25 22:03:19 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "The named negative indicators in the PVARA Sandbox Guidelines, the two-resubmission limit on incomplete applications, and how approval can later be withdrawn."
@@ -71,9 +71,3 @@ The Guidelines do not draw this connection explicitly, but the substance overlap
 This analysis was prepared by the CoinConnect research desk from the PVARA Sandbox Guidelines 2026, principally the Annexure-A self-assessment checklist, the Application submission process section, and the Suspension or revocation of approval section, read as published. Where the Guidelines do not rank the negative indicators by frequency or state a consequence for a second failed resubmission, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Sandbox Guidelines do not number sections in the body text the way the table of contents does, so I referred to sections by heading name ("Application submission process", "Suspension or revocation of approval") rather than by number, consistent with the companion self-assessment article — worth checking the published Guidelines PDF for section numbers if the site needs numeric citations.
-- The Guidelines do not state what happens after an application is returned incomplete a second time (i.e. after both permitted resubmissions are used). I did not guess at a consequence — flagging this as a genuine gap in the published text.
-- The "connection" I drew between mid-testing suspension/withdrawal and the original Annexure-A indicators in the final section is my own synthesis, not a cross-reference the Guidelines state directly. Marked as "in our reading" rather than as fact.
