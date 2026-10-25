@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sandbox Self-Assessment: Eight Questions to Answer First"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-25 11:03:41 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "Annexure-A of the PVARA Sandbox Guidelines sets an eight-question self-assessment with named positive and negative indicators — worked through question by question."
@@ -67,8 +67,3 @@ The overlap is not a coincidence. Annexure-A is best read as a self-scored previ
 This analysis was prepared by the CoinConnect research desk from Annexure-A and the Key Evaluation Criteria and Application submission process sections of the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-1. The Sandbox Guidelines do not number their sections in the body text the way the TOC does, so I have referred to sections by heading name ("Key Evaluation Criteria", "Application submission process") rather than by number throughout — worth checking the published Guidelines PDF for section numbers if the site needs to cite them numerically.
-2. The mapping table between Annexure-A's eight questions and the Key Evaluation Criteria headings is our own synthesis for readability — the Guidelines do not present this cross-reference explicitly, though the substantive overlap in wording between the two sections is directly sourced.
