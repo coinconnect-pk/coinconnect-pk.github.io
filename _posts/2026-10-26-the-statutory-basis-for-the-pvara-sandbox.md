@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Statutory Basis for the PVARA Sandbox"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-26 11:08:29 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "Where the PVARA sandbox comes from in law: section 35 of the Virtual Assets Act 2026, the Sandbox Guidelines 2026, and the seven objectives behind them."
@@ -64,8 +64,3 @@ It is also worth being precise about what "guidance, no-objection statements or 
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The section-74 savings-clause reading (that Ordinance ss.42-45 correspond to Act s.35) is the same interpretive judgement used in article 017. I have repeated it here because this article is specifically about the statutory basis, but flagged again that it is our reading, not a stated correspondence in the Act.
-- No new facts outside the two source documents were used.
