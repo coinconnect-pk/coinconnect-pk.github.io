@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sandbox Vocabulary: Applicant, Participant, Exit, No-Action Relief"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-27 11:14:01 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "The nine defined terms in PVARA's Sandbox Guidelines 2026, explained one by one, and why the Applicant-to-Participant transition is the pivotal moment."
@@ -70,8 +70,3 @@ For a firm preparing to apply, this has a practical implication: the readiness d
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Guidelines list nine defined terms; this article covers all of them but leads on the four named in the title. No facts outside the Act and the Sandbox Guidelines were used.
-- Same Ordinance-to-Act cross-reference caveat repeated as in 150 and 017 — worth checking whether we want a single canonical version of this note to link to instead of restating it each time.
