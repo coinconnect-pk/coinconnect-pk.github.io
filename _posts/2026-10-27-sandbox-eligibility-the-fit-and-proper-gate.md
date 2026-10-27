@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sandbox Eligibility: The Fit and Proper Gate"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-27 23:41:19 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "The first eligibility limb for the PVARA sandbox: the three disqualifying categories for directors, sponsor shareholders, controllers and key management."
@@ -63,8 +63,3 @@ The sandbox's fit and proper limb reads as a narrower, application-stage version
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Sandbox Guidelines do not define "key management" or set an assessment procedure for the fit and proper limb; I have cross-referenced the Act's Key Individual concept and the NOC Regulations' Form A3 as the closest analogues, clearly marked as inference rather than stated fact. Worth your judgement on whether that inference is safe to publish as-is.
-- No client, exchange, or CoinConnect engagement referenced.
