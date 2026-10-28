@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Operational Readiness for the Sandbox"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-28 11:49:47 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "What PVARA's Sandbox Guidelines mean by operational readiness: the testing plan, governance structure, risk assessment and scalability an applicant must show."
@@ -71,8 +71,3 @@ Financial strength and tax law compliance are assessed as separate criteria alon
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026 and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- I treated "operational readiness" (second limb) and "comprehensive regulatory and risk assessment" (third limb) as the two limbs this article covers, per the brief. They are drafted as two separate bullets in the Guidelines even though the brief describes them together — I kept them clearly separated in the headings so the distinction isn't lost.
-- No facts outside the Act and the Sandbox Guidelines were used.
