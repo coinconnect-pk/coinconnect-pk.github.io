@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Screening and Assessment of Sandbox Applications"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-29 23:57:20 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "The two stages a PVARA sandbox application passes through after filing, when another regulator may be consulted, and what the assessment draws on."
@@ -65,9 +65,3 @@ The practical consequence is that a strong application has to be built twice —
 This analysis was prepared by the CoinConnect research desk from the Assessment Phase and Assessment will cover sections of the PVARA Sandbox Guidelines 2026, read as published. Where the Guidelines leave a term undefined or a mechanism undescribed — including which regulators may be consulted and how — that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Guidelines switch between "Assessment Phase" and "Evaluation Phase" without formally reconciling the two terms. I read them as the same stage under two labels, marked clearly as "our reading" rather than as a stated fact — worth confirming with PVARA directly if the site needs a firmer answer.
-- The Guidelines do not name which other regulators might be consulted under the "input from relevant regulator" power, or describe the consultation mechanics. I deliberately did not guess at names (SBP, SECP, etc.) as anything other than illustrative examples in the final section.
-- Sections are referred to by heading name rather than number, consistent with the rest of this batch.
