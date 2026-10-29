@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Submit a Sandbox Application to PVARA"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-29 12:01:09 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "How to submit a PVARA sandbox application: Form I's six sections, the fee the Authority may charge, the mandatory self-assessment, and the resubmission limit."
@@ -69,9 +69,3 @@ One further point on sequencing. The work that slows a filing down is rarely the
 This analysis was prepared by the CoinConnect research desk from the Application submission process section and the Form I overview, sections A through F, of the PVARA Sandbox Guidelines 2026, read as published. Where a figure or consequence is not stated in the Guidelines, that is noted in the text above rather than assumed.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Sandbox Guidelines do not number sections in the body text the way the table of contents does, so I referred to sections by heading name rather than by number, consistent with the earlier sandbox articles in this batch.
-- The Guidelines do not state an application fee amount or what happens after a second incomplete resubmission — both are flagged in the text as genuine gaps, not filled in.
-- The Form I table's "Attachments required" column is a summary of the Y/N markers against each subsection in the source document; I grouped subsections together for table readability rather than listing all eighteen individually.
