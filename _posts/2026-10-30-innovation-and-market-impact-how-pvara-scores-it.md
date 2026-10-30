@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Innovation and Market Impact: How PVARA Scores It"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-30 23:37:28 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "PVARA's Innovation and Market Impact test for sandbox applicants, broken into its four named factors: novelty, technology, differentiation and inclusion."
@@ -58,9 +58,3 @@ A final observation. These four factors reward applicants who can describe what 
 This analysis was prepared by the CoinConnect research desk from the Innovation and Market Impact heading under the Key Evaluation Criteria section of the PVARA Sandbox Guidelines 2026, read as published. Where the source wording contains an apparent drafting inconsistency, that is noted directly in the text above rather than silently corrected.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Guidelines' own text for the "Inclusion" factor reads "A novation that helps transitions a largely informal..." — this looks like a drafting slip for "innovation" and a grammar slip around "helps transitions." I quoted it exactly as published and flagged it in the body rather than silently correcting the source document.
-- The Guidelines do not state a weighting or scoring formula across the four Innovation and Market Impact factors, or across the five Key Evaluation Criteria headings generally. I did not infer relative importance from list order.
-- Sections referred to by heading name, not number, consistent with the rest of this batch.
