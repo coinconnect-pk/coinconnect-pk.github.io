@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sixty Working Day Sandbox Evaluation Timeline"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-30 12:03:49 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "The sixty-working-day clock on PVARA sandbox evaluations, when it starts, the Authority's extension power, and how it differs from the NOC's own deadline."
@@ -63,9 +63,3 @@ Neither habit shortens the period. Both shorten the time between a decision and 
 This analysis was prepared by the CoinConnect research desk from the Timeline section and the Key Evaluation Criteria section of the PVARA Sandbox Guidelines 2026, and, for the contrast with the NOC process, the decision-timeline provision of the PVARA No Objection Certificate Regulations, both read as published. Where a term such as "working day" or "reasonable cause" is not defined in the published text, that is stated above rather than assumed.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Guidelines do not define "working day" (whether it excludes weekends, public holidays, or PVARA-specific closures) or "reasonable cause" for an extension. Both are flagged as genuine gaps rather than filled in with an assumption.
-- I distinguished the sandbox's sixty-working-day Timeline from the NOC Regulations' own sixty-calendar-day decision window (regulation 17.1 of the NOC Regulations) since they are easy to conflate — worth double-checking this contrast reads clearly, since it is the central point of the "Is this the same sixty-day window" section.
-- The Guidelines do not describe a notice-and-reasons process for unsuccessful sandbox applicants in the same section as the Letter of Approval outcome; I did not assume one exists.
