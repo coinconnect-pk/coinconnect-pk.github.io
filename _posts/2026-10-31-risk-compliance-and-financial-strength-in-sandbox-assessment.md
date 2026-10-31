@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Risk, Compliance and Financial Strength in Sandbox Assessment"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-31 11:57:18 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "The four remaining Key Evaluation Criteria for a PVARA sandbox application: risk and compliance, feasibility and exit, financial strength, and tax law."
@@ -63,9 +63,3 @@ Prepare each heading as a separate deliverable rather than one combined "complia
 This analysis was prepared by the CoinConnect research desk from the Risk Management and Compliance, Feasibility and Exit Strategy, Financial Strength, and Tax Law Compliance headings under the Key Evaluation Criteria section of the PVARA Sandbox Guidelines 2026, read as published. Where the Guidelines leave a trigger or threshold undefined — including the Shariah consultation trigger and the financial-capacity standard — that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Guidelines do not define when Shariah advisor consultation is "applicable," or set a financial-capacity threshold under Financial Strength. Both are flagged as genuine gaps rather than filled in.
-- The Tax Law Compliance heading is phrased conditionally ("if based in Pakistan"); I read this as narrowing the up-front test to Pakistan-based applicants specifically, and said so directly, rather than assuming it silently extends to foreign applicants.
-- Sections referred to by heading name, not number, consistent with the rest of this batch.
