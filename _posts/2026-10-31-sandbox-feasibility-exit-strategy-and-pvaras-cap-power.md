@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sandbox Feasibility, Exit Strategy and PVARA's Cap Power"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-10-31 22:43:49 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "How PVARA assesses feasibility and exit strategy for sandbox applicants, and its standing power to cap transaction volumes, user numbers and exposure."
@@ -74,9 +74,3 @@ The exit plan filed at application stage is not the last word on how a test actu
 This analysis was prepared by the CoinConnect research desk from the Feasibility and Exit Strategy heading under Key Evaluation Criteria, the Eligibility Criteria section, Form I (Section C — Exit Strategy & Scaling), and Annexure-B of the PVARA Sandbox Guidelines 2026, read as published. Where the Guidelines leave a threshold or default undefined — including the exact volume or user caps the Authority may impose — that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- I read Form I's "Exit Strategy & Scaling" section as the elaboration of the general "sandbox exit plan" phrase used in the Eligibility Criteria — the Guidelines never explicitly cross-reference the two, so this connection is my inference, though a reasonable one given both sit under the same subject.
-- The Guidelines do not state a default or maximum cap on transaction volumes, users or exposure — only that the Authority may impose one case-by-case. Flagged as a genuine gap, not filled in.
-- Sections referred to by heading name, not number, consistent with the rest of this batch.
