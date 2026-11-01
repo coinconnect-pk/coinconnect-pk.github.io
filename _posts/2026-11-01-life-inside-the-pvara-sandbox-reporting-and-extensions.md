@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Life Inside the PVARA Sandbox: Reporting and Extensions"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-01 12:29:19 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "What a PVARA sandbox participant must report during testing, how to request a delayed start, and the duty to flag anything that threatens the test."
@@ -70,9 +70,3 @@ No. Under the prompt-notification duty, the Authority — not the participant �
 This analysis was prepared by the CoinConnect research desk from the Testing/Experimentation section and Annexure-B of the PVARA Sandbox Guidelines 2026, read as published. Where the Guidelines do not specify a fixed reporting template, frequency or response timeline — leaving these to case-by-case agreement — that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Guidelines do not define "promptly" for the unforeseen-circumstances notification duty, unlike the fixed one-hour and 48-hour incident deadlines in Annexure-B (covered separately). I have not supplied a number where the text gives none.
-- I have treated the extension-request rule as applying specifically to delaying the *commencement* of testing, based on its wording ("extension in time for commencement of testing period"), and kept it distinct from the broader prompt-notification duty, which covers both commencement and completion. Worth double-checking this reading against any PVARA guidance issued after these Guidelines.
-- Sections referred to by heading name, not number, consistent with the rest of this batch.
