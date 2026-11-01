@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The One-Hour and 48-Hour Incident Rules in PVARA's Sandbox"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-01 23:25:39 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "The two incident-notification deadlines every PVARA sandbox participant signs up to, what each report must contain, and how they differ."
@@ -73,9 +73,3 @@ They run alongside each other rather than replacing one another, for a participa
 This analysis was prepared by the CoinConnect research desk from Annexure-B (the format of undertaking) and the Testing/Experimentation section of the PVARA Sandbox Guidelines 2026, together with the sanctions-screening provisions of the PVARA No Objection Certificate Regulations 2025, read as published. Where the Guidelines leave a term such as "material" undefined, or do not state a fixed Authority response to an incident report, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- "Material" is undefined for the one-hour trigger. I described a reasonable operating standard rather than inventing a threshold the text does not set — worth flagging to any reader who wants a bright-line test.
-- I have not asserted that filing an incident report automatically triggers suspension; the Guidelines connect suspension to a broader "failure to adhere to agreed terms" standard, and I kept the two concepts related but distinct rather than merging them.
-- Sections referred to by heading name, not number, consistent with the rest of this batch.
