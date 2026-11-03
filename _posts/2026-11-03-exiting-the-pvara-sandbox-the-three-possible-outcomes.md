@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exiting the PVARA Sandbox: The Three Possible Outcomes"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-03 12:53:33 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "What Exit means under PVARA's Sandbox Guidelines: transition to full licensing, discontinuation, or other steps the Authority directs."
@@ -64,9 +64,3 @@ The Guidelines' Definitions section attributes the "other steps" branch of Exit 
 This analysis was prepared by the CoinConnect research desk from the Definitions section, the Exit Stage section, the No-Action Relief section and Annexure-B of the PVARA Sandbox Guidelines 2026, together with the Virtual Assets Act, 2026 as passed by the National Assembly, read as published. Where the Guidelines' statutory citation appears to predate the Act's renumbering and no correspondence table is available, that is stated directly in the text above rather than resolved by assumption.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- This is the clearest Ordinance/Act numbering mismatch I have found in this batch: the Guidelines cite "Section 44(3) of the Ordinance" for the "other steps" branch of Exit, but the Virtual Assets Act, 2026 text I have access to does not carry a matching section 44, and its sandbox provision is a single section (35) rather than the 42–45 range the Guidelines cite. I have flagged this rather than guessed at a mapping — worth checking whether PVARA has issued updated Sandbox Guidelines referencing the Act directly.
-- I have not speculated on what "other steps as directed by the Authority" might concretely mean beyond what the Guidelines' own powers elsewhere suggest, and marked that connection explicitly as a reading, not a stated rule.
-- Sections referred to by heading name, not number, consistent with the rest of this batch, except where quoting the Guidelines' own numbered statutory citation directly.
