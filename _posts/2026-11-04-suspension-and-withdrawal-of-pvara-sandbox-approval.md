@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suspension and Withdrawal of PVARA Sandbox Approval"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-04 12:28:03 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "PVARA can pause sandbox testing pending clarification, or withdraw approval by public notice for consumer detriment. How the two powers differ under the Guidelines."
@@ -80,9 +80,3 @@ Practical steps that follow from the text:
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Guidelines give no minimum/maximum suspension duration, no defined response procedure and no stated right to be heard before suspension. I have flagged this as a gap rather than guessing at a process — worth confirming directly with PVARA if a client ever faces this in practice.
-- "Any other serious matter" in the withdrawal trigger is undefined. I deliberately did not speculate on examples beyond consumer detriment, to avoid inventing categories PVARA has not published.
-- I distinguished section 13 (suspension/withdrawal) from the Annexure-B termination clause because they are genuinely different powers with different notice periods and thresholds — worth checking this reads clearly to someone who has not seen article 017 (the general sandbox walkthrough) first, since this piece assumes some of that context.
