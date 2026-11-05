@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suspension and Withdrawal of PVARA Sandbox Approval"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-05 12:53:15 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "How PVARA can suspend or withdraw sandbox approval mid-test: the two-tier power, the consumer-detriment trigger, and what a public notice means for a participant."
@@ -88,9 +88,3 @@ None of this substitutes for [regulatory and licensing](https://www.coinconnect.
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- Section 13 of the Sandbox Guidelines does not define "serious discrepancy" or set a hearing requirement before suspension — I've flagged both as genuine gaps rather than guessing at a threshold. Worth confirming directly with PVARA contacts if this ever becomes live for a client.
-- I noted the Act's Tribunal appeal route (s.62–63) as untested against sandbox withdrawals specifically, since the Guidelines don't say a withdrawal is an appealable "order." That's a judgement call worth a second look if it ever matters in practice.
-- No factual claims here rely on anything outside the three source documents; the Ordinance-vs-Act section-numbering issue from article 017 wasn't directly relevant here since section 13 of the Guidelines doesn't carry a cross-reference number to reconcile.
