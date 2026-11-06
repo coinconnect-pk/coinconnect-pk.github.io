@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No-Action Relief: What It Does and Does Not Give You"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-06 12:53:53 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "A PVARA no-action letter means the Authority will not enforce against specified conduct during testing. It is not immunity, and it can be withdrawn at any time."
@@ -66,9 +66,3 @@ An applicant should ask PVARA to name the specific conduct it wants covered as p
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Act-vs-Guidelines section numbering mismatch here is the same issue I flagged in article 017, but the specific detail differs: the Guidelines cite "Section 45 of the Ordinance" for no-action relief specifically, while the Act's actual section 45 is complaint-handling — a different subject entirely, not just a renumbered version of the same provision. I called this out explicitly rather than softening it, since it is more pointed than a simple renumbering.
-- I did not name SBP, SECP, FBR or FMU's specific enforcement powers beyond stating they are unaffected, because the source documents don't detail those other regulators' powers and I did not want to reconstruct them from memory.
-- No specified minimum notice period exists in the text for PVARA withdrawing a no-action letter early — confirmed this is a genuine gap, not an omission on my part.
