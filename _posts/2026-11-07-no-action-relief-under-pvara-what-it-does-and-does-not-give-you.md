@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No-Action Relief Under PVARA: What It Does and Does Not Give You"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-07 12:04:30 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "What a PVARA no-action letter actually covers, its statutory basis, and why the Sandbox Guidelines say plainly that it is not legal immunity."
@@ -77,9 +77,3 @@ Anyone weighing whether a no-action letter changes their [banking](https://www.c
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- Same Ordinance-vs-Act section-numbering issue as article 017 (s.45 of the lapsed Ordinance vs s.35(3) of the Act) — I've handled it the same way, via the s.74 savings clause, for consistency across the site.
-- The claim that a no-action letter's withdrawal and a sandbox approval's suspension/withdrawal are independent levers is my reading of the Guidelines' structure (separate sections, separate grounds stated), not something the text says explicitly. Flagging it as inference, not fact.
-- No monetary or timeline specifics were available to add beyond what's in the text — the Guidelines genuinely don't set a minimum notice period for withdrawing a no-action letter, which I've stated as a gap rather than guessed at.
