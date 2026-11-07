@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA Sandbox Form I Part A: Describing Your Innovation"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-07 23:02:02 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "A section-by-section guide to Form I Part A of the PVARA Sandbox Guidelines: the five sub-sections, required formats, and what each attachment must cover."
@@ -92,9 +92,3 @@ Before submission, confirm each of the five sub-sections has its required attach
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- All five Part A sub-sections plus their formats and attachment flags are quoted directly from the Guidelines' own table — no interpretation needed there, low risk of drift.
-- The Annexure-A cross-reference on cybersecurity negative indicators is accurate to the source text; worth double-checking this reads naturally against article 017 and any other Form I pieces already published, since there's real overlap in subject matter across this batch.
-- No numeric thresholds (fees, minimum audit scope, etc.) are stated in the Guidelines for Part A, so none are invented here — flagged generally rather than specifically where the Guidelines are silent.
