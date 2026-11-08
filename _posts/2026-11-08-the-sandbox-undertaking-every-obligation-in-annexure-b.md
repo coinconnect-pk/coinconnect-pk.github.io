@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Sandbox Undertaking: Every Obligation in Annexure-B"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-08 23:20:37 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "Annexure-B of the PVARA sandbox undertaking sets out over 20 obligations, from a one-hour incident clock to seven-year record retention. A full breakdown."
@@ -93,9 +93,3 @@ The undertaking also requires consent for PVARA to disclose non-identifying info
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- I did not speculate on a minimum sum insured for the fraud/gross-negligence indemnity insurance, since Annexure-B leaves this entirely to PVARA's discretion and the source text gives no figure — worth checking with PVARA directly if a client asks what cover to actually buy.
-- I cross-referenced this to the section 13 suspension/withdrawal power (covered in article 165) to make clear the two are different legal mechanisms with different thresholds — this pairs naturally with that article once both are live; consider linking them to each other manually after publication if add_links.py doesn't catch the connection.
-- The undertaking names "Section 6 of the Virtual Assets Ordinance, 2025" for the Authority's own establishment — I quoted this verbatim from Annexure-B rather than reconciling it against the Act's own establishment section, since Annexure-B is reproduced as a fixed legal form and altering its quoted text would misrepresent the document.
