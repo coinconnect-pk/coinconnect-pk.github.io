@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA Sandbox Form I Part A: Describing Your Innovation"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-08 12:16:39 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "Form I Part A of the PVARA sandbox application has five sections covering your innovation, technology stack, cybersecurity, legal environment and risk management."
@@ -72,8 +72,3 @@ Because Part A is scored against this checklist directly, the practical discipli
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The Guidelines do not specify a word or page limit for sections 2–5 beyond "bullet points/table" formats — I did not invent lengths for those, only reused the ~500–1,000 word figure the Guidelines state explicitly for section 1.
-- I linked "Form I Part B" and "blockchain/DLT architecture" both to the existing Form I walkthrough article (017/its published slug) since we don't yet have a dedicated Part B article live — once 169 (Form I Part B) is queued and published, worth checking whether add_links.py or a manual pass should repoint that anchor to the more specific piece.
