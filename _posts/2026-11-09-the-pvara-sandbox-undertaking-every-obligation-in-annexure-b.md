@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The PVARA Sandbox Undertaking: Every Obligation in Annexure-B"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-09 12:54:30 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "A walkthrough of the Annexure-B sandbox undertaking: insurance, indemnity, records access, the 15-day termination right and every clause participants sign."
@@ -104,9 +104,3 @@ The undertaking also confirms that PVARA "is under no obligation to amend regula
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- The undertaking's data-confidentiality clause names the lapsed "Virtual Assets Ordinance 2025" directly — I've treated this the same way as article 017 treats the Guidelines' own Ordinance cross-references, via the s.74 savings clause, for consistency. Worth a single sweep across all sandbox articles at some point to make sure that framing reads identically everywhere.
-- I did not invent a minimum insurance coverage figure — the undertaking genuinely leaves this open, which is flagged clearly rather than filled in with a plausible-sounding number.
-- I did not attempt to reconcile the undertaking's termination clause against section 13's suspension/withdrawal power beyond noting they're separate and not identically worded — a full comparison of the two would need PVARA's own procedural guidance, which the source documents don't provide.
