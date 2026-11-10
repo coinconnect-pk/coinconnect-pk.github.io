@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA Sandbox Form I Part B: Proving You Are Ready to Test"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-10 13:22:50 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "What Form I Part B of the PVARA Sandbox Guidelines requires: technical, integration, operational-financial and consumer-safety evidence, section by section."
@@ -81,9 +81,3 @@ Cross-check Part B against the Annexure-A self-assessment checklist before submi
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- "Virtual Asset Standards" is not defined anywhere in the Sandbox Guidelines text — I've said so directly and offered a reasoned reading (tying it to the Act's ART/FRT definitions and Schedule I) rather than presenting it as settled. Worth a second look if PVARA ever issues separate guidance defining that term.
-- All five Part B sub-sections, their exact formats and attachment flags are quoted verbatim from the Guidelines' table — this is the section least likely to need correction.
-- Some thematic overlap with articles 167 (Part A) and 017 (general sandbox walkthrough) in this batch is expected given they're all drawn from the same Guidelines document — flagging in case you want a link/cross-reference pass across the sandbox cluster once all five are live.
