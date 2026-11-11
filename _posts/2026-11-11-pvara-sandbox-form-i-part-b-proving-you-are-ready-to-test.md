@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PVARA Sandbox Form I Part B: Proving You Are Ready to Test"
-date: 2026-01-01 09:00:00 +0500
+date: 2026-11-11 12:43:15 +0500
 categories: [Sandbox]
 author: "Malik Abbas"
 description: "Form I Part B asks PVARA sandbox applicants to prove technical readiness, working partnerships, funded operations and consumer safety before live testing starts."
@@ -70,9 +70,3 @@ Applicants preparing a submission through a [regulatory and licensing](https://w
 This analysis was prepared by the CoinConnect research desk from the Virtual Assets Act, 2026, the PVARA No Objection Certificate Regulations and the PVARA Sandbox Guidelines 2026, read as published. Where practice is not yet settled or guidance has not been issued, that is stated in the text above.
 
 Regulatory positions change and specific requirements should be verified against the current position published by the relevant authority before you act on them. This is information and analysis, not legal advice, and it does not create an advisory relationship. Take professional advice on your own circumstances.
-
-## Flags for Malik
-
-- "Virtual Asset Standards" is referenced in the Guidelines without a definition or cross-reference to a specific standards document. I explicitly said we don't know what this points to rather than guessing (e.g. assuming it means a specific international standard) — worth checking whether PVARA has published something separately titled this.
-- I caught myself twice in this batch trying to link to "pvara-sandbox-2026-eligibility-application-and-exit" as if it were a live main-site URL — it isn't in linkmap.yml, it's just the slug of our own unpublished article 017 sitting in _queue. Removed those links and left plain text instead. Worth a manual link-up between 017 and this batch once 017 is actually published.
-- This article and 167 (Form I Part A) are a natural pair; once both are live, worth checking they cross-link to each other by name rather than both linking outward to the general Form I walkthrough page.
